@@ -77,30 +77,27 @@ ReAimah: ReAimah is an AI-driven digital marketing platform that analyzes consum
 Turbo High: Turbo High is an AI-driven legal research and documentation platform that helps legal professionals streamline workflows with accurate insights and recommendations.
 
 Contact Information:
-- Email: office@databiqs.com
+- Email: contact@databiqs.com
 - Phone: +1 (555) 123-4567
-- Address: 1234 Innovation Blvd, Suite 100, San Francisco, CA 94107, USA
 - Social Media: 
-  - LinkedIn: https://www.linkedin.com/company/databiqs
-  - Twitter: https://twitter.com/databiqs
-  - Facebook: https://www.facebook.com/databiqs
+https://www.linkedin.com/company/databiqs
+https://www.instagram.com/databiqs/
 
 Databiqs offers world-class support and communication, ensuring that businesses get the attention and expertise they need to succeed. Whether you're a startup or an enterprise, we help you build and scale technology that meets your needs.
 
 Team and Employee Information:
-- Jaffar Ali Chaudhary, CEO
-- Jawad Afzal, Chief Technology Officer
+- Jaffar Ali Chaudhary, Founder & CEO
 - Maudood Fareed, Team Lead
 - Alishba Aslam, HR Manager
-- Shamim, Senior UI UX Designer
+- Shamaim Ali Rizvi, Senior UI UX Designer
 - Wali Ullah, Business Development Executive
-- Abdullah Anjum, Marketing Manager
-- Maarij Ali,Technical Project Manager & AI Developer
-- Irum Shahzadi, Software Engineer
-- Ali Raza, Software Engineer
-- Saad Bin Abi Usama, Software Engineer
+- Abdullah Anjum, Business Development Executive
+- Maarij Ali, Technical Project Manager
+- Irum Shahzadi, Senior Software Engineer
+- Ali Raza, Senior Software Engineer
+- Saad Bin Abi Usama, Senior Software Engineer
 - Hamza Mumtaz, UI UX Designer
-- Faizan Ahmed, Software Engineer
+- Faizan Ahmed, Associate Software Engineer
 - Talha Bin Faisal, Full Stack AI Developer
 
 Assistant Response Rules:
