@@ -3,7 +3,6 @@ from flask_cors import CORS
 from openai import OpenAI
 from dotenv import load_dotenv
 import os
-import re
 
 # Load environment variables
 load_dotenv()
@@ -131,9 +130,16 @@ def handle_prompt():
     if not prompt:
         return error_response("Prompt is required.", 400)
 
-    # Initialize session history if not already
+    # Initialize session history and store user's name if mentioned
     if "history" not in session:
         session["history"] = []
+    
+    # Check if user's name is mentioned and store it
+    if "name" not in session and "name" in prompt.lower():
+        session["name"] = prompt.strip().split()[-1]  # Simplified logic to capture name
+
+    if session.get("name"):
+        prompt = prompt.replace("my name", f"your name is {session['name']}")
 
     try:
         # Append the user prompt to the session's history
