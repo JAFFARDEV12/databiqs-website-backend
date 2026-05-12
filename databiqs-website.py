@@ -182,6 +182,45 @@ def error_response(message: str, status_code: int):
     return jsonify({"error": message}), status_code
 
 
+# Case-insensitive "my name is …" on the *original* text (avoid slicing prompt with indices from .lower()).
+_NAME_IS_RE = re.compile(
+    r"\bmy\s+name\s+is\s+([^\s\r\n.!?,:;]+(?:\s+[^\s\r\n.!?,:;]+)?)",
+    re.IGNORECASE | re.UNICODE,
+)
+
+
+def _first_token_from_name_capture(captured: str) -> Optional[str]:
+    part = (captured or "").strip()
+    if not part:
+        return None
+    first = part.split()[0].strip(".,!?;:'\"")
+    if not first:
+        return None
+    return first[0].upper() + first[1:].lower() if len(first) > 1 else first.upper()
+
+
+def extract_name_from_text(text: str) -> Optional[str]:
+    m = _NAME_IS_RE.search(text or "")
+    if not m:
+        return None
+    return _first_token_from_name_capture(m.group(1))
+
+
+def recover_name_from_history(history: list) -> Optional[str]:
+    for msg in reversed(history or []):
+        if msg.get("role") != "user":
+            continue
+        n = extract_name_from_text(msg.get("content") or "")
+        if n:
+            return n
+    return None
+
+
+def is_name_recall_prompt(text: str) -> bool:
+    t = (text or "").lower().replace("'", "")
+    return "what is my name" in t or "whats my name" in t or "what s my name" in t
+
+
 # ── Routes ───────────────────────────────────────────────────────────────────
 @app.route("/api/prompt", methods=["POST"])
 def handle_prompt():
@@ -194,15 +233,12 @@ def handle_prompt():
     history = _get_chat_history()
     user_name = _get_chat_name()
 
-    prompt_lower = prompt.lower()
-    if user_name is None and "my name is" in prompt_lower:
-        idx = prompt_lower.rfind("my name is")
-        raw_name = prompt[idx + len("my name is"):].strip(" .,!?:;")
-        if raw_name:
-            first = raw_name.split()[0].strip(".,!?;:")
-            user_name = first.capitalize() if first else None
+    if user_name is None:
+        user_name = extract_name_from_text(prompt)
+    if user_name is None:
+        user_name = recover_name_from_history(history)
 
-    if "what is my name" in prompt_lower and user_name:
+    if is_name_recall_prompt(prompt) and user_name:
         reply = f"Your name is {user_name}."
         history.append({"role": "user", "content": prompt})
         history.append({"role": "assistant", "content": reply})
