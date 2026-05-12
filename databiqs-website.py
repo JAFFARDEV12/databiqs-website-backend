@@ -1,10 +1,12 @@
+from typing import Optional
+import re
+
 from flask import Flask, request, jsonify, Response, session
 from flask_cors import CORS
 from openai import OpenAI
 from dotenv import load_dotenv
 import os
 import json
-import uuid
 import time
 
 # Load environment variables
@@ -12,68 +14,61 @@ load_dotenv()
 
 app = Flask(__name__)
 
-# Allow cookies/session across frontend-backend requests.
-# When supports_credentials=True, do not use wildcard origins — browsers reject that.
-_cors_origins_raw = os.environ.get(
-    "CORS_ORIGINS",
-    "http://localhost:3000,http://127.0.0.1:3000,https://www.databiqs.com,https://databiqs.com",
-)
-CORS_ORIGINS = [o.strip() for o in _cors_origins_raw.split(",") if o.strip()]
+# Fixed allowlist (no CORS_* env vars). Browsers require explicit origins when using credentials.
+# Include Vercel deploy URL(s); preview branches use *.vercel.app.
 CORS(
     app,
     supports_credentials=True,
-    resources={r"/*": {"origins": CORS_ORIGINS}},
+    origins=[
+        "http://localhost:3000",
+        "http://127.0.0.1:3000",
+        "https://www.databiqs.com",
+        "https://databiqs.com",
+        "https://databiqs-website.vercel.app",
+        re.compile(r"^https://[\w-]+\.vercel\.app$"),
+    ],
 )
 
-# Frontend on another registrable domain (e.g. www.databiqs.com) calling API on Railway
-# needs SameSite=None + Secure so the session cookie is sent on cross-site fetch.
-if os.environ.get("SESSION_CROSS_SITE", "").lower() in ("1", "true", "yes"):
+# Railway serves HTTPS; site on another domain needs cross-site cookies on fetch.
+if os.environ.get("RAILWAY_ENVIRONMENT"):
     app.config["SESSION_COOKIE_SAMESITE"] = "None"
     app.config["SESSION_COOKIE_SECURE"] = True
 
-# Secret key for Flask session management
 app.secret_key = os.environ.get("FLASK_SECRET_KEY", "your-secret-key-change-in-prod")
 
-# Session cookie settings — only store a session_id here, not the full history.
 app.config["SESSION_PERMANENT"] = True
 app.config["PERMANENT_SESSION_LIFETIME"] = 60 * 60 * 24  # 24 hours
 
-# ── Server-side history store ────────────────────────────────────────────────
-# Uses a flat-file JSON store keyed by session_id.
-# In production, swap this for Redis or a database.
-HISTORY_DIR = os.environ.get("HISTORY_DIR", "/tmp/databiqs_sessions")
-os.makedirs(HISTORY_DIR, exist_ok=True)
-
-MAX_HISTORY = 20          # messages kept per session
-SESSION_TTL = 86400       # 24 h — sessions older than this are ignored
+# ── Chat state lives in the signed Flask session cookie (no HISTORY_DIR / files) ─
+MAX_HISTORY = 16
+# Keep serialized history small enough for a session cookie (~4KB total budget).
+MAX_SESSION_HISTORY_BYTES = 3200
 
 
-def _history_path(sid: str) -> str:
-    # Sanitise: only allow alphanumeric + hyphens in filenames.
-    safe = "".join(c for c in sid if c.isalnum() or c == "-")
-    return os.path.join(HISTORY_DIR, f"{safe}.json")
+def _history_json_bytes(history: list) -> int:
+    return len(json.dumps(history, ensure_ascii=False).encode("utf-8"))
 
 
-def load_history(sid: str) -> dict:
-    """Return {"history": [...], "name": str|None, "updated": float}."""
-    path = _history_path(sid)
-    try:
-        if os.path.exists(path):
-            with open(path, "r", encoding="utf-8") as f:
-                data = json.load(f)
-            # Expire old sessions
-            if time.time() - data.get("updated", 0) < SESSION_TTL:
-                return data
-    except (json.JSONDecodeError, OSError):
-        pass
-    return {"history": [], "name": None, "updated": time.time()}
+def _trim_history_for_session(history: list) -> list:
+    h = list(history)
+    while h and _history_json_bytes(h) > MAX_SESSION_HISTORY_BYTES:
+        h.pop(0)
+    return h[-MAX_HISTORY:]
 
 
-def save_history(sid: str, data: dict):
-    data["updated"] = time.time()
-    path = _history_path(sid)
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False)
+def _persist_chat(history: list, name: Optional[str]) -> None:
+    session["chat_history"] = _trim_history_for_session(history)
+    session["chat_name"] = name
+    session.modified = True
+
+
+def _get_chat_history() -> list:
+    session.setdefault("chat_history", [])
+    return list(session["chat_history"])
+
+
+def _get_chat_name() -> str | None:
+    return session.get("chat_name")
 
 
 # ── API client ───────────────────────────────────────────────────────────────
@@ -187,13 +182,6 @@ def error_response(message: str, status_code: int):
     return jsonify({"error": message}), status_code
 
 
-def get_or_create_session_id() -> str:
-    if "sid" not in session:
-        session["sid"] = str(uuid.uuid4())
-        session.permanent = True
-    return session["sid"]
-
-
 # ── Routes ───────────────────────────────────────────────────────────────────
 @app.route("/api/prompt", methods=["POST"])
 def handle_prompt():
@@ -203,34 +191,27 @@ def handle_prompt():
     if not prompt:
         return error_response("Prompt is required.", 400)
 
-    sid = get_or_create_session_id()
-    store = load_history(sid)
-    history: list = store["history"]
+    history = _get_chat_history()
+    user_name = _get_chat_name()
 
-    # ── Name extraction ──────────────────────────────────────────────────────
     prompt_lower = prompt.lower()
-    if store["name"] is None and "my name is" in prompt_lower:
+    if user_name is None and "my name is" in prompt_lower:
         idx = prompt_lower.rfind("my name is")
         raw_name = prompt[idx + len("my name is"):].strip(" .,!?:;")
         if raw_name:
             first = raw_name.split()[0].strip(".,!?;:")
-            store["name"] = first.capitalize() if first else None
+            user_name = first.capitalize() if first else None
 
-    # ── Shortcut: name recall (still persisted so history stays complete) ───────
-    if "what is my name" in prompt_lower and store["name"]:
-        reply = f"Your name is {store['name']}."
+    if "what is my name" in prompt_lower and user_name:
+        reply = f"Your name is {user_name}."
         history.append({"role": "user", "content": prompt})
         history.append({"role": "assistant", "content": reply})
-        history = history[-MAX_HISTORY:]
-        store["history"] = history
-        save_history(sid, store)
+        _persist_chat(history, user_name)
         return Response(clean_response(reply), content_type="text/plain; charset=utf-8")
 
-    # ── Append user message ──────────────────────────────────────────────────
     history.append({"role": "user", "content": prompt})
     history = history[-MAX_HISTORY:]
 
-    # ── Call LLM ─────────────────────────────────────────────────────────────
     try:
         messages = [{"role": "system", "content": SYSTEM_PROMPT}] + history
 
@@ -246,9 +227,7 @@ def handle_prompt():
 
         history.append({"role": "assistant", "content": reply})
         history = history[-MAX_HISTORY:]
-
-        store["history"] = history
-        save_history(sid, store)
+        _persist_chat(history, user_name)
 
         return Response(clean_response(reply), content_type="text/plain; charset=utf-8")
 
@@ -258,9 +237,10 @@ def handle_prompt():
 
 @app.route("/api/reset", methods=["POST"])
 def reset_session():
-    """Clear conversation history for the current session."""
-    sid = get_or_create_session_id()
-    save_history(sid, {"history": [], "name": None, "updated": time.time()})
+    """Clear chat from the Flask session."""
+    session.pop("chat_history", None)
+    session.pop("chat_name", None)
+    session.modified = True
     return jsonify({"message": "Session history cleared."})
 
 
