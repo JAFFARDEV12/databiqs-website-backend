@@ -13,7 +13,23 @@ load_dotenv()
 app = Flask(__name__)
 
 # Allow cookies/session across frontend-backend requests.
-CORS(app, supports_credentials=True)
+# When supports_credentials=True, do not use wildcard origins — browsers reject that.
+_cors_origins_raw = os.environ.get(
+    "CORS_ORIGINS",
+    "http://localhost:3000,http://127.0.0.1:3000,https://www.databiqs.com,https://databiqs.com",
+)
+CORS_ORIGINS = [o.strip() for o in _cors_origins_raw.split(",") if o.strip()]
+CORS(
+    app,
+    supports_credentials=True,
+    resources={r"/*": {"origins": CORS_ORIGINS}},
+)
+
+# Frontend on another registrable domain (e.g. www.databiqs.com) calling API on Railway
+# needs SameSite=None + Secure so the session cookie is sent on cross-site fetch.
+if os.environ.get("SESSION_CROSS_SITE", "").lower() in ("1", "true", "yes"):
+    app.config["SESSION_COOKIE_SAMESITE"] = "None"
+    app.config["SESSION_COOKIE_SECURE"] = True
 
 # Secret key for Flask session management
 app.secret_key = os.environ.get("FLASK_SECRET_KEY", "your-secret-key-change-in-prod")
