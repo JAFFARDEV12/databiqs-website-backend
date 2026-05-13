@@ -149,6 +149,10 @@ Contact Information:
 
 Databiqs offers world-class support and communication, ensuring businesses get the attention and
 expertise they need to succeed — whether you are a startup or an enterprise.
+
+NOTE (MOST IMPORTANT):
+DONT QUOTE ANY PRICE. SIMPLE SAY "Please contact us for pricing details at business@databiqs.com OR schedule a call" DONT GIVE ANY EMAIL EXCEPT THIS"
+I have only one email dont give any other email except business@databiqs.com
 """
 
 SYSTEM_PROMPT = f"""
