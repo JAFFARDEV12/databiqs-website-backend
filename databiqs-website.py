@@ -86,6 +86,9 @@ DATABIQS_INFO = """
 Company Name:
 Databiqs
 
+CEO:
+Jaffar Ali Chaudhary is the CEO of Databiqs.
+
 Official Website:
 https://www.databiqs.com/
 
