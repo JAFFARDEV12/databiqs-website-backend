@@ -1,0 +1,2782 @@
+{
+  "services": {
+    "list": [
+      {
+        "id": 1,
+        "slug": "ai-chatbots",
+        "themeClass": "core-card--chatbot",
+        "title": "AI Chatbots",
+        "shortDescription": "Intelligent conversational interfaces that understand context, resolve complex queries, and integrate seamlessly with your CRM.",
+        "features": [
+          "Conversational AI",
+          "24/7 Availability",
+          "Omnichannel"
+        ],
+        "heroTag": "Conversational AI",
+        "heroSubtitle": "Build intelligent conversations that convert and retain",
+        "overview": "We design AI chatbot systems that feel human, solve high-intent queries quickly, and connect directly to your business workflows. From customer support to lead qualification, every flow is tailored to your brand voice and outcomes.",
+        "outcomes": [
+          "Reduce first-response time by automating repetitive interactions without losing context.",
+          "Increase conversion rates with smart, intent-driven lead qualification journeys.",
+          "Unify customer data through CRM and helpdesk integrations for better decisions."
+        ],
+        "process": [
+          "Conversation design and intent architecture mapped to real customer journeys.",
+          "Model training, guardrails, and integration with CRM, support, and analytics tools.",
+          "Continuous optimization using intent-level insights and conversation quality reviews."
+        ]
+      },
+      {
+        "id": 2,
+        "slug": "ai-automation",
+        "themeClass": "core-card--automation",
+        "title": "AI Automation",
+        "shortDescription": "End-to-end intelligent process automation. Streamline operations, reduce manual errors, and accelerate throughput.",
+        "features": [
+          "Workflow Orchestration",
+          "Data Extraction (IDP)",
+          "System Integrations"
+        ],
+        "heroTag": "Automation Excellence",
+        "heroSubtitle": "Automate complex operations with precision and reliability",
+        "overview": "Our AI automation services modernize repetitive workflows across departments. We identify high-impact bottlenecks, design resilient automation pipelines, and deploy systems that scale without compromising quality.",
+        "outcomes": [
+          "Improve operational speed with rule + AI powered orchestration.",
+          "Minimize manual intervention and reduce human-error risk in critical processes.",
+          "Create scalable automation foundations that grow with your business."
+        ],
+        "process": [
+          "Operational discovery to identify automation-ready opportunities and constraints.",
+          "Workflow engineering with human-in-the-loop checkpoints for quality assurance.",
+          "Monitoring, alerting, and iterative tuning to ensure long-term performance."
+        ]
+      },
+      {
+        "id": 3,
+        "slug": "machine-learning",
+        "themeClass": "core-card--ml",
+        "title": "Machine Learning",
+        "shortDescription": "Predictive models and deep learning algorithms trained on your proprietary data to uncover hidden insights and forecast trends.",
+        "features": [
+          "Predictive Analytics",
+          "Pattern Recognition",
+          "Real-time Insights"
+        ],
+        "heroTag": "Predictive Intelligence",
+        "heroSubtitle": "Turn business data into proactive decision advantage",
+        "overview": "We build production-grade machine learning solutions that transform historical and real-time data into action. Our models are designed for accuracy, interpretability, and business adoption from day one.",
+        "outcomes": [
+          "Forecast demand, churn, and risk with context-aware predictive models.",
+          "Discover hidden patterns that unlock new efficiency and growth opportunities.",
+          "Deploy real-time ML scoring pipelines for faster, smarter decisions."
+        ],
+        "process": [
+          "Data readiness audit and feature strategy aligned to business KPIs.",
+          "Model development with validation, bias checks, and explainability tooling.",
+          "Production deployment with drift monitoring and model retraining routines."
+        ]
+      },
+      {
+        "id": 4,
+        "slug": "ai-consulting",
+        "themeClass": "core-card--strategy",
+        "title": "AI Consulting",
+        "shortDescription": "Comprehensive roadmaps for AI adoption. We assess readiness, identify high-impact use cases, and architect scalable solutions.",
+        "features": [
+          "Roadmap Planning",
+          "ROI Analysis",
+          "Implementation Support"
+        ],
+        "heroTag": "Strategic AI Advisory",
+        "heroSubtitle": "Align AI investments with measurable business outcomes",
+        "overview": "Our AI Consulting engagements help leadership teams prioritize where AI creates the most value. We connect technical feasibility, organizational readiness, and ROI to deliver a practical transformation roadmap.",
+        "outcomes": [
+          "Prioritize use cases by impact, complexity, and time-to-value.",
+          "Build an execution roadmap with clear milestones and governance.",
+          "De-risk AI initiatives through architecture, policy, and operating-model clarity."
+        ],
+        "process": [
+          "Executive and stakeholder workshops to define priorities and constraints.",
+          "Readiness assessment covering data, tooling, teams, and governance.",
+          "Roadmap delivery with phased implementation plan and success metrics."
+        ]
+      }
+    ],
+    "heroSlides": [
+      {
+        "src": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299558/case-study_bwzppv.svg",
+        "alt": "AI services overview illustration",
+        "tag": "Databiqs AI Services"
+      },
+      {
+        "src": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_1200,c_limit/v1779299111/case-study-phase-prediction_c50xrw.jpg",
+        "alt": "Team planning predictive AI roadmap",
+        "tag": "Strategy and Discovery"
+      },
+      {
+        "src": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_1200,c_limit/v1779299111/case-study-phase-execution_b6essg.jpg",
+        "alt": "Engineering team implementing AI systems",
+        "tag": "Implementation and Scale"
+      }
+    ],
+    "details": {
+      "ai-chatbots": {
+        "heroTitleLine1": "AI Chatbots &",
+        "heroTitleLine2": "Intelligent Agents",
+        "heroLead": "Enhance customer engagement with hyper-personalized conversational interfaces that understand context, sentiment, and intent in real-time.",
+        "heroImage": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299558/case-study_bwzppv.svg",
+        "heroImageAlt": "AI chatbot and intelligent agents illustration",
+        "capabilities": {
+          "title": "Core Capabilities",
+          "lead": "Our intelligent agents are built on next-generation LLMs, ensuring every interaction feels human-centric and goal-oriented.",
+          "cards": [
+            {
+              "key": "nlu",
+              "title": "Natural Language Understanding",
+              "desc": "Deep contextual embeddings ensure agents resolve true intent, not just keywords, using your specific business vocabulary."
+            },
+            {
+              "key": "omni",
+              "title": "Omnichannel Deployment",
+              "desc": "One brain across web, mobile, voice, and messaging—delivering consistent answers and shared context everywhere."
+            },
+            {
+              "key": "support",
+              "title": "24/7 Intelligent Support",
+              "desc": "Always-on coverage that escalates cleanly to humans when empathy, complex reasoning, or policy judgment is required."
+            },
+            {
+              "key": "sentiment",
+              "title": "Sentiment Analysis",
+              "desc": "Detect frustration, urgency, and opportunity in real time to intelligently route, retain, and recover revenue."
+            }
+          ]
+        },
+        "precision": {
+          "title": "Precision Engineering Behind Every Response",
+          "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_1200,c_limit/v1779299111/case-study-phase-execution_b6essg.jpg",
+          "imageAlt": "Engineer collaborating with an intelligent system",
+          "steps": [
+            {
+              "title": "Knowledge Integration (RAG)",
+              "desc": "We ingest your documentation, APIs, and brand guidelines into a secure vector database to provide grounded, hallucination-free answers."
+            },
+            {
+              "title": "Model Optimization & Guardrails",
+              "desc": "Our engineers combine prompt engineering, dynamic context retrieval, and model fine-tuning to ensure absolute accuracy, safety, and a consistent persona."
+            },
+            {
+              "title": "Global Deployment",
+              "desc": "Launch across your entire ecosystem with continuous learning loops, telemetry, and performance monitoring."
+            }
+          ]
+        },
+        "verticals": {
+          "title": "Vertical Excellence",
+          "lead": "Specialized conversational solutions for enterprise-grade demands.",
+          "items": [
+            {
+              "key": "health",
+              "title": "Healthcare",
+              "desc": "HIPAA-aware flows, triage assistance, and patient-safe language with audit-ready transcripts."
+            },
+            {
+              "key": "ecom",
+              "title": "E-commerce",
+              "desc": "Shopping assistants that handle returns, sizing, and order status while lifting AOV and CSAT."
+            },
+            {
+              "key": "finance",
+              "title": "Finance",
+              "desc": "Secure banking agents with strict policy guardrails, fraud-aware prompts, and compliant escalation paths."
+            }
+          ]
+        },
+        "stats": {
+          "title": "Quantifiable Results in Every Deployment",
+          "lead": "We don't just build chatbots; we drive efficiency metrics that transform your bottom line and customer loyalty.",
+          "items": [
+            {
+              "value": "45%",
+              "label": "Cost reduction"
+            },
+            {
+              "value": "68%",
+              "label": "Faster resolution"
+            },
+            {
+              "value": "92%",
+              "label": "Intent accuracy"
+            },
+            {
+              "value": "<1s",
+              "label": "Avg. Response Time"
+            }
+          ]
+        },
+        "finalCta": {
+          "title": "See how this works for your business",
+          "lead": "Schedule a free 30-minute strategy call with one of our senior architects.",
+          "buttonLabel": "Book a Consultation"
+        }
+      },
+      "ai-automation": {
+        "heroTitleLine1": "AI Automation &",
+        "heroTitleLine2": "Workflow Intelligence",
+        "heroLead": "Orchestrate processes end-to-end with adaptive automations that cut cycle time, eliminate rework, and scale with demand.",
+        "heroImage": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_1200,c_limit/v1779299111/case-study-phase-prediction_c50xrw.jpg",
+        "heroImageAlt": "Automation and workflow intelligence",
+        "capabilities": {
+          "title": "Core Capabilities",
+          "lead": "Automation that connects systems, data, and people - without brittle scripts or one-off integrations.",
+          "cards": [
+            {
+              "key": "orch",
+              "title": "Natural Language Understanding",
+              "desc": "Sophisticated context mapping that understands nuances, idioms, and industry-specific jargon to trigger complex backend workflows."
+            },
+            {
+              "key": "doc",
+              "title": "Omnichannel Deployment",
+              "desc": "Deploy seamlessly across Web, WhatsApp, Slack, and native mobile apps with shared memory for unified process management."
+            },
+            {
+              "key": "events",
+              "title": "24/7 Intelligent Action",
+              "desc": "Automate complex query resolutions and data entry around the clock without sacrificing quality, accuracy, or brand voice."
+            },
+            {
+              "key": "govern",
+              "title": "Sentiment Analysis & Smart Routing",
+              "desc": "Real-time emotional tracking to prioritize tasks and instantly escalate sensitive issues to human agents."
+            }
+          ]
+        },
+        "precision": {
+          "title": "Precision Engineering Behind Every Deployment",
+          "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_1200,c_limit/v1779299111/case-study-phase-execution_b6essg.jpg",
+          "imageAlt": "Operations team reviewing automated workflows",
+          "steps": [
+            {
+              "title": "Discovery & Mapping",
+              "desc": "We blueprint critical paths, failure modes, and SLAs before a single automation is deployed."
+            },
+            {
+              "title": "Integration Fabric",
+              "desc": "API-first connectors, secrets management, and sandboxed rollouts that protect your production systems."
+            },
+            {
+              "title": "Continuous Improvement",
+              "desc": "Telemetry-backed tuning: bottlenecks, error clusters, and throughput are reviewed on a regular cadence."
+            }
+          ]
+        },
+        "verticals": {
+          "title": "Vertical Excellence",
+          "lead": "Automation patterns tuned for regulated and high-volume industries.",
+          "items": [
+            {
+              "key": "ops",
+              "title": "Operations",
+              "desc": "Back-office throughput for finance, HR, and procurement with exception-based human review."
+            },
+            {
+              "key": "cx",
+              "title": "Customer Experience",
+              "desc": "Case routing, refunds, and onboarding journeys that keep CSAT high while lowering handle time."
+            },
+            {
+              "key": "supply",
+              "title": "Supply Chain",
+              "desc": "Order promising, vendor communications, and exception handling aligned to inventory signals."
+            }
+          ]
+        },
+        "stats": {
+          "title": "Quantifiable Results in Every Deployment",
+          "lead": "We don't just build chatbots; we drive efficiency metrics that transform your bottom line and customer loyalty.",
+          "items": [
+            {
+              "value": "3×",
+              "label": "Throughput uplift"
+            },
+            {
+              "value": "40%",
+              "label": "Manual effort removed"
+            },
+            {
+              "value": "99.9%",
+              "label": "Run reliability"
+            },
+            {
+              "value": "<2s",
+              "label": "Avg. task latency"
+            }
+          ]
+        },
+        "finalCta": {
+          "title": "See how this works for your business",
+          "lead": "Schedule a free 30-minute strategy call with one of our senior architects.",
+          "buttonLabel": "Book a Consultation"
+        }
+      },
+      "machine-learning": {
+        "heroTitleLine1": "Machine Learning &",
+        "heroTitleLine2": "Predictive Systems",
+        "heroLead": "Turn historical and streaming data into decisions - models tuned for accuracy, drift resistance, and business adoption.",
+        "heroImage": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_1200,c_limit/v1779299111/case-study-phase-execution_b6essg.jpg",
+        "heroImageAlt": "Machine learning and predictive analytics",
+        "capabilities": {
+          "title": "Core Capabilities",
+          "lead": "From feature pipelines to production scoring - ML engineered for the messy reality of enterprise data.",
+          "cards": [
+            {
+              "key": "feat",
+              "title": "Feature Engineering",
+              "desc": "Robust signals, leakage checks, and reproducible pipelines that survive schema drift."
+            },
+            {
+              "key": "train",
+              "title": "Model Training",
+              "desc": "Experiment tracking, validation design, and bias review baked into every training cycle."
+            },
+            {
+              "key": "serve",
+              "title": "Real-time Scoring",
+              "desc": "Low-latency inference paths with autoscaling, caching, and graceful degradation."
+            },
+            {
+              "key": "monitor",
+              "title": "Monitoring & Retrain",
+              "desc": "Drift alerts, champion/challenger releases, and scheduled retrains keep models honest."
+            }
+          ]
+        },
+        "precision": {
+          "title": "Precision Engineering Behind Every Prediction",
+          "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_1200,c_limit/v1779299111/case-study-phase-prediction_c50xrw.jpg",
+          "imageAlt": "Data science team validating models",
+          "steps": [
+            {
+              "title": "Data Readiness",
+              "desc": "Assess lineage, quality, and privacy constraints before features touch a model."
+            },
+            {
+              "title": "Validation Discipline",
+              "desc": "Holdout strategies, stress tests, and business backtests align metrics to outcomes."
+            },
+            {
+              "title": "Production Hardening",
+              "desc": "Canary deploys, rollback plans, and observability for latency, errors, and skew."
+            }
+          ]
+        },
+        "verticals": {
+          "title": "Vertical Excellence",
+          "lead": "Predictive systems tailored to sector-specific risk and opportunity.",
+          "items": [
+            {
+              "key": "retail",
+              "title": "Retail & CPG",
+              "desc": "Demand forecasting, promo lift, and inventory positioning with explainable drivers."
+            },
+            {
+              "key": "risk",
+              "title": "Risk & Fraud",
+              "desc": "Anomaly detection and portfolio signals with governance-friendly documentation."
+            },
+            {
+              "key": "iot",
+              "title": "Industrial & IoT",
+              "desc": "Sensor fusion and maintenance prediction with edge-to-cloud deployment options."
+            }
+          ]
+        },
+        "stats": {
+          "title": "Quantifiable Results in Every Deployment",
+          "lead": "Models that earn trust in production - not just in notebooks.",
+          "items": [
+            {
+              "value": "+12pts",
+              "label": "Lift vs. baseline"
+            },
+            {
+              "value": "35%",
+              "label": "False positives cut"
+            },
+            {
+              "value": "4×",
+              "label": "Faster decisions"
+            },
+            {
+              "value": "99.9%",
+              "label": "Inference uptime"
+            }
+          ]
+        },
+        "finalCta": {
+          "title": "See how this works for your business",
+          "lead": "Schedule a free 30-minute strategy call with one of our senior architects.",
+          "buttonLabel": "Book a Consultation"
+        }
+      },
+      "ai-consulting": {
+        "heroTitleLine1": "AI Consulting &",
+        "heroTitleLine2": "Transformation",
+        "heroLead": "Prioritize the right bets - roadmaps that connect data readiness, operating model, and ROI to a sequenced execution plan.",
+        "heroImage": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299558/case-study_bwzppv.svg",
+        "heroImageAlt": "AI consulting and transformation roadmap",
+        "capabilities": {
+          "title": "Core Capabilities",
+          "lead": "Executive-ready clarity on where AI creates value - and what must be true to capture it.",
+          "cards": [
+            {
+              "key": "use",
+              "title": "Use Case Portfolio",
+              "desc": "Score impact, complexity, and dependencies so leadership funds the right sequence."
+            },
+            {
+              "key": "arch",
+              "title": "Target Architecture",
+              "desc": "Reference patterns for data, MLOps, and governance that scale beyond pilots."
+            },
+            {
+              "key": "fin",
+              "title": "ROI & Funding",
+              "desc": "Business cases, TCO models, and phased investment gates tied to measurable outcomes."
+            },
+            {
+              "key": "change",
+              "title": "Change Management",
+              "desc": "Skills, policy, and adoption plans so teams embrace - not resist - new ways of working."
+            }
+          ]
+        },
+        "precision": {
+          "title": "Strategic Rigor Behind Every Transformation",
+          "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_1200,c_limit/v1779299111/case-study-phase-prediction_c50xrw.jpg",
+          "imageAlt": "Leadership workshop on AI strategy",
+          "steps": [
+            {
+              "title": "Executive Alignment",
+              "desc": "Stakeholder interviews and decision rights that prevent stalled initiatives."
+            },
+            {
+              "title": "Readiness Assessment",
+              "desc": "Data, tooling, security, and talent gaps surfaced with mitigation owners."
+            },
+            {
+              "title": "Roadmap Delivery",
+              "desc": "Milestones, KPIs, and governance cadences your PMO can run without guesswork."
+            }
+          ]
+        },
+        "verticals": {
+          "title": "Vertical Excellence",
+          "lead": "Strategy playbooks adapted to regulatory and competitive context.",
+          "items": [
+            {
+              "key": "bank",
+              "title": "Banking",
+              "desc": "Model risk management narratives and vendor diligence aligned to regulator expectations."
+            },
+            {
+              "key": "pharma",
+              "title": "Pharma & Medtech",
+              "desc": "Evidence generation, GxP considerations, and partner ecosystems for AI in R&D and ops."
+            },
+            {
+              "key": "telco",
+              "title": "Telecom",
+              "desc": "Network operations, churn, and CX modernization with capex-aware sequencing."
+            }
+          ]
+        },
+        "stats": {
+          "title": "Quantifiable Results in Every Deployment",
+          "lead": "Strategy that converts ambiguity into funded, measurable programs.",
+          "items": [
+            {
+              "value": "90d",
+              "label": "To first milestone"
+            },
+            {
+              "value": "3×",
+              "label": "Faster Time-to-Value"
+            },
+            {
+              "value": "12+",
+              "label": "Prioritized bets"
+            },
+            {
+              "value": "100%",
+              "label": "Exec alignment"
+            }
+          ]
+        },
+        "finalCta": {
+          "title": "See how this works for your business",
+          "lead": "Schedule a free 30-minute strategy call with one of our senior AI Strategists.",
+          "buttonLabel": "Book a Consultation"
+        }
+      }
+    }
+  },
+  "caseStudies": {
+    "stats": [
+      {
+        "value": "320+",
+        "label": "Projects delivered"
+      },
+      {
+        "value": ">98%",
+        "label": "Client retention"
+      },
+      {
+        "value": "12.4x",
+        "label": "Avg efficiency gain"
+      },
+      {
+        "value": "$50M+",
+        "label": "Client value unlocked"
+      },
+      {
+        "value": "24/7",
+        "label": "Support coverage"
+      },
+      {
+        "value": "31+",
+        "label": "Countries served"
+      }
+    ],
+    "categories": [
+      {
+        "key": "ai-automation",
+        "name": "AI Automation",
+        "iconUrl": ""
+      },
+      {
+        "key": "ai-chatbot",
+        "name": "AI Chatbot",
+        "iconUrl": ""
+      },
+      {
+        "key": "machine-learning",
+        "name": "Machine Learning",
+        "iconUrl": ""
+      },
+      {
+        "key": "speech-recognition",
+        "name": "Speech Recognition",
+        "iconUrl": ""
+      },
+      {
+        "key": "edtech",
+        "name": "EdTech",
+        "iconUrl": ""
+      },
+      {
+        "key": "data-engineering",
+        "name": "Data Engineering",
+        "iconUrl": ""
+      },
+      {
+        "key": "ai-product-design",
+        "name": "AI Product Design",
+        "iconUrl": ""
+      },
+      {
+        "key": "healthtech",
+        "name": "HealthTech",
+        "iconUrl": ""
+      }
+    ],
+    "cards": [
+      {
+        "id": "novatech",
+        "category": "AI Chatbot",
+        "filterKey": "AI Chatbot",
+        "company": "Novatech Solutions",
+        "companySubtitle": "Global SaaS Platform",
+        "title": "Rebuilding enterprise support with conversational AI triage",
+        "description": "Novatech's 10-person support team was overwhelmed. With tickets doubling every quarter and CSAT declining, they needed a smarter approach, not more headcount.",
+        "metrics": [
+          {
+            "value": "78%",
+            "label": "Faster First Response"
+          },
+          {
+            "value": "$1.2M",
+            "label": "Annual Savings"
+          },
+          {
+            "value": "4.8",
+            "label": "CSAT Score"
+          }
+        ],
+        "href": "/case-studies/novatech",
+        "categoryKey": "ai-chatbot"
+      },
+      {
+        "id": "workflow-14",
+        "category": "AI Automation",
+        "filterKey": "AI Automation",
+        "company": "Vertex Operations",
+        "companySubtitle": "Enterprise logistics",
+        "title": "Intelligent workflow orchestration across 14 departments",
+        "description": "Manual operations across 14 departments were creating bottlenecks and errors. Our AI orchestration layer connected every system, reducing operational overhead by 45% in 60 days.",
+        "metrics": [
+          {
+            "value": "45%",
+            "label": "Cost Reduction"
+          },
+          {
+            "value": "14",
+            "label": "Departments Connected"
+          },
+          {
+            "value": "60d",
+            "label": "Time To Deploy"
+          }
+        ],
+        "href": "/case-studies/workflow-14",
+        "categoryKey": "ai-automation"
+      },
+      {
+        "id": "voice-transcription-app",
+        "category": "Speech Recognition",
+        "filterKey": "Speech Recognition",
+        "company": "Voice-to-Text Transcription",
+        "companySubtitle": "AI / Speech Recognition",
+        "title": "Voice-to-Text Transcription App",
+        "description": "Engineered a scalable voice-to-text pipeline that transcribes audio with <2s latency. Designed for enterprise workflows and content creators, the architecture supports 40+ locales and generates a fully searchable, structured data library.",
+        "metrics": [
+          {
+            "value": "<2s",
+            "label": "Avg. Chunk Latency"
+          },
+          {
+            "value": "100%",
+            "label": "Searchable Library"
+          },
+          {
+            "value": "40+",
+            "label": "Locales / Accents"
+          }
+        ],
+        "href": "/case-studies/voice-transcription-app",
+        "categoryKey": "speech-recognition"
+      },
+      {
+        "id": "sentiment-investment-prediction",
+        "category": "Machine Learning",
+        "filterKey": "Machine Learning",
+        "company": "Sentiment-Enhanced Forecasting",
+        "companySubtitle": "AI / Investment & Finance",
+        "title": "AI-driven sentiment analysis for investment price prediction",
+        "description": "A research-grade platform with an advanced ML framework that blends price signals with sentiment from news, social media, and financial reports, delivering richer features and more robust forecast bands.",
+        "metrics": [
+          {
+            "value": "3",
+            "label": "Signal Classes"
+          },
+          {
+            "value": "Daily",
+            "label": "Feature Refresh"
+          },
+          {
+            "value": "A/B",
+            "label": "Model Validation"
+          }
+        ],
+        "href": "/case-studies/sentiment-investment-prediction",
+        "categoryKey": "machine-learning"
+      },
+      {
+        "id": "avatar-learning-platform",
+        "category": "EdTech",
+        "filterKey": "EdTech",
+        "company": "Avatar",
+        "companySubtitle": "AI / EdTech",
+        "title": "Conversational AI platform for smarter learning",
+        "description": "Meet Avatar, your smart AI companion for learning English. It personalises lessons to your level and goals with dynamic practice, real-time feedback, and natural conversations, anytime, anywhere.",
+        "metrics": [
+          {
+            "value": "Adaptive",
+            "label": "Learning Paths"
+          },
+          {
+            "value": "Live",
+            "label": "Conversation Practice"
+          },
+          {
+            "value": "24/7",
+            "label": "Lesson Access"
+          }
+        ],
+        "href": "/case-studies/avatar-learning-platform",
+        "categoryKey": "edtech"
+      },
+      {
+        "id": "data-automation-platform",
+        "category": "Data Engineering",
+        "filterKey": "Data Engineering",
+        "company": "Data Automation & Transformation",
+        "companySubtitle": "Data Engineering / Automation",
+        "title": "Data automation & transformation tool",
+        "description": "This platform automates extraction, cleaning, and transformation of raw data into actionable insights. Multiple integrations support streamlined pipelines with real-time analytics and reporting.",
+        "metrics": [
+          {
+            "value": "50+",
+            "label": "Source Connectors"
+          },
+          {
+            "value": "Real-time",
+            "label": "Analytics Layer"
+          },
+          {
+            "value": "99.9%",
+            "label": "Pipeline SLA Target"
+          }
+        ],
+        "href": "/case-studies/data-automation-platform",
+        "categoryKey": "data-engineering"
+      },
+      {
+        "id": "creative-ai-design-tool",
+        "category": "AI Product Design",
+        "filterKey": "AI Product Design",
+        "company": "Creative AI Design Studio",
+        "companySubtitle": "AI / Product Design",
+        "title": "Creative AI design tool",
+        "description": "An AI-powered creative tool that generates high-quality images, graphics, and designs from simple prompts, making marketing and social visuals accessible to professionals and non-designers alike.",
+        "metrics": [
+          {
+            "value": "4K",
+            "label": "Export Ready"
+          },
+          {
+            "value": "Prompt",
+            "label": "Driven Workflow"
+          },
+          {
+            "value": "<30s",
+            "label": "Typical Iteration"
+          }
+        ],
+        "href": "/case-studies/creative-ai-design-tool",
+        "categoryKey": "ai-product-design"
+      },
+      {
+        "id": "wellness-ai-companion",
+        "category": "HealthTech",
+        "filterKey": "HealthTech",
+        "company": "Wellness AI",
+        "companySubtitle": "AI / HealthTech / Wellness",
+        "title": "Your intelligent digital companion",
+        "description": "Wellness AI supports emotional and physical wellbeing with advanced AI and sensing-aware signals. It connects to biometric context to surface stress and fatigue patterns with proactive, real-time guidance.",
+        "metrics": [
+          {
+            "value": "Real-time",
+            "label": "Wellness Guidance"
+          },
+          {
+            "value": "Biometric",
+            "label": "Signal Awareness"
+          },
+          {
+            "value": "Private",
+            "label": "By-design Architecture"
+          }
+        ],
+        "href": "/case-studies/wellness-ai-companion",
+        "categoryKey": "healthtech"
+      }
+    ],
+    "details": {
+      "novatech": {
+        "hero": {
+          "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299558/case-study_bwzppv.svg",
+          "imageAlt": "Novatech Solutions",
+          "primaryBadge": "AI Chatbot",
+          "secondaryBadge": "Global SaaS",
+          "title": "NOVATECH SOLUTIONS",
+          "subtitle": "CONVERSATIONAL SUPPORT TRIAGE",
+          "description": "Enterprise support rebuilt with AI triage: faster first response, higher CSAT, and a 10-person team scaled without adding headcount."
+        },
+        "challenge": {
+          "heading": "TICKET VOLUME DOUBLED EVERY QUARTER WHILE CSAT KEPT FALLING.",
+          "body": "Novatech's support engineers were buried in repetitive tier-1 work. Legacy macros could not prioritize or summarize context, so customers waited and churn risk rose."
+        },
+        "alert": {
+          "title": "Queue Collapse Risk",
+          "body": "Peak events created 6-hour backlogs; executive sponsors demanded a measurable fix within one quarter."
+        },
+        "techStack": [
+          "OPENAI API",
+          "LANGCHAIN",
+          "VECTOR DB",
+          "SALESFORCE",
+          "KAFKA",
+          "GRAFANA"
+        ],
+        "phases": [
+          {
+            "title": "INTENT ROUTING & SAFE GUARDRAILS",
+            "bodyLines": [
+              "We deployed a retrieval-grounded assistant that",
+              "classifies intent, drafts replies, and escalates",
+              "edge cases with a full transcript. Policy filters",
+              "block PII leakage and off-brand promises before",
+              "agents or customers see a draft."
+            ],
+            "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299558/phase1-prediction_kc8lys.svg",
+            "imageAlt": "Support triage and chat workflow"
+          },
+          {
+            "title": "HUMAN IN THE LOOP AT SCALE",
+            "bodyLines": [
+              "Supervisors get a review queue only for low-confidence",
+              "or high-severity threads. Macros and snippets update",
+              "from resolved tickets so the model improves weekly",
+              "without new training projects."
+            ],
+            "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299564/phase2-prediction_xveafs.svg",
+            "imageAlt": "Operations dashboard and routing"
+          }
+        ],
+        "impact": [
+          {
+            "label": "Faster First Response",
+            "value": "78%",
+            "footnote": "Median time-to-first-response dropped within six weeks of launch."
+          },
+          {
+            "label": "Annual Savings",
+            "value": "$1.2M",
+            "valueAriaLabel": "1.2 million dollars",
+            "footnote": "Blended savings from deflection, handle time, and after-hours coverage."
+          }
+        ],
+        "ltsv": {
+          "title": "LONG TERM STRATEGIC VALUE",
+          "cards": [
+            {
+              "title": "Playbooks That Compound",
+              "text": "Every approved edit feeds the knowledge layer so new product lines inherit support quality automatically."
+            },
+            {
+              "title": "Regional Rollout",
+              "text": "The same stack was localized for EMEA and APAC with jurisdiction-specific retention rules."
+            },
+            {
+              "title": "Technical Watch Outs",
+              "watchouts": [
+                "Monitor hallucination rate weekly on new intents and after major product launches.",
+                "Keep embedding indexes fresh when help-center articles change."
+              ]
+            }
+          ]
+        },
+        "testimonial": {
+          "quote": "Databiqs helped us turn support from a cost center into a retention lever. Response quality is up and our team finally works on hard problems.",
+          "name": "Michael Hayes",
+          "role": "Operations Manager",
+          "avatarSrc": "/static/media/Michael-Hayes.d1013c9740cfe8f0cad611da7d3efc21.svg"
+        }
+      },
+      "workflow-14": {
+        "hero": {
+          "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299558/case-study_bwzppv.svg",
+          "imageAlt": "Vertex Operations",
+          "primaryBadge": "AI Automation",
+          "secondaryBadge": "14 Departments",
+          "title": "VERTEX OPERATIONS",
+          "subtitle": "CROSS-DEPARTMENT ORCHESTRATION",
+          "description": "One orchestration layer connected fourteen departments, cut manual handoffs, and delivered measurable cost reduction in sixty days."
+        },
+        "challenge": {
+          "heading": "FOURTEEN TEAMS, FOURTEEN TOOLCHAINS, ZERO SINGLE SOURCE OF TRUTH.",
+          "body": "Approvals and data lived in inboxes and spreadsheets. Errors propagated downstream and audits were painful to reconstruct."
+        },
+        "alert": {
+          "title": "Operational Drag",
+          "body": "Leadership targeted 45% overhead reduction without hiring freeze or risky big-bang ERP swap."
+        },
+        "techStack": [
+          "N8N",
+          "PYTHON",
+          "POSTGRES",
+          "SNOWFLAKE",
+          "AWS LAMBDA",
+          "OPENSEARCH"
+        ],
+        "phases": [
+          {
+            "title": "EVENT BACKBONE & IDENTITY",
+            "bodyLines": [
+              "We standardized events on a single bus with",
+              "correlation IDs across HR, finance, and logistics.",
+              "Dead-letter queues and replay make failures",
+              "debuggable in minutes instead of days."
+            ],
+            "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299558/phase1-prediction_kc8lys.svg",
+            "imageAlt": "Workflow diagram"
+          },
+          {
+            "title": "AGENTIC TASK RUNNERS",
+            "bodyLines": [
+              "Deterministic bots handle approvals, reconciliations,",
+              "and document generation; humans approve exceptions.",
+              "SLA dashboards show backlog by department owner."
+            ],
+            "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299564/phase2-prediction_xveafs.svg",
+            "imageAlt": "Automation execution"
+          }
+        ],
+        "impact": [
+          {
+            "label": "Cost Reduction",
+            "value": "45%",
+            "footnote": "Blended operational cost reduction within the first sixty days."
+          },
+          {
+            "label": "Departments Connected",
+            "value": "14",
+            "footnote": "All fourteen departments on shared workflows with audit trails."
+          }
+        ],
+        "ltsv": {
+          "title": "LONG TERM STRATEGIC VALUE",
+          "cards": [
+            {
+              "title": "Composable Automation",
+              "text": "New workflows ship as modules instead of one-off scripts."
+            },
+            {
+              "title": "Audit Ready",
+              "text": "Immutable logs and role-based views satisfy internal and external audit requests."
+            },
+            {
+              "title": "Technical Watch Outs",
+              "watchouts": [
+                "Version every workflow change; rollback must be one click.",
+                "Capacity-plan worker pools before month-end peaks."
+              ]
+            }
+          ]
+        },
+        "testimonial": {
+          "quote": "“We finally see end-to-end process health in one place. Databiqs shipped pragmatism, not slide decks.”",
+          "name": "Michael Hayes",
+          "role": "Operations Manager",
+          "avatarSrc": "/static/media/Michael-Hayes.d1013c9740cfe8f0cad611da7d3efc21.svg"
+        }
+      },
+      "voice-transcription-app": {
+        "hero": {
+          "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299558/case-study_bwzppv.svg",
+          "imageAlt": "Voice-to-text transcription application",
+          "primaryBadge": "Speech Recognition",
+          "secondaryBadge": "Product",
+          "title": "VOICE-TO-TEXT",
+          "subtitle": "INSTANT, SEARCHABLE TRANSCRIPTS",
+          "description": "Engineered a scalable voice-to-text pipeline that transcribes audio with <2s latency. Designed for enterprise workflows and content creators, the architecture supports 40+ locales and generates a fully searchable, structured data library."
+        },
+        "challenge": {
+          "heading": "USERS CAPTURE GREAT IDEAS ON AUDIO, BUT AUDIO DOES NOT SCALE LIKE TEXT.",
+          "body": "Manual transcription was too slow; off-the-shelf APIs lacked vocabulary tuning, diarization, and privacy controls for mixed personal and work content."
+        },
+        "alert": {
+          "title": "Trust & Findability",
+          "body": "Without speaker labels and keyword search, long recordings became impossible to reuse; exports had to work across mobile and desktop without drift."
+        },
+        "techStack": [
+          "WHISPER",
+          "PYTORCH",
+          "REACT NATIVE",
+          "POSTGRES",
+          "OPENSEARCH",
+          "AWS S3"
+        ],
+        "phases": [
+          {
+            "title": "STREAMING ASR & CUSTOM LEXICON",
+            "bodyLines": [
+              "We tuned acoustic and language models for",
+              "domain terms, noisy environments, and",
+              "code-switching. Streaming inference keeps",
+              "latency under two seconds per chunk."
+            ],
+            "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299558/phase1-prediction_kc8lys.svg",
+            "imageAlt": "Waveform and transcription UI"
+          },
+          {
+            "title": "LIBRARY, SEARCH, AND COLLABORATION",
+            "bodyLines": [
+              "Full-text indexes, tags, and speaker tags",
+              "make hours of audio navigable in seconds.",
+              "Role-based sharing preserves confidentiality",
+              "while keeping edits and versions in sync."
+            ],
+            "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299564/phase2-prediction_xveafs.svg",
+            "imageAlt": "Organized notes and sharing workflow"
+          }
+        ],
+        "impact": [
+          {
+            "label": "Avg. Chunk Latency",
+            "value": "<2s",
+            "footnote": "Measured on mid-tier devices with streaming ASR enabled."
+          },
+          {
+            "label": "Searchable Library",
+            "value": "100%",
+            "footnote": "Every stored clip indexed for full-text and speaker-filtered search."
+          }
+        ],
+        "ltsv": {
+          "title": "LONG TERM STRATEGIC VALUE",
+          "cards": [
+            {
+              "title": "Creator-Grade Workflow",
+              "text": "Export pipelines to docs, captions, and CMS blocks without re-encoding entire files."
+            },
+            {
+              "title": "Compliance Ready",
+              "text": "Encryption in transit and at rest, retention policies, and tenant isolation for teams."
+            },
+            {
+              "title": "Technical Watch Outs",
+              "watchouts": [
+                "Refresh lexicons when product names or acronyms change.",
+                "Monitor WER spikes when users upgrade OS microphones or Bluetooth codecs."
+              ]
+            }
+          ]
+        },
+        "testimonial": {
+          "quote": "Our field teams finally stopped re-listening to forty-minute clips. Search alone paid for the rollout in a month.",
+          "name": "Michael Hayes",
+          "role": "Operations Manager",
+          "avatarSrc": "/static/media/Michael-Hayes.d1013c9740cfe8f0cad611da7d3efc21.svg"
+        }
+      },
+      "sentiment-investment-prediction": {
+        "hero": {
+          "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299558/case-study_bwzppv.svg",
+          "imageAlt": "Investment sentiment analysis platform",
+          "primaryBadge": "Machine Learning",
+          "secondaryBadge": "Investment & Finance",
+          "title": "SENTIMENT-AUGMENTED",
+          "subtitle": "PRICE FORECASTING LAB",
+          "description": "A research platform that fuses classical price signals with NLP-derived sentiment from news, filings, and social chatter to sharpen probabilistic forecasts."
+        },
+        "challenge": {
+          "heading": "PRICE-ONLY MODELS MISSED REGIME SHIFTS THAT TEXT DATA WARNED ABOUT EARLY.",
+          "body": "Analysts needed reproducible pipelines, leakage-safe feature windows, and explainable sentiment overlays, not another black-box leaderboard model."
+        },
+        "alert": {
+          "title": "Signal Integrity",
+          "body": "Duplicate headlines, bots, and stale filings could poison embeddings without strict deduping and time alignment to bars."
+        },
+        "techStack": [
+          "PYTHON",
+          "TRANSFORMERS",
+          "PANDAS",
+          "MLFLOW",
+          "KAFKA",
+          "GCP BIGQUERY"
+        ],
+        "phases": [
+          {
+            "title": "MULTI-SOURCE SENTIMENT GRAPH",
+            "bodyLines": [
+              "We normalized macro news, issuer filings,",
+              "and social streams into a single timeline",
+              "with entity linking and stance scoring.",
+              "Features respect market hours and embargo rules."
+            ],
+            "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299558/phase1-prediction_kc8lys.svg",
+            "imageAlt": "News and market data fusion"
+          },
+          {
+            "title": "JOINT MODELING & BACKTESTS",
+            "bodyLines": [
+              "Gradient-boosted heads consume tabular",
+              "prices plus dense sentiment aggregates.",
+              "Walk-forward validation and A/B gates",
+              "prevent silent overfit on thin histories."
+            ],
+            "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299564/phase2-prediction_xveafs.svg",
+            "imageAlt": "Backtesting dashboards"
+          }
+        ],
+        "impact": [
+          {
+            "label": "Signal Classes",
+            "value": "3",
+            "footnote": "News, social, and filings ingested with independent QA checks."
+          },
+          {
+            "label": "Model Validation",
+            "value": "A/B",
+            "footnote": "Champion/challenger releases with automatic rollback on drift."
+          }
+        ],
+        "ltsv": {
+          "title": "LONG TERM STRATEGIC VALUE",
+          "cards": [
+            {
+              "title": "Research Velocity",
+              "text": "Notebook templates and tracked experiments let quants iterate without breaking production feeds."
+            },
+            {
+              "title": "Governance",
+              "text": "Model cards document data rights, refresh cadence, and known blind spots for risk reviewers."
+            },
+            {
+              "title": "Technical Watch Outs",
+              "watchouts": [
+                "Re-index embeddings when sources change schemas or paywalls.",
+                "Watch for correlation spikes that collapse diversification assumptions."
+              ]
+            }
+          ]
+        },
+        "testimonial": {
+          "quote": "Databiqs gave us disciplined sentiment features we could defend in committee, not vibes, actual reproducible signals.",
+          "name": "Michael Hayes",
+          "role": "Operations Manager",
+          "avatarSrc": "/static/media/Michael-Hayes.d1013c9740cfe8f0cad611da7d3efc21.svg"
+        }
+      },
+      "avatar-learning-platform": {
+        "hero": {
+          "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299558/case-study_bwzppv.svg",
+          "imageAlt": "Avatar conversational learning companion",
+          "primaryBadge": "EdTech",
+          "secondaryBadge": "Conversational AI",
+          "title": "AVATAR",
+          "subtitle": "SMART ENGLISH COMPANION",
+          "description": "Avatar personalises lessons, delivers real-time corrections, and holds natural dialogues so learners build fluency with confidence on mobile or web."
+        },
+        "challenge": {
+          "heading": "GENERIC LANGUAGE APPS FAILED ON ACCENT DIVERSITY AND GOAL ALIGNMENT.",
+          "body": "Learners churned when drills felt robotic or mis-leveled. Coaches could not scale 1:1 conversation hours across time zones."
+        },
+        "alert": {
+          "title": "Pedagogy + Safety",
+          "body": "Responses had to stay encouraging, age-appropriate, and free of off-curriculum advice while still feeling human."
+        },
+        "techStack": [
+          "OPENAI API",
+          "LANGCHAIN",
+          "FASTAPI",
+          "REDIS",
+          "POSTGRES",
+          "REACT"
+        ],
+        "phases": [
+          {
+            "title": "ADAPTIVE LEVELING & GOALS",
+            "bodyLines": [
+              "Placement flows infer CEFR bands, then",
+              "adjust vocabulary density per session goal.",
+              "Progress signals feed spaced repetition for",
+              "grammar patterns that need reinforcement."
+            ],
+            "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299558/phase1-prediction_kc8lys.svg",
+            "imageAlt": "Learner dashboard and lesson path"
+          },
+          {
+            "title": "DIALOGUE COACH WITH GUARDRAILS",
+            "bodyLines": [
+              "Role-play scenarios use retrieval-grounded",
+              "prompts with policy filters. Real-time",
+              "pronunciation hints sync to lightweight",
+              "on-device models where available."
+            ],
+            "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299564/phase2-prediction_xveafs.svg",
+            "imageAlt": "Conversation practice interface"
+          }
+        ],
+        "impact": [
+          {
+            "label": "Adaptive Paths",
+            "value": "Live",
+            "footnote": "Sequences adjust from mastery signals, not static course chapters."
+          },
+          {
+            "label": "Lesson Access",
+            "value": "24/7",
+            "footnote": "Async practice plus scheduled live coaching windows."
+          }
+        ],
+        "ltsv": {
+          "title": "LONG TERM STRATEGIC VALUE",
+          "cards": [
+            {
+              "title": "Institutional Ready",
+              "text": "Classroom modes, roster sync, and analytics exports for schools and bootcamps."
+            },
+            {
+              "title": "Engagement Loop",
+              "text": "Streaks, micro-wins, and conversational variety keep completion rates high."
+            },
+            {
+              "title": "Technical Watch Outs",
+              "watchouts": [
+                "Localize idioms carefully; literal translations erode trust fast.",
+                "Monitor hallucination rate on open-ended speaking prompts weekly."
+              ]
+            }
+          ]
+        },
+        "testimonial": {
+          "quote": "Learners finally practice speaking without embarrassment. Avatar feels like a coach, not a chatbot.",
+          "name": "Michael Hayes",
+          "role": "Operations Manager",
+          "avatarSrc": "/static/media/Michael-Hayes.d1013c9740cfe8f0cad611da7d3efc21.svg"
+        }
+      },
+      "data-automation-platform": {
+        "hero": {
+          "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299558/case-study_bwzppv.svg",
+          "imageAlt": "Data automation and transformation platform",
+          "primaryBadge": "Data Engineering",
+          "secondaryBadge": "Automation",
+          "title": "DATA AUTOMATION",
+          "subtitle": "ETL TO INSIGHTS",
+          "description": "An integration-first platform that ingests messy sources, enforces cleansing rules, and publishes governed datasets for analytics and reporting in near real time."
+        },
+        "challenge": {
+          "heading": "TEAMS SPENT MORE TIME FIXING CSVS THAN ANSWERING BUSINESS QUESTIONS.",
+          "body": "Ad hoc scripts duplicated logic; schema drift broke dashboards; SLAs were unclear when upstream APIs changed without notice."
+        },
+        "alert": {
+          "title": "Pipeline Fragility",
+          "body": "One silent transformation bug skewed executive KPIs for a week. Leadership demanded observability and replayable jobs."
+        },
+        "techStack": [
+          "DBT",
+          "AIRFLOW",
+          "SNOWFLAKE",
+          "FIVETRAN",
+          "GREAT EXPECTATIONS",
+          "LOOKER"
+        ],
+        "phases": [
+          {
+            "title": "CONNECTOR MESH & CONTRACTS",
+            "bodyLines": [
+              "Fifty-plus connectors land in a raw zone",
+              "with schema contracts and versioning.",
+              "CDC streams capture deletes and late",
+              "arriving facts without double counting."
+            ],
+            "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299558/phase1-prediction_kc8lys.svg",
+            "imageAlt": "Data pipeline diagram"
+          },
+          {
+            "title": "TRANSFORM, TEST, PUBLISH",
+            "bodyLines": [
+              "dbt models encode business rules with",
+              "unit tests and anomaly monitors. Curated",
+              "marts power self-serve BI with row-level",
+              "security mapped to identity providers."
+            ],
+            "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299564/phase2-prediction_xveafs.svg",
+            "imageAlt": "Analytics and reporting dashboards"
+          }
+        ],
+        "impact": [
+          {
+            "label": "Source Connectors",
+            "value": "50+",
+            "footnote": "Prebuilt adapters plus custom REST/GraphQL templates."
+          },
+          {
+            "label": "Pipeline SLA Target",
+            "value": "99.9%",
+            "footnote": "End-to-end freshness SLO with paging on breach."
+          }
+        ],
+        "ltsv": {
+          "title": "LONG TERM STRATEGIC VALUE",
+          "cards": [
+            {
+              "title": "Decision Speed",
+              "text": "Analysts promote trusted datasets instead of exporting yet another spreadsheet."
+            },
+            {
+              "title": "Cost Control",
+              "text": "Tiered storage and incremental models keep warehouse spend predictable."
+            },
+            {
+              "title": "Technical Watch Outs",
+              "watchouts": [
+                "Reconcile row counts whenever upstream vendors change batching windows.",
+                "Document ownership per dataset. Orphaned models rot quietly."
+              ]
+            }
+          ]
+        },
+        "testimonial": {
+          "quote": "We stopped debating whose number was right. Databiqs gave us one governed path from raw ingest to board slides.",
+          "name": "Michael Hayes",
+          "role": "Operations Manager",
+          "avatarSrc": "/static/media/Michael-Hayes.d1013c9740cfe8f0cad611da7d3efc21.svg"
+        }
+      },
+      "creative-ai-design-tool": {
+        "hero": {
+          "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299558/case-study_bwzppv.svg",
+          "imageAlt": "Creative AI design tool",
+          "primaryBadge": "AI Product Design",
+          "secondaryBadge": "Generative AI",
+          "title": "CREATIVE AI",
+          "subtitle": "PROMPT-TO-PRODUCTION VISUALS",
+          "description": "Users describe what they need; the system composes on-brand imagery, layouts, and variants for campaigns, sites, and social, without a heavyweight design suite."
+        },
+        "challenge": {
+          "heading": "NON-DESIGNERS NEEDED QUALITY WITHOUT SACRIFICING BRAND SAFETY OR SPEED.",
+          "body": "Generic image APIs produced off-style assets; legal worried about likeness and trademark bleed; teams still needed PSD/Figma handoff options."
+        },
+        "alert": {
+          "title": "Brand Guardrails",
+          "body": "Prompt injection attempts could bypass style packs; policy layers and blocked tokens became mandatory before enterprise rollout."
+        },
+        "techStack": [
+          "STABLE DIFFUSION",
+          "CONTROLNET",
+          "REACT",
+          "NODE",
+          "S3",
+          "FIGMA PLUGIN API"
+        ],
+        "phases": [
+          {
+            "title": "STYLE SYSTEMS & TEMPLATES",
+            "bodyLines": [
+              "Brand palettes, typography, and safe",
+              "composition templates anchor every render.",
+              "Users iterate in natural language with",
+              "live previews and side-by-side diffs."
+            ],
+            "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299558/phase1-prediction_kc8lys.svg",
+            "imageAlt": "Creative prompt and preview grid"
+          },
+          {
+            "title": "EXPORT & COLLABORATION",
+            "bodyLines": [
+              "Vector-friendly upscaling, transparent PNGs,",
+              "and batch generation queues feed marketing",
+              "OPS. Approvals and comments live alongside",
+              "each asset version."
+            ],
+            "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299564/phase2-prediction_xveafs.svg",
+            "imageAlt": "Design export and collaboration"
+          }
+        ],
+        "impact": [
+          {
+            "label": "Export Ready",
+            "value": "4K",
+            "footnote": "Print-safe exports with optional sharpening profiles."
+          },
+          {
+            "label": "Typical Iteration",
+            "value": "<30s",
+            "footnote": "Median time from prompt tweak to refreshed candidate grid."
+          }
+        ],
+        "ltsv": {
+          "title": "LONG TERM STRATEGIC VALUE",
+          "cards": [
+            {
+              "title": "Creative Ops",
+              "text": "Reusable campaign kits shrink repetitive resizing work across channels."
+            },
+            {
+              "title": "Governed Innovation",
+              "text": "Audit logs tie every render to prompts, seeds, and model versions for compliance."
+            },
+            {
+              "title": "Technical Watch Outs",
+              "watchouts": [
+                "Refresh safety filters when base models upgrade.",
+                "Track GPU spend per workspace to avoid runaway batch jobs."
+              ]
+            }
+          ]
+        },
+        "testimonial": {
+          "quote": "We ship campaign variants in hours, not days. The guardrails let legal sleep at night.",
+          "name": "Michael Hayes",
+          "role": "Operations Manager",
+          "avatarSrc": "/static/media/Michael-Hayes.d1013c9740cfe8f0cad611da7d3efc21.svg"
+        }
+      },
+      "wellness-ai-companion": {
+        "hero": {
+          "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299558/case-study_bwzppv.svg",
+          "imageAlt": "Wellness AI digital companion",
+          "primaryBadge": "HealthTech",
+          "secondaryBadge": "Wellness",
+          "title": "WELLNESS AI",
+          "subtitle": "INTELLIGENT DIGITAL COMPANION",
+          "description": "A privacy-first companion that blends conversational coaching with biometric-aware signals to surface stress, fatigue, and imbalance patterns early, then guides users with timely, empathetic support."
+        },
+        "challenge": {
+          "heading": "WELLNESS APPS WERE EITHER CHAT-ONLY OR SENSOR-ONLY. NEVER BOTH IN SYNC.",
+          "body": "Users ignored generic tips; clinicians distrusted black-box alerts; firmware and cloud pipelines had to stay HIPAA-ready from day one."
+        },
+        "alert": {
+          "title": "Safety & Sensitivity",
+          "body": "Mental-health adjacent responses required escalation paths, crisis resources, and conservative confidence thresholds on health claims."
+        },
+        "techStack": [
+          "FLUTTER",
+          "FASTAPI",
+          "POSTGRES",
+          "TIMESCALEDB",
+          "KAFKA",
+          "AWS HIPAA"
+        ],
+        "phases": [
+          {
+            "title": "BIOMETRIC FUSION & CONTEXT",
+            "bodyLines": [
+              "Wearable and on-device signals normalize",
+              "into a timeline with consent scopes per",
+              "metric. Drift-aware baselines adapt to",
+              "sleep debt, travel, and workload cycles."
+            ],
+            "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299558/phase1-prediction_kc8lys.svg",
+            "imageAlt": "Wellness metrics and timeline"
+          },
+          {
+            "title": "GUIDED CONVERSATIONS & CARE PATHS",
+            "bodyLines": [
+              "LLM-led coaching stays inside approved",
+              "scripts with retrieval from clinical",
+              "education libraries. Proactive nudges",
+              "trigger only when fused signals agree."
+            ],
+            "imageSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:best/v1779299564/phase2-prediction_xveafs.svg",
+            "imageAlt": "Wellness coaching chat interface"
+          }
+        ],
+        "impact": [
+          {
+            "label": "Wellness Guidance",
+            "value": "Real-time",
+            "footnote": "Streaming suggestions within seconds of confirmed signal changes."
+          },
+          {
+            "label": "Private Architecture",
+            "value": "By design",
+            "footnote": "Minimized PHI footprint, encryption everywhere, tenant isolation."
+          }
+        ],
+        "ltsv": {
+          "title": "LONG TERM STRATEGIC VALUE",
+          "cards": [
+            {
+              "title": "Holistic View",
+              "text": "Correlates subjective check-ins with objective vitals for richer interventions."
+            },
+            {
+              "title": "Trust Building",
+              "text": "Transparent explanations for why a nudge fired increase adherence."
+            },
+            {
+              "title": "Technical Watch Outs",
+              "watchouts": [
+                "Revalidate thresholds across device firmware generations.",
+                "Localize crisis hotlines and regulatory copy per region."
+              ]
+            }
+          ]
+        },
+        "testimonial": {
+          "quote": "It feels supportive, not surveillance. Databiqs threaded empathy through the entire stack.",
+          "name": "Michael Hayes",
+          "role": "Operations Manager",
+          "avatarSrc": "/static/media/Michael-Hayes.d1013c9740cfe8f0cad611da7d3efc21.svg"
+        }
+      }
+    }
+  },
+  "blogs": {
+    "posts": [
+      {
+        "id": 1,
+        "tag": "Enterprise AI",
+        "category": "AI & Automation",
+        "title": "AI Development Company in Pakistan: Premium AI & Software Solutions to Grow Your Business",
+        "date": "September 04, 2025",
+        "readTime": "12 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295410/8084751-uhd_3840_2160_25fps_gloxzu.mp4",
+        "excerpt": "As a leading AI Services Provider & Software Development Company based in Pakistan, we build intelligent, scalable and secure AI systems that help businesses innovate, automate and grow.",
+        "content": "Are you searching for a top-rated AI development company that delivers cutting-edge artificial intelligence solutions to transform your business? You're in the right place. As a leading AI Services Provider & Software Development Company based in Pakistan, we specialize in building intelligent, scalable, and secure AI systems that help businesses innovate, automate, and grow.\n\n## What is an AI Development Company?\nAn AI development company uses advanced technologies such as machine learning (ML), deep learning, natural language processing (NLP), computer vision, and data analytics to create smart applications and software. These systems drive automation, improve decision-making, enhance user experience, and unlock business value.\n\n## Why Choose Us as Your AI Development Partner?\n- Expert AI & Software Development Team\n- End to End AI Solutions\n- Cutting-Edge Technologies\n\nOur team has real experience building custom AI applications, intelligent chatbots & virtual assistants, predictive analytics platforms, machine learning models, and computer vision systems.\n\nFrom strategy & consulting to deployment & support, we cover the complete AI lifecycle: AI Solution Architecture, Data Modeling & Engineering, Real-time ML Integration, API Development & Cloud Deployment.\n\nWe leverage TensorFlow, PyTorch, Scikit-Learn, NLP, reinforcement learning, and big data analytics & visualizations.\n\n## Our AI Development Services\n1. Custom AI Software Development\n2. Machine Learning Development\n3. Natural Language Processing (NLP) Solutions\n4. Computer Vision & Image Recognition\n5. AI Consultancy & Strategy\n\n## Industries We Serve\nE-commerce & Retail, Healthcare & Med-Tech, Fintech & Banking, Marketing & Advertising, Manufacturing & Supply Chain, Education & E-learning.\n\n## Why Our AI Development Services Rank Top\n- Proven Results\n- Client-Focused Approach\n- Scalable & Secure\n- Affordable AI Solutions\n\n## FAQs, AI Development Services\nWhat services do AI development companies provide? They offer AI strategy, custom software, ML models, NLP systems, and automation tools.\nHow long does an AI solution take to build? Depending on complexity, projects can range from weeks to months.\nWhat industries need AI? Virtually every industry, finance, healthcare, retail, logistics, education, and more.\n\nTransform your business with AI today. Contact us now to start your AI journey.",
+        "detailMedia": [
+          {
+            "afterNthSection": 3,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "AI architecture and predictive systems"
+          },
+          {
+            "afterNthSection": 6,
+            "src": "/static/media/case-study-phase-execution.c1299ff83a610029aba5.jpg",
+            "alt": "Production deployment and engineering"
+          }
+        ],
+        "seo": {
+          "metaTitle": "AI Development Company in Pakistan: Premium AI &… | Databiqs",
+          "metaDescription": "As a leading AI Services Provider & Software Development Company based in Pakistan, we build intelligent, scalable and secure AI systems that help businesses…",
+          "keywords": "Databiqs, AI Development, Enterprise AI, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation, AI development company Pakistan, software development Pakistan, custom AI solutions",
+          "canonicalPath": "/blog-detail/1"
+        },
+        "topicKey": "automation"
+      },
+      {
+        "id": 2,
+        "tag": "AI Consulting",
+        "category": "Strategy & ROI",
+        "title": "AI Consulting Services: Empowering Your Business with Intelligent Solutions",
+        "date": "September 06, 2025",
+        "readTime": "11 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295407/7687810-uhd_4096_2160_24fps_lywssl.mp4",
+        "excerpt": "AI consulting services offer strategic guidance and expert insights to help companies harness the full potential of artificial intelligence.",
+        "content": "In today's fast-paced technological landscape, businesses must stay ahead of the curve. AI consulting services offer strategic guidance and expert insights to help companies harness the full potential of artificial intelligence (AI) to solve complex problems, enhance operational efficiency, and drive growth.\n\n## What is AI Consulting?\nAI consulting involves guiding businesses in adopting AI technologies, developing AI strategies, and implementing AI-based solutions. AI consultants work closely with organizations to evaluate their needs, assess readiness for AI, and design actionable strategies for AI integration.\n\n## Why AI Consulting is Important\n- Unlock Business Value across healthcare, finance, retail, logistics and more\n- Tailored AI Strategy aligned with your business goals and data ecosystem\n- Tech Expertise in data science, ML, deep learning and deployment\n- End to End AI Solutions from strategy to production\n\n## Key AI Consulting Services Offered\n- AI Readiness Assessment\n- AI Strategy Development\n- Machine Learning & Data Science\n- Natural Language Processing (NLP)\n- AI Integration\n- Predictive Analytics\n- AI Governance & Ethics\n\n## Why Choose AI Consulting?\nOur consulting model is customized to your business requirements, data maturity, and operating goals. We prioritize measurable outcomes including cost reduction, improved efficiency, and stronger decision quality.\n\n## Industry Benefits\nHealthcare: diagnostics and workflow automation\nFinance: fraud detection and risk analysis\nRetail: personalization and demand forecasting\nManufacturing: predictive maintenance\nLogistics: route optimization and supply chain prediction\n\n## FAQs: AI Consulting Services\nWhat does an AI consulting engagement usually start with? A readiness assessment, data and workflow mapping, and a prioritized backlog tied to measurable KPIs.\nHow long does strategy work take before build? Often 3 to 6 weeks for focused domains; larger enterprises may run parallel tracks.\nDo consultants replace internal teams? The best outcomes transfer ownership: internal teams ship with external acceleration, not permanent dependency.\nWhen should we pause AI investments? When foundational data access, governance, or security controls are missing for the intended use case.\n\nTransform your business with AI-powered solutions tailored specifically for your needs. Get in touch with our AI consulting experts today.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Machine learning strategy illustration"
+          },
+          {
+            "afterNthSection": 5,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "AI consulting roadmap"
+          }
+        ],
+        "seo": {
+          "metaTitle": "AI Consulting Services: Empowering Your Business… | Databiqs",
+          "metaDescription": "AI consulting services offer strategic guidance and expert insights to help companies harness the full potential of artificial intelligence. Read the full ar…",
+          "keywords": "Databiqs, AI Consulting, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/2"
+        },
+        "topicKey": "strategy"
+      },
+      {
+        "id": 3,
+        "tag": "Machine Learning",
+        "category": "Data & Analytics",
+        "title": "Why Enterprise Teams Are Investing In Machine Learning Development Services, and What They're Getting Wrong",
+        "date": "September 09, 2025",
+        "readTime": "14 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8501993-uhd_2160_3840_25fps_iodbgy.mp4",
+        "excerpt": "The gap between experimenting with ML and actually deploying it is where most enterprises lose millions.",
+        "content": "From proof of concept graveyards to production-grade intelligence, the gap between experimenting with ML and deploying it is where most enterprises lose millions.\n\nThe pilot worked. The notebook looked great. Leadership approved budget. Then nothing shipped. This is the most common story in enterprise machine learning today: failure at the system level, not the algorithm level.\n\n## The Real Cost Of Building ML In-House\nTraditional: 12 to 18 months and a 9-person build path.\nML Services: 3 to 5 months with a specialized delivery team.\nReal-world result: $2.1M saved by outsourcing a fraud detection pipeline instead of building from scratch.\n\n## What Production ML Actually Requires\nWhat enterprises think ML is: train model, score well, hand to engineering.\nWhat production ML is: ingestion pipelines, feature engineering, model registry, serving infra, latency optimization, drift monitoring, retraining triggers, rollback.\n\n## Five Capabilities That Separate Serious ML Partners\n1) Data pipeline architecture that survives reality\n2) Inference infrastructure matched to latency budget\n3) Monitoring and drift detection from day one\n4) Explainability for trust and compliance\n5) Knowledge transfer that avoids dependency\n\n## Build vs Buy Framework\nBuild in-house when ML is a core differentiator and you have mature infra + runway.\nUse ML development services when speed-to-production, missing MLOps muscle, or past stalled pilots make in-house risky.\nHybrid works best for many enterprises: partner for first production system, then internalize operations.\n\n## Typical Engagement Timeline\nWeeks 1 to 3: data audit & framing\nWeeks 4 to 8: feature engineering & baseline model\nWeeks 9 to 14: production architecture & optimization\nWeeks 15 to 18: deployment, validation, handoff\n\n## FAQs: Enterprise Machine Learning\nWhat is the biggest reason ML pilots fail? Missing production requirements: monitoring, data contracts, and integration ownership.\nWhen should we outsource ML development? When time to market, specialized MLOps skills, or past delivery risk justify a partner for the first production system.\nHow do we avoid vendor lock in? Require documented pipelines, portable model formats, and knowledge transfer milestones in the contract.\nWhat metrics matter beyond accuracy? Latency, drift, business KPI lift, and cost per inference at target scale.\n\nProduction ML is not a dashboard someone checks weekly, it's decision intelligence delivered in the tools teams already use, with actionable recommendations.",
+        "detailMedia": [
+          {
+            "afterNthSection": 3,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "ML pipelines and feature engineering"
+          },
+          {
+            "afterNthSection": 5,
+            "src": "/static/media/case-study-phase-execution.c1299ff83a610029aba5.jpg",
+            "alt": "MLOps deployment"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Why Enterprise Teams Are Investing In Machine Le… | Databiqs",
+          "metaDescription": "The gap between experimenting with ML and actually deploying it is where most enterprises lose millions. Read the full article for frameworks, checklists, an…",
+          "keywords": "Databiqs, Machine Learning, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/3"
+        },
+        "topicKey": "analytics"
+      },
+      {
+        "id": 4,
+        "tag": "Custom AI",
+        "category": "Customer Experience",
+        "title": "Custom AI Solutions Are Replacing Off the Shelf Tools Across The Enterprise: Here's Why Generic Doesn't Scale",
+        "date": "September 12, 2025",
+        "readTime": "16 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295407/6153453-uhd_4096_2160_25fps_ga2r4k.mp4",
+        "excerpt": "Enterprises winning with AI aren't buying generic products. They're engineering systems around their own data and workflows.",
+        "content": "You bought the platform. The demo looked perfect. Then your real data hit production realities and the system stalled at 11% adoption.\n\nCustom doesn't mean complexity for its own sake. It means an AI system designed around your data, decisions, constraints, and competitive context.\n\n## The Hidden Cost Of “Almost Fits”\nOff the shelf licensing often covers 60 to 70% of requirements. The remaining 30% becomes manual workarounds, brittle scripts, and cross-team friction.\nCustom AI can cost more upfront, but often wins over a 2 to 3 year horizon by eliminating recurring licensing + operational drag.\n\n## Where Off the Shelf Breaks\nOff the shelf works for generic problems.\nCustom is necessary when:\n- your data is proprietary\n- your business logic is domain-specific\n- accuracy thresholds directly impact revenue/risk\n- compliance and explainability are strict\n\n## Five Signals You Need Custom AI\n1) Your data is a moat\n2) You outgrew configuration panels\n3) Accuracy differences have financial impact\n4) AI must fit existing workflow, not replace it\n5) Regulatory transparency is mandatory\n\n## Anatomy Of A Custom AI Engagement\nPhase 1: problem framing + feasibility\nPhase 2: feature architecture\nPhase 3: model development + validation\nPhase 4: production integration\nPhase 5: handoff + continuous improvement\n\n## FAQs: Custom Enterprise AI\nWhen is custom AI worth the premium? When proprietary data, strict accuracy thresholds, or deep workflow fit create durable advantage generic tools cannot match.\nHow do we control scope creep? Timebox discovery, freeze MVP decisions, and measure one primary KPI before expanding features.\nWhat team do we need internally? A product owner, domain SMEs, and engineering partners for integration; ML depth can be hybrid with vendors.\nWhat contract terms matter? IP ownership, SLAs on retraining, and exit portability for models and data pipelines.\n\nCustom AI compounds: each quarter of production data improves your model on your exact business reality. That's a durable competitive advantage.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Custom AI systems"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/case-study-phase-execution.c1299ff83a610029aba5.jpg",
+            "alt": "Custom implementation"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Custom AI Solutions Are Replacing Off the Shelf… | Databiqs",
+          "metaDescription": "Enterprises winning with AI aren't buying generic products. They're engineering systems around their own data and workflows. Read the full article for framew…",
+          "keywords": "Databiqs, Enterprise AI, Custom AI, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/4"
+        },
+        "topicKey": "cx"
+      },
+      {
+        "id": 5,
+        "tag": "Enterprise AI",
+        "category": "AI Chatbot",
+        "title": "Enterprise AI Solutions Are No Longer A Strategy Slide: They're The Operating System Behind Every Decision That Scales",
+        "date": "September 15, 2025",
+        "readTime": "18 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8467244-uhd_3840_2160_25fps_nmac7z.mp4",
+        "excerpt": "The enterprises that win won't be those with the most data, but those whose AI changes decisions in real time.",
+        "content": "Most enterprises in 2026 have AI pilots, dashboards, and vendor partnerships, but few have AI that changes real decisions at enterprise speed.\n\nEnterprise AI solutions that work are not model collections. They are a decision infrastructure layer that ingests data, generates calibrated predictions, and delivers them to the right person in the right tool at the right moment.\n\n## Why 87% Of Enterprise AI Never Reaches Production\nPilots are built in clean environments with narrow scope and model-metric success criteria.\nProduction demands messy data handling, cross-system integration, latency constraints, governance, and outcome-based measurement.\n\n## What Production Enterprise AI Looks Like\n- Revenue ops risk signals inside CRM with recommended actions\n- Supply chain anomaly detection triggering approved automated responses\n- Human role shifts from manual execution to strategic validation\n\n## The 4-Layer Architecture\n1) Data Foundation (real-time, versioned feature layer)\n2) Intelligence Layer (models as services, not isolated notebooks)\n3) Decision Integration Layer (predictions embedded in existing workflows)\n4) Governance & Trust Layer (lineage, explainability, fairness, controls)\n\n## Deployment Patterns That Scale\n- Augmented decisions (human final call)\n- Automated execution with oversight (rules + limits)\n- Autonomous loops (AI senses, decides, acts, learns within guardrails)\n\n## Why Programs Stall\n- no shared platform\n- no operating model\n- no direct link between model output and business metrics\n\n## FAQs: Scaling Enterprise AI\nWhat is the fastest path from pilot to production? Pick one workflow with clean data, embed predictions in the tool users already use, and fund operations upfront.\nHow do we align business and IT? Shared OKRs on revenue, risk, or cycle time metrics with joint steering every two weeks.\nWhat platform decisions come first? Identity, logging, feature access patterns, and model registry conventions before model variety.\nWhen should we pause scaling? When incident rates, drift, or audit findings exceed thresholds defined in advance.\n\nThe organizations that scale AI are building an operating system for decisions, not a slide deck strategy for innovation theater.",
+        "detailMedia": [
+          {
+            "afterNthSection": 3,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "Enterprise data foundation"
+          },
+          {
+            "afterNthSection": 6,
+            "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ0AAAAqCAMAAACeN6kpAAAAe1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAD8/PwAAAAAAAAAAAAA/77+/v4AAAD///8BOr4AM64AXPgCcf4BTd4DLJcAQ88BZ/wBV+wCg/7S6v631foBkP8Bn/4Bev8ARfEEGHr1+f4Frf9LbL7l8P5OmvybuvJFeuF/l9RyvPuMINy6AAAAC3RSTlMAfCMQQmDEQOWikCVcbuwAAAQwSURBVFjD7ZltU6MwEIAbCLmEKYFiUYtKsZXW//8LL9nshoSi03pqdeb2Qy1JIA/73rj48wFZfJssPyD/6X4NnX5XrkynN+/JfjkF/F66/vHZyKORh4eH+/v7p6e6vjWyAulW9dDrq9Fp/fr8HPA5QIsIjBaze9HXs+z+EdkCuNrC1aMGN/pqUTHRnKezcIB3d9cN+kN0XAih/i2jtI8TuBrhgMyw3YV4F22QFUUhJ2NMFvn5lu37hxmzouIQ7qZr2k+iS8xQwc/XnX6es+qoNwNnpHmTjjPGssvosgvo2idKJWMgrDoQYHN0B5f5Tp/CzHbifMsKM5RcUMn0pn1DhkPnNHfTNGW//BS6NGPpZXXW162xgOHF3rEZuub4Obr7SBeg/WdUGcxFA5ozUoJpwdGUkFLk4NsJExbB+J67gimVpQEdz4Udopcxgpblyk5w8Fx4WGpvF+bJ6Rs9io7xlv2mcVJWe6c7u6UT6z/+SpLLuyvu6USw2oiP2YQmlLIfdrmk28Up3VxrYr6C5sqyrAY9obMbvkHnCIKlHo/mEhlNqmhETuiMzl5fSIYQ71gCXFkdkU7kGefcvrDJq8Y69mlK5bCjm5L4+o5O5ozBxjIN6ARO5ZLoYDUz9zMhT3TX1zav2KTS7QNm3ZYOrto5ujSIBjkfFdzuQ2YXCa0GKvwLS5R9VqqQjo0xNPU706w8Yf+0ipqSZVs6OKIzypPGm3LYekJn1WYdHREypLQi0blwio2emMpAdzLnc527rqm56/Y6tPhQObj1zvrjIhWhu8R0rIgdL8woOS7DKRW8E0ZFSn6n+JROD1Z1UC0OOvLHHcKtnd+BHaSUM3ToZnKWjuwW0KmYbpEoerN8SndPcN0mynd9ZdmqdbVtgU6iv7hHRXQCrZWwGToV6y4/1Z3PnjY44mzc1mjX1W2c8Halo1tvoZSNPQY/oZPusSNCNpb8hFQSTvFxyreBSYZuGHkdkNni3y6DiqYPlTOrEUiDaUEIDOnI9VPv+H5rZ2pbV7mcxCw4mcxs3ZWUUZy/kZYDuH6zJzEdn5e2JM2tt4PrAlx6y9AEpEPjbQysVfgpPmZj6XPamO9YNIUxa+JdqRndQQUDfb100D7dNJiEnea2W1eEESaI2YV3lTj9k9/5AZFGlWwM8DCjjGVlts7uO/tLArumAK5dYo/ijFQI8jsKNeZLpwTtIZ3wg2lcZ6msSoZRkSh6E0jgsz3Ay8p1ww3BgVm3az32xgnPsqiBTDIasFMnfTkMzjV1eF8Qs2YlLZ09KOkArmlizW31F/5iDHPfO6c8xvteA8UFcF/6e/ZMOsPXRVZdT+G+k+70iGkIw4EUd9TLH6E7PYlVg7bd9V99jnKu320OTnYkx41vlPWX0aVJkqRnnX26tp2a99PjxZ90Mvuz6X7Tqbb+Vrof/d+Uv4IuuGn8InLdAAAAAElFTkSuQmCC",
+            "alt": "Databiqs"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Enterprise AI Solutions Are No Longer A Strategy… | Databiqs",
+          "metaDescription": "The enterprises that win won't be those with the most data, but those whose AI changes decisions in real time. Read the full article for frameworks, checklis…",
+          "keywords": "Databiqs, Enterprise AI, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/5"
+        },
+        "topicKey": "chatbot"
+      },
+      {
+        "id": 6,
+        "tag": "Generative AI",
+        "category": "AI Consulting",
+        "title": "Generative AI In Production: Moving Beyond Demos To Reliable, Governed Systems",
+        "date": "October 02, 2025",
+        "readTime": "13 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295410/8084751-uhd_3840_2160_25fps_gloxzu.mp4",
+        "excerpt": "Teams that ship generative AI treat prompts as code, outputs as data products, and evaluation as continuous, not a one-time benchmark run.",
+        "content": "Generative AI went from novelty to board mandate in under two years. The gap now is not model access but production discipline: latency budgets, safety rails, traceability, and cost controls.\n\n## Why Demos Fail In Production\nDemos optimize for the best-case prompt and a narrow document set. Production hits long-tail inputs, ambiguous user intent, stale knowledge, and strict compliance language.\n\n## A Practical Production Stack\n- Retrieval that is versioned, permission-aware, and observable\n- Structured output contracts (JSON schemas, tool calls) instead of free-form prose for critical paths\n- Automated evaluation suites: regression sets, toxicity checks, and task-specific graders\n- Human in the loop workflows where confidence is below threshold\n\n## Governance Without Killing Velocity\nSeparate experimentation sandboxes from customer-facing surfaces. Log prompts, completions, and tool traces. Redact PII at ingestion. Rotate API keys and model versions with migration windows.\n\n## Cost And Latency Reality\nCaching embeddings, batching where possible, and routing simple queries to smaller models often cuts spend 40 to 60% without hurting quality on measured tasks.\n\n## FAQs: Generative AI In Production\nWhat belongs in a minimum evaluation suite? Regression prompts, safety checks, tool misuse tests, and latency benchmarks on production hardware profiles.\nHow do we handle stale knowledge? Versioned retrieval, scheduled refreshes, and explicit “I don’t know” behaviors below confidence thresholds.\nWho approves prompt changes? Use code review style approvals for customer facing prompts tied to risk tier.\nWhat is the biggest hidden cost? Unbounded token usage from verbose prompts and missing caching on repeated context.\n\nGenerative AI wins when it is embedded where decisions happen, with the same engineering rigor you expect from payments or identity systems.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Gen AI evaluation"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/case-study-phase-execution.c1299ff83a610029aba5.jpg",
+            "alt": "Production guardrails"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Generative AI In Production: Moving Beyond Demos… | Databiqs",
+          "metaDescription": "Teams that ship generative AI treat prompts as code, outputs as data products, and evaluation as continuous, not a one-time benchmark run. Read the full arti…",
+          "keywords": "Databiqs, Enterprise AI, Generative AI, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/6"
+        },
+        "topicKey": "ai-consulting"
+      },
+      {
+        "id": 7,
+        "tag": "MLOps",
+        "category": "Neural Networks",
+        "title": "MLOps For Small Teams: Shipping Models Without A Dedicated Platform Squad",
+        "date": "October 18, 2025",
+        "readTime": "12 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295407/7687810-uhd_4096_2160_24fps_lywssl.mp4",
+        "excerpt": "You do not need a bespoke feature store on day one, you need reproducible training, versioned artifacts, and a boring deployment path.",
+        "content": "MLOps is often sold as a platform purchase. For most product teams, the highest leverage is boring: reproducible environments, pinned dependencies, versioned datasets, and a single blessed path to production.\n\n## Minimum Viable MLOps\n1) One experiment tracking convention (even a spreadsheet beats nothing)\n2) Model artifacts stored with semantic versions and training metadata\n3) A container or serverless bundle for inference with health checks\n4) Basic monitoring: latency, error rate, and simple distribution checks on inputs\n\n## When To Add Complexity\nAdd feature stores and real-time serving when offline batch features stop matching online behavior, or when multiple models share the same transformations under tight latency.\n\n## Documentation That Actually Helps\nRunbooks for rollback, retraining triggers, and who gets paged beat architecture diagrams nobody opens.\n\n## FAQs: MLOps For Small Teams\nWhat is the first monitoring to add? Latency, error rate, and basic input distribution stats with alerts tied to runbooks.\nWhen do we need a feature store? When online offline skew appears or multiple models duplicate transformation logic under latency pressure.\nHow small can the team be? Two to four engineers can run serious MLOps if they choose boring tools and one blessed deploy path.\nWhat documentation is mandatory? Model card summary, training data lineage link, and rollback steps tested quarterly.\n\nSmall teams ship fastest when MLOps choices reduce cognitive load: fewer tools, clearer ownership, and automation only where it removes repeated mistakes.",
+        "detailMedia": [
+          {
+            "afterNthSection": 3,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "Versioned ML artifacts"
+          },
+          {
+            "afterNthSection": 5,
+            "src": "/static/media/case-study-phase-execution.c1299ff83a610029aba5.jpg",
+            "alt": "Deployment runbook"
+          }
+        ],
+        "seo": {
+          "metaTitle": "MLOps For Small Teams: Shipping Models Without A… | Databiqs",
+          "metaDescription": "You do not need a bespoke feature store on day one, you need reproducible training, versioned artifacts, and a boring deployment path. Read the full article…",
+          "keywords": "Databiqs, Machine Learning, MLOps, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/7"
+        },
+        "topicKey": "neural"
+      },
+      {
+        "id": 8,
+        "tag": "AI Strategy",
+        "category": "AI Solutions",
+        "title": "From Pilot To Portfolio: How Leadership Prioritizes AI Bets Without Boiling The Ocean",
+        "date": "November 05, 2025",
+        "readTime": "11 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8501993-uhd_2160_3840_25fps_iodbgy.mp4",
+        "excerpt": "The best AI portfolios look boring on a spreadsheet: a few high-conviction bets, clear stage gates, and ruthless deprioritization of science projects.",
+        "content": "Most enterprises do not fail at AI because they lack ideas. They fail because every team runs a pilot and nobody owns the portfolio view.\n\n## A Simple Prioritization Lens\nImpact × feasibility × strategic fit. If a use case scores high on impact but your data is not ready, it belongs in a research track, not a production commitment.\n\n## Stage Gates That Work\nDiscovery: problem framing and data reality check.\nPrototype: narrow KPI and 6-week timebox.\nProduction candidate: security, latency, and operational runbook signed.\nScale: only after measured lift in the business metric you named on day one.\n\n## What To Stop Doing\nFunding duplicate pilots that solve the same workflow. Buying platforms before the top three workflows are defined. Measuring model accuracy when the business cares about revenue or cycle time.\n\n## FAQs: AI Portfolio Prioritization\nHow many production bets should a mid size enterprise run? Often two to four serious workflows per year with executive sponsorship each.\nWhat kills portfolio discipline? Funding science projects without timeboxes or success metrics tied to customer outcomes.\nHow do we compare AI to non AI investments? Use the same capital hurdle rates and risk registers; avoid special pleading.\nWho owns the kill decision? A single portfolio sponsor with finance and product peers to avoid sunk cost bias.\n\nLeadership’s job is not to pick every model. It is to enforce a portfolio rhythm: fund, learn, kill, or scale, with evidence.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "AI portfolio prioritization"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Stage gates"
+          }
+        ],
+        "seo": {
+          "metaTitle": "From Pilot To Portfolio: How Leadership Prioriti… | Databiqs",
+          "metaDescription": "The best AI portfolios look boring on a spreadsheet: a few high-conviction bets, clear stage gates, and ruthless deprioritization of science projects. Read t…",
+          "keywords": "Databiqs, AI Consulting, AI Strategy, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/8"
+        },
+        "topicKey": "solutions"
+      },
+      {
+        "id": 9,
+        "tag": "Enterprise AI",
+        "category": "AI & Automation",
+        "title": "Robotic Process Automation And AI: Where Rules End And Learning Begins",
+        "date": "December 02, 2025",
+        "readTime": "13 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295407/6153453-uhd_4096_2160_25fps_ga2r4k.mp4",
+        "excerpt": "Hybrid automation works best when deterministic workflows own the easy 80% and models handle messy exceptions with clear human review.",
+        "content": "Operations teams often overfit to either pure RPA or pure ML. The durable pattern is a boundary: rules for stable inputs, learning for drift, and explicit queues when confidence is low. This article walks through how to design that boundary, instrument it, and keep it maintainable as vendors, UIs, and upstream systems change.\n\n## Designing The Handoff\nStart with measurable cycle time and error rate, not tool brands. Instrument every handoff so you can see where work piles up after a process change. For each workflow, document the trigger, the expected inputs, the deterministic branch, the ML exception path, and the human queue. When volume spikes, you should be able to see whether the bottleneck is rules, models, or staffing.\n\n## What Breaks In Practice\nFragile selectors, unversioned spreadsheets, and “temporary” manual overrides become permanent risk. Treat automation assets like production code: reviews, tests, and owners. Add regression tests for critical selectors, freeze spreadsheet schemas where they feed automation, and require expiry dates on any manual workaround.\n\n## Building A Confidence Ladder\n- Low risk steps: fully automated with logging only\n- Medium risk: automated with sampling audit\n- High risk: model suggests, human approves within SLA\n\nCalibrate thresholds using historical disagreement rates between model and human reviewers, not only offline accuracy.\n\n## Operating Model For Hybrid Automation\nAssign a single owner for the end to end workflow, even if multiple tools implement it. Run monthly failure reviews that include both RPA incidents and model drift events. Budget time for retraining and selector maintenance the same way you budget feature work.\n\n## Governance And Auditability\nRegulators and enterprise customers increasingly expect explainability for automated decisions. Store model version, training data snapshot identifier, and policy version alongside each automated action. For RPA, store bot version and configuration hash so replay is possible.\n\n## FAQs: RPA And AI Together\nWhen should we use RPA versus ML? Use RPA when rules are stable and inputs are structured. Use ML when inputs are messy, language is natural, or the mapping from input to action is learned from data.\nHow do we avoid brittle bots? Invest in observability, versioned configs, and staged rollouts; treat exceptions as first class product requirements.\nWhat is the biggest mistake teams make? Automating the happy path only and leaving exceptions as unmanaged email threads instead of a designed queue.\nHow long until hybrid automation pays off? Many teams see measurable cycle time reduction within one quarter when they start with high volume, well scoped workflows.\n\nThe goal is fewer touches, not zero humans. Keep escalation paths obvious and fast.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Automation and ML boundary"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/case-study-phase-execution.c1299ff83a610029aba5.jpg",
+            "alt": "Operations handoff"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Robotic Process Automation And AI: Where Rules E… | Databiqs",
+          "metaDescription": "Hybrid automation works best when deterministic workflows own the easy 80% and models handle messy exceptions with clear human review. Read the full article…",
+          "keywords": "Databiqs, Enterprise AI, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/9"
+        },
+        "topicKey": "automation"
+      },
+      {
+        "id": 10,
+        "tag": "Enterprise AI",
+        "category": "AI & Automation",
+        "title": "Workflow Orchestration Patterns For Reliable AI Handoffs",
+        "date": "December 06, 2025",
+        "readTime": "12 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8467244-uhd_3840_2160_25fps_nmac7z.mp4",
+        "excerpt": "Reliable orchestration is the difference between a demo assistant and a system that survives holidays, outages, and partial dependency failures.",
+        "content": "Orchestration is where AI products quietly fail: retries, idempotency, timeouts, and partial failures are boring until revenue depends on them. Strong orchestration turns fragile chains of APIs, models, and human steps into a system that degrades predictably under stress.\n\n## Minimum Reliability Patterns\nUse explicit state machines for customer visible flows. Separate “intent understanding” from “action execution” so you can roll back actions without losing conversation context. Every external call should have timeouts, budgets, and compensating actions where money or compliance is involved.\n\n## Idempotency And Retries\nDesign side effects so duplicate delivery does not double charge or double ship. Use idempotency keys for payments and inventory holds. Exponential backoff helps third party instability, but cap total wait so users are not trapped.\n\n## Observability That Helps Teams\nTrace IDs across tools, model calls, and downstream APIs. If you cannot answer “what happened for customer X in 60 seconds,” you are not ready for scale. Dashboards should include redrive counts, stuck workflows, and dependency latency percentiles.\n\n## Failure Modes To Rehearse\n- Partial writes where one system succeeded and another failed\n- Model latency spikes that exhaust thread pools\n- Human approval queues that block automation during holidays\n\nRun game days with injected failures before peak season.\n\n## FAQs: Workflow Orchestration\nWhat is the smallest orchestration win? A single customer journey with explicit states, tracing, and a manual redrive button for support.\nHow do we choose orchestration tooling? Prefer boring, well understood engines when you need durability; avoid novelty unless you have strong platform expertise.\nShould LLMs drive orchestration directly? Usually no for money critical paths; use structured tools and deterministic state machines with LLM as one step.\nWhen do we need saga patterns? When a workflow spans multiple services that cannot share a single database transaction.\n\nShip small orchestration wins first. Complexity compounds faster than model accuracy improves.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "Workflow orchestration"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Tracing across tools"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Workflow Orchestration Patterns For Reliable AI… | Databiqs",
+          "metaDescription": "Reliable orchestration is the difference between a demo assistant and a system that survives holidays, outages, and partial dependency failures. Read the ful…",
+          "keywords": "Databiqs, Enterprise AI, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/10"
+        },
+        "topicKey": "automation"
+      },
+      {
+        "id": 11,
+        "tag": "Enterprise AI",
+        "category": "AI & Automation",
+        "title": "Reducing Manual Touchpoints In Finance Operations With Document AI",
+        "date": "December 10, 2025",
+        "readTime": "13 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295410/8084751-uhd_3840_2160_25fps_gloxzu.mp4",
+        "excerpt": "Document AI pays off when extraction feeds a reconciliation workflow with confidence scoring, not when it only populates a static database.",
+        "content": "Finance workflows reward precision. The best implementations pair extraction with business rules, sampling audits, and targeted human review on the highest risk fields. Document AI becomes enterprise grade when it is embedded in posting, exception handling, and audit trails, not when it is a standalone demo.\n\n## Start With The Worst Exceptions\nPick the document types that burn the most analyst hours. Build evaluation sets from real historical samples, including messy scans and edge layouts. Measure field level precision and recall, not only end to end “did it look right” reviews.\n\n## Pipeline Stages That Matter\n- Ingestion and deskewing\n- Layout detection and table reconstruction\n- Field extraction with confidence scores\n- Business rule validation against ERP master data\n- Human review queues prioritized by dollar impact\n\n## Controls That Auditors Respect\nLog model versions, prompt or template changes, and reviewer edits. Make it easy to reproduce a decision trail for a single transaction. Separate duties so the same person cannot approve a model change and disable monitoring in the same session without escalation.\n\n## Change Management For Finance Teams\nTrain reviewers on failure patterns, not only on happy paths. Publish monthly accuracy reports by document type and vendor. When accuracy dips after a vendor format change, roll back extraction templates quickly.\n\n## FAQs: Document AI In Finance\nIs generative AI required? Not always; many invoice workflows succeed with layout models plus rules. Generative approaches help when language is unstructured.\nHow do we reduce false positives in review? Tune thresholds per field based on financial exposure, not one global score.\nWhat data should we never send to cloud models? Define a data classification policy first; tokenize or redact where possible.\nHow long is a typical rollout? 8 to 16 weeks for a focused document family with clean evaluation data.\n\nDocument AI is not magic OCR. It is a pipeline problem: ingestion, normalization, extraction, validation, and downstream posting.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/case-study-phase-execution.c1299ff83a610029aba5.jpg",
+            "alt": "Finance document processing"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "Confidence and review"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Reducing Manual Touchpoints In Finance Operation… | Databiqs",
+          "metaDescription": "Document AI pays off when extraction feeds a reconciliation workflow with confidence scoring, not when it only populates a static database. Read the full art…",
+          "keywords": "Databiqs, Enterprise AI, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/11"
+        },
+        "topicKey": "automation"
+      },
+      {
+        "id": 12,
+        "tag": "AI Strategy",
+        "category": "Strategy & ROI",
+        "title": "Measuring AI ROI Beyond Proof Of Value Workshops",
+        "date": "December 14, 2025",
+        "readTime": "12 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295407/7687810-uhd_4096_2160_24fps_lywssl.mp4",
+        "excerpt": "ROI improves when you tie models to operational metrics your CFO already trusts, not when you publish another accuracy leaderboard.",
+        "content": "Workshops create alignment, but ROI requires instrumentation in real workflows. Pick one business metric, define the counterfactual, and measure over a long enough window to survive seasonality. The CFO cares about cash, risk, and cycle time, not F1 scores.\n\n## A Practical ROI Stack\nBaseline the manual process cost, include error and rework, and add latency costs where relevant. For AI, separate one time integration from steady state run costs. Build a simple model: monthly benefit equals (units processed times unit savings) minus (compute plus support plus governance).\n\n## Measurement Windows And Counterfactuals\nUse holdouts or staggered rollouts when ethics and operations allow. If you cannot run a clean experiment, document assumptions explicitly and update quarterly as reality diverges.\n\n## Common ROI Traps\nOptimizing model metrics nobody pays for, ignoring maintenance headcount, and counting “hours saved” without verifying behavior change. Another trap is attributing all gains to AI when parallel process fixes also shipped.\n\n## Storytelling That Survives Scrutiny\nLead with the business outcome, then show the instrumentation that proves it. Include confidence intervals and known confounders. When ROI is negative early, explain the learning purchased and the decision to pivot or persevere.\n\n## FAQs: AI ROI\nWhat is a minimum viable ROI case? One workflow, one KPI, twelve weeks of measurement, and a pre agreed kill scale threshold.\nShould ROI include intangible benefits? Mention them, but keep the core case numeric so capital committees can compare options.\nHow do we price vendor versus build? Include three year TCO: licenses, integrations, headcount, and opportunity cost of delayed launches.\nWho owns ROI reporting? Ideally finance and product jointly to avoid optimism bias.\n\nIf leadership cannot explain ROI in one sentence, the portfolio is too fuzzy.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "ROI measurement"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Business metrics"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Measuring AI ROI Beyond Proof Of Value Workshops | Databiqs",
+          "metaDescription": "ROI improves when you tie models to operational metrics your CFO already trusts, not when you publish another accuracy leaderboard. Read the full article for…",
+          "keywords": "Databiqs, AI Consulting, AI Strategy, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/12"
+        },
+        "topicKey": "strategy"
+      },
+      {
+        "id": 13,
+        "tag": "AI Strategy",
+        "category": "Strategy & ROI",
+        "title": "Capital Planning For Multi Year AI Roadmaps",
+        "date": "December 18, 2025",
+        "readTime": "12 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8501993-uhd_2160_3840_25fps_iodbgy.mp4",
+        "excerpt": "Treat AI spend like product investment: fund platforms that unlock many workflows, not one off science budgets with unclear owners.",
+        "content": "Multi year roadmaps fail when every team buys its own stack. Consolidate around shared data foundations, evaluation practices, and deployment patterns that reduce repeated work. Capital committees reward clarity: what platform bets reduce marginal cost of the next ten AI features?\n\n## How To Phase Spend\nYear one: data access, governance, and a small number of high conviction workflows. Year two: scale patterns that proved value. Year three: compound advantages through continuous learning loops. Each phase should end with a portfolio review that kills weak bets to fund stronger ones.\n\n## Portfolio Metrics Beyond Headcount\nTrack reuse of features, models, and pipelines across business units. A platform that serves three workflows with one team beats three siloed teams rebuilding ingestion.\n\n## Governance Without Bureaucracy\nCentral guidance should reduce risk and speed reuse, not add approvals to every experiment. Publish golden paths: approved patterns for logging, identity, and data handling so teams do not reinvent compliance.\n\n## Vendor And Build Mix\nBalance long term lock in against speed. Prefer contracts that allow model portability where feasible. Budget exit costs explicitly in year zero.\n\n## FAQs: AI Capital Planning\nHow much should we reserve for maintenance? Many enterprises allocate 25 to 40% of build budget annually for monitoring, retraining, and security updates.\nWhen should we centralize versus federate? Centralize standards and shared services; federate workflow specific product decisions close to the customer.\nWhat breaks roadmaps most often? Unfunded operational handoff after pilots “succeed” on paper.\nHow often should we refresh the roadmap? Quarterly for tactics, annually for multi year bets, with a hard look after major vendor shifts.\n\nCapital planning is portfolio management. Say no loudly so yes can ship.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Roadmap planning"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/case-study-phase-execution.c1299ff83a610029aba5.jpg",
+            "alt": "Investment phases"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Capital Planning For Multi Year AI Roadmaps | Databiqs",
+          "metaDescription": "Treat AI spend like product investment: fund platforms that unlock many workflows, not one off science budgets with unclear owners. Read the full article for…",
+          "keywords": "Databiqs, AI Consulting, AI Strategy, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/13"
+        },
+        "topicKey": "strategy"
+      },
+      {
+        "id": 14,
+        "tag": "AI Strategy",
+        "category": "Strategy & ROI",
+        "title": "Aligning Board Expectations With Delivery Reality On AI Programs",
+        "date": "December 22, 2025",
+        "readTime": "12 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295407/6153453-uhd_4096_2160_25fps_ga2r4k.mp4",
+        "excerpt": "Board updates go wrong when they sell certainty. Better narratives include stage gates, known risks, and what you learned last quarter.",
+        "content": "Boards want momentum and safety at the same time. The credible update format is: decisions made, evidence collected, risks mitigated, and what changes next quarter based on facts. Overpromising destroys trust faster than a delayed launch.\n\n## What To Show\nA small set of KPIs tied to customer or operational outcomes, a clear list of production systems, and explicit discussion of failure modes. Include third party dependencies, regulatory exposure, and cyber risks in the same breath as innovation wins.\n\n## What To Avoid\nVanity demos, model parameter trivia, and “we are exploring” without timeboxes. Avoid burying incidents in appendices; boards respect teams that disclose and remediate.\n\n## Cadence And Pre Reads\nSend a one page brief with definitions stable quarter to quarter. Use the meeting for decisions: fund, hold, or redirect. Reserve deep dives for committees, not the full board, unless material risk requires it.\n\n## Linking AI To Enterprise Risk Registers\nMap each production AI system to enterprise risk categories. Show control owners and test frequency. This aligns AI with how boards already think about operational resilience.\n\n## FAQs: Board Alignment On AI\nHow technical should updates be? Enough to prove seriousness, not enough to obscure outcomes; attach technical detail as optional reading.\nWhat if we have no production systems yet? Report learning milestones, data readiness, and explicit go no go dates.\nHow do we discuss failed pilots? Frame as purchased learning with documented reasons and next steps.\nShould legal always attend? For regulated sectors, periodic attendance or written sign off on material changes helps.\n\nAlignment is a communication discipline. It is also an execution discipline.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "Board reporting"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Stage gates"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Aligning Board Expectations With Delivery Realit… | Databiqs",
+          "metaDescription": "Board updates go wrong when they sell certainty. Better narratives include stage gates, known risks, and what you learned last quarter. Read the full article…",
+          "keywords": "Databiqs, AI Consulting, AI Strategy, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/14"
+        },
+        "topicKey": "strategy"
+      },
+      {
+        "id": 15,
+        "tag": "Machine Learning",
+        "category": "Data & Analytics",
+        "title": "Feature Quality Checks Before Models See Production Data",
+        "date": "January 06, 2026",
+        "readTime": "13 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8467244-uhd_3840_2160_25fps_nmac7z.mp4",
+        "excerpt": "Most silent model failures trace back to features that drift, leak label information, or silently change meaning after an upstream refactor.",
+        "content": "Feature quality is an engineering problem. Add contracts for schemas, null rates, ranges, and freshness. Alert when distributions move beyond thresholds you set with domain experts. Treat upstream refactors as breaking changes for downstream models.\n\n## Leakage You Can Prevent\nFuture information sneaks in through rolling windows, duplicated rows, and accidental joins. Build leakage checks into your training validation pipeline, not as a one time notebook. Automate checks that compare train and serve feature computation paths byte for byte where possible.\n\n## Monitoring In Production\nTrack feature level drift separately from output drift. Sometimes the model compensates until it cannot. Segment monitoring by region, product line, and customer tier to catch localized breaks early.\n\n## Feature Stores And Ownership\nWhen multiple teams share features, assign explicit owners for definitions and SLAs on freshness. Document semantic meaning, not only SQL, so new hires do not subtly change behavior.\n\n## Testing Culture\nRequire feature addition PRs to include distribution plots and null rate expectations. Block merges that widen ranges without business review.\n\n## FAQs: Feature Quality\nWhat is the first contract to add? Schema, null rate, and max cardinality for categoricals.\nHow often should we revalidate features? On any upstream schema change and at least monthly for high risk models.\nWhat tool is mandatory? None universally; consistency matters more than brand.\nWho approves feature retirement? Data owner plus model owner to avoid silent deprecation.\n\nGreat models are built on boring data discipline.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Feature contracts"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "Drift monitoring"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Feature Quality Checks Before Models See Product… | Databiqs",
+          "metaDescription": "Most silent model failures trace back to features that drift, leak label information, or silently change meaning after an upstream refactor. Read the full ar…",
+          "keywords": "Databiqs, Machine Learning, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/15"
+        },
+        "topicKey": "analytics"
+      },
+      {
+        "id": 16,
+        "tag": "Machine Learning",
+        "category": "Data & Analytics",
+        "title": "Why Your Analytics Dashboards Lie During Organizational Change",
+        "date": "January 10, 2026",
+        "readTime": "12 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295410/8084751-uhd_3840_2160_25fps_gloxzu.mp4",
+        "excerpt": "Definitions change, teams reorganize, and metrics lose meaning unless you version the business logic the same way you version code.",
+        "content": "During change, dashboards become political artifacts. The fix is explicit metric ownership, definition documents, and change logs when a KPI meaning shifts. Without that discipline, two executives can agree on a number that means different things.\n\n## A Simple Standard\nEvery chart lists the owner, the definition, the refresh cadence, and the known limitations. Add a version field to definitions and require a changelog entry when logic updates.\n\n## Analytics As A Product\nTreat internal dashboards like customer facing software: user research, iteration, and deprecation. Run quarterly usage reviews and sunset charts that nobody opens.\n\n## Organizational Change Playbook\nWhen teams merge or split, remap metric ownership within two weeks. Communicate redefinitions in all hands and in data catalog notifications.\n\n## Data Literacy At Scale\nShort videos and office hours beat hundred page manuals. Tie literacy goals to promotion criteria for managers who consume metrics daily.\n\n## FAQs: Metrics During Change\nWho can rename a metric? Only the owner with catalog approval to avoid silent forks.\nWhat if historical data is incompatible? Store parallel series with clear cutover dates rather than overwriting silently.\nHow do we detect silent drift? Automated comparisons of weekly aggregates against trailing baselines.\nShould we pause dashboards during M&A? Prefer banners and dual definitions over hard downtime.\n\nIf two teams argue using the same metric name with different definitions, your data culture needs repair, not more charts.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "Metric definitions"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/case-study-phase-execution.c1299ff83a610029aba5.jpg",
+            "alt": "Analytics ownership"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Why Your Analytics Dashboards Lie During Organiz… | Databiqs",
+          "metaDescription": "Definitions change, teams reorganize, and metrics lose meaning unless you version the business logic the same way you version code. Read the full article for…",
+          "keywords": "Databiqs, Machine Learning, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/16"
+        },
+        "topicKey": "analytics"
+      },
+      {
+        "id": 17,
+        "tag": "Machine Learning",
+        "category": "Data & Analytics",
+        "title": "Building Trustworthy Cohort Metrics For Experimentation Teams",
+        "date": "January 14, 2026",
+        "readTime": "12 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295407/7687810-uhd_4096_2160_24fps_lywssl.mp4",
+        "excerpt": "Trustworthy experimentation requires clean assignment, stable identifiers, and honest handling of crossover effects between channels.",
+        "content": "Cohort metrics fail when assignment is biased or when users bounce between experiences. Document the experiment protocol before launch, including stopping rules. Trust erodes quickly when teams cherry pick segments post hoc.\n\n## Checklist For Credibility\nStable randomization, pre registered primary metrics, and sanity checks on instrumentation volume. Add power analysis so you do not declare victory on noise.\n\n## When Results Surprise You\nFirst assume bugs: tracking gaps, delayed events, and partial deployments. Then assume reality: your segment behaved differently than expected. Publish a short postmortem either way.\n\n## Crossover And Interference\nWhen channels overlap, model interference explicitly or exclude contaminated users. Document exclusions and check representativeness.\n\n## Ethics And Transparency\nFor employee or customer facing tests, align with legal on consent and fairness. Document protected class balance in assignment when relevant.\n\n## FAQs: Experimentation Metrics\nHow long should tests run? Until pre registered minimum detectable effect is achievable or you hit a planned peeking boundary.\nCan we peek early? Only with statistically principled approaches to avoid inflated false positives.\nWhat if sample ratio mismatch appears? Investigate assignment bugs before interpreting lift.\nShould we trust proxy metrics? Only when validated against north star metrics periodically.\n\nGood experimentation culture rewards learning, not winning every test.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Experiment design"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "Cohort analysis"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Building Trustworthy Cohort Metrics For Experime… | Databiqs",
+          "metaDescription": "Trustworthy experimentation requires clean assignment, stable identifiers, and honest handling of crossover effects between channels. Read the full article f…",
+          "keywords": "Databiqs, Machine Learning, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/17"
+        },
+        "topicKey": "analytics"
+      },
+      {
+        "id": 18,
+        "tag": "Enterprise AI",
+        "category": "Customer Experience",
+        "title": "Personalization Without Creepy Data Surprises In Customer Journeys",
+        "date": "January 18, 2026",
+        "readTime": "12 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8501993-uhd_2160_3840_25fps_iodbgy.mp4",
+        "excerpt": "Customers accept helpful personalization when controls are clear, value is obvious, and sensitive inferences never show up as blunt assumptions.",
+        "content": "Design personalization around explicit preferences and observed behavior with transparent limits. Avoid “we think you are…” copy unless the user opted in. Personalization should feel like a thoughtful shop assistant, not surveillance theater.\n\n## Practical Privacy UX\nEasy preference centers, clear explanations for recommendations, and conservative defaults for sensitive categories. Surface why an item was recommended in one sentence when feasible.\n\n## Measurement That Respects Trust\nTrack opt outs and complaints as first class product metrics, not support noise. Segment satisfaction by personalization intensity to find the comfort zone.\n\n## Technical Safeguards\nMinimize stored attributes, encrypt identifiers, and expire behavioral profiles on reasonable horizons unless renewed.\n\n## Inclusive Design\nTest copy and ranking with diverse panels to avoid stereotype reinforcement. Review models for disparate impact when personalization affects pricing or offers.\n\n## FAQs: Personalization And Trust\nWhat is a safe default? Recommendations based on explicit preferences plus recent purchases, not inferred sensitive traits.\nHow often should we prompt for consent? When adding new data types or crossing regulatory boundaries.\nWhat if personalization hurts conversion? Sometimes trust lifts long term value even if short term clicks dip.\nWho owns policy? Cross functional council with legal, product, and security.\n\nCX wins when personalization feels considerate, not omniscient.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/case-study-phase-execution.c1299ff83a610029aba5.jpg",
+            "alt": "Customer journey trust"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Preference controls"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Personalization Without Creepy Data Surprises In… | Databiqs",
+          "metaDescription": "Customers accept helpful personalization when controls are clear, value is obvious, and sensitive inferences never show up as blunt assumptions. Read the ful…",
+          "keywords": "Databiqs, Enterprise AI, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/18"
+        },
+        "topicKey": "cx"
+      },
+      {
+        "id": 19,
+        "tag": "Enterprise AI",
+        "category": "Customer Experience",
+        "title": "Voice And Chat Channel Consistency For Omnichannel Support",
+        "date": "January 22, 2026",
+        "readTime": "12 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295407/6153453-uhd_4096_2160_25fps_ga2r4k.mp4",
+        "excerpt": "Customers remember contradictions. Consistency comes from shared knowledge bases, unified policies, and one source of truth for entitlements.",
+        "content": "Omnichannel breaks when each channel trains its own bot with different answers. Centralize authoritative content and route channel specific phrasing through the same decision layer. Customers should hear one company, not three siloed scripts.\n\n## Operational Discipline\nWhen policies change, update once and propagate everywhere. Measure containment and escalation rates per channel with the same definitions. Run weekly diff reviews between voice and chat answers for top intents.\n\n## Human Backup\nMake escalation warm and fast. Automation should reduce wait, not trap users. Give agents the same answer the bot attempted plus suggested next steps.\n\n## Knowledge Base Hygiene\nAssign owners per domain, require review dates, and archive stale articles. Link entitlements to CRM so bots do not promise what operations cannot deliver.\n\n## Voice Specific Constraints\nLatency budgets differ from chat. Precompute frequent answers and cache stable lookups.\n\n## FAQs: Omnichannel Consistency\nWhat is the single source of truth? Usually policy plus product facts in a governed CMS, not individual channel wikis.\nHow do we handle legal differences by region? Metadata tagged content with retrieval filters, not duplicate bots.\nWhat metric matters most? First contact resolution with consistent policy application.\nHow fast should updates propagate? Minutes for pricing, hours for marketing, per your risk tier.\n\nConsistency is a systems problem more than a model problem.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "Omnichannel support"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/case-study-phase-execution.c1299ff83a610029aba5.jpg",
+            "alt": "Knowledge base unity"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Voice And Chat Channel Consistency For Omnichann… | Databiqs",
+          "metaDescription": "Customers remember contradictions. Consistency comes from shared knowledge bases, unified policies, and one source of truth for entitlements. Read the full a…",
+          "keywords": "Databiqs, Enterprise AI, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/19"
+        },
+        "topicKey": "cx"
+      },
+      {
+        "id": 20,
+        "tag": "Enterprise AI",
+        "category": "Customer Experience",
+        "title": "Empathy Metrics: Balancing Automation With Human Escalation Design",
+        "date": "January 26, 2026",
+        "readTime": "12 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8467244-uhd_3840_2160_25fps_nmac7z.mp4",
+        "excerpt": "Empathy shows up in wait times, tone, and resolution paths. Measure customer effort alongside containment to avoid optimizing for the wrong goal.",
+        "content": "Automation KPIs can accidentally punish customers. Pair containment with resolution quality, repeat contact rate, and qualitative review samples. Empathy is measurable when you look beyond cost per contact.\n\n## Designing Escalation\nGive agents full context from the automated session. Avoid making customers repeat themselves. Warm handoffs include a short summary the customer can see was transferred.\n\n## Coaching Loops\nUse failure clusters to improve intents, knowledge gaps, and policy wording. Share anonymized transcripts in training with clear rubrics.\n\n## Tone And Accessibility\nWrite for clarity at grade 7 to 9 reading level unless domain constraints require jargon, then define terms. Offer alternate channels for users who struggle with chat.\n\n## Balancing Cost And Care\nSegment customers by vulnerability and value where policy allows, without discriminatory outcomes.\n\n## FAQs: Empathy Metrics\nWhat metrics pair with containment? Customer effort score, repeat contacts within seven days, and agent rework rate.\nHow often to sample qualitative reviews? Weekly for new flows, monthly for mature ones at minimum.\nShould bots apologize? When errors occur, brief factual apology plus fix beats verbose corporate tone.\nHow do we avoid toxic productivity targets? Cap automated resolutions that drive repeats.\n\nCX automation should feel like a better teammate, not a cheaper wall.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "CX metrics"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "Escalation design"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Empathy Metrics: Balancing Automation With Human… | Databiqs",
+          "metaDescription": "Empathy shows up in wait times, tone, and resolution paths. Measure customer effort alongside containment to avoid optimizing for the wrong goal. Read the fu…",
+          "keywords": "Databiqs, Enterprise AI, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/20"
+        },
+        "topicKey": "cx"
+      },
+      {
+        "id": 21,
+        "tag": "Generative AI",
+        "category": "AI Chatbot",
+        "title": "Retrieval Design For FAQ Bots That Survive Policy Updates",
+        "date": "February 02, 2026",
+        "readTime": "13 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295410/8084751-uhd_3840_2160_25fps_gloxzu.mp4",
+        "excerpt": "FAQ bots rot when retrieval chunks are stale. Version your documents, invalidate embeddings on change, and test answers against a golden question set.",
+        "content": "Treat the knowledge base like software releases. Tag documents with effective dates, owners, and review cadences. Automate regression tests that compare new answers to approved baselines. Policy driven organizations feel bot rot first in FAQs, refunds, and eligibility.\n\n## Chunking Strategy\nPrefer semantically coherent chunks over arbitrary token splits. Add metadata filters so regional policies do not bleed together. Keep chunk titles stable so diffs are interpretable.\n\n## Human Review On Edge Cases\nRoute low confidence retrievals to a review queue instead of guessing. Track reviewer corrections as training signal for chunk boundaries and metadata tags.\n\n## Embedding Refresh\nVersion embeddings with document releases. Invalidate on hash change, not only on filename change.\n\n## Release Discipline\nFreeze content during high risk periods when needed, but otherwise ship small frequent updates with automated tests.\n\n## FAQs: FAQ Bot Retrieval\nHow large should a golden set be? Start with fifty to two hundred questions covering top intents and known edge cases.\nWhat is acceptable answer drift? Near zero for regulated answers; tolerance higher for descriptive content with disclaimers.\nWho approves baseline changes? Policy owner plus legal when required.\nHow do we detect silent rot? Nightly jobs comparing live answers to cached approved strings for critical intents.\n\nBots that survive updates are maintained products, not one time builds.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "Retrieval FAQ"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Document versioning"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Retrieval Design For FAQ Bots That Survive Polic… | Databiqs",
+          "metaDescription": "FAQ bots rot when retrieval chunks are stale. Version your documents, invalidate embeddings on change, and test answers against a golden question set. Read t…",
+          "keywords": "Databiqs, Enterprise AI, Generative AI, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/21"
+        },
+        "topicKey": "chatbot"
+      },
+      {
+        "id": 22,
+        "tag": "Generative AI",
+        "category": "AI Chatbot",
+        "title": "Conversation State Management For Complex Multi Turn Support Flows",
+        "date": "February 06, 2026",
+        "readTime": "12 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295407/7687810-uhd_4096_2160_24fps_lywssl.mp4",
+        "excerpt": "Multi turn flows fail when state is implicit. Store structured slots, validate required fields early, and recover gracefully from user corrections.",
+        "content": "Long conversations need durable memory of commitments, pending actions, and user preferences. Use explicit slot schemas and validate incrementally instead of dumping everything into a prompt. Implicit state works until the first interruption.\n\n## Failure Recovery\nWhen the user changes direction, update slots deterministically and confirm critical changes in plain language. Never silently drop a payment or shipping commitment.\n\n## Testing\nScript adversarial dialogues including interruptions, typos, and mid flow pivots. Property based tests for slot validators catch edge cases humans forget.\n\n## Latency And Partial Saves\nPersist state after each validated step so reconnects do not restart from zero.\n\n## Security\nTreat slots as user input: validate formats, lengths, and injection patterns before passing to tools.\n\n## FAQs: Conversation State\nWhat belongs in slots versus free text? Structured commitments, identifiers, and selections; free text for open ended descriptions only.\nHow do we handle PII in state? Minimize retention, encrypt at rest, and clear after session end unless business requires otherwise.\nWhat if the model hallucinates a slot value? Ground updates in user confirmed utterances or tool results only.\nHow big can state grow? Keep under provider limits with summarization policies for long threads.\n\nState management is the hidden backbone of good chatbots.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Conversation state"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/case-study-phase-execution.c1299ff83a610029aba5.jpg",
+            "alt": "Dialogue testing"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Conversation State Management For Complex Multi… | Databiqs",
+          "metaDescription": "Multi turn flows fail when state is implicit. Store structured slots, validate required fields early, and recover gracefully from user corrections. Read the…",
+          "keywords": "Databiqs, Enterprise AI, Generative AI, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/22"
+        },
+        "topicKey": "chatbot"
+      },
+      {
+        "id": 23,
+        "tag": "Generative AI",
+        "category": "AI Chatbot",
+        "title": "Guardrails For Customer Facing Assistants In Regulated Industries",
+        "date": "February 10, 2026",
+        "readTime": "13 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8501993-uhd_2160_3840_25fps_iodbgy.mp4",
+        "excerpt": "Regulated assistants need policy aware prompts, tool restrictions, and logging that supports audits without storing unnecessary sensitive text.",
+        "content": "Start from prohibited actions and required disclosures. Encode them as system rules and tool permissions, not as hope in the model. Regulators care about what the system could do, not only what it usually does.\n\n## Data Minimization\nRedact before logging. Separate PII handling from model provider settings and verify each environment. Use tokenization patterns reviewed by legal.\n\n## Review Workflows\nHigh risk answers should require human approval templates or deterministic canned responses. Queue size and SLA are part of the design, not afterthoughts.\n\n## Model And Prompt Change Control\nVersion prompts like code. Require peer review for changes that affect regulated advice.\n\n## Evidence Packets\nFor audits, assemble decision packets: inputs seen, policy version, tools called, outputs, and human overrides.\n\n## FAQs: Regulated Assistants\nCan we use public cloud models? Often yes with enterprise agreements and data handling addenda; legal must sign off.\nWhat must never be logged? Full payment card numbers, full raw health notes when avoidable, and secrets.\nHow do we test guardrails? Red team libraries plus automated adversarial suites on every release.\nWho approves new tools? Security and compliance joint review with documented residual risk.\n\nGuardrails are product requirements, not optional safety stickers.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/case-study-phase-execution.c1299ff83a610029aba5.jpg",
+            "alt": "Regulated AI guardrails"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "Audit logging"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Guardrails For Customer Facing Assistants In Reg… | Databiqs",
+          "metaDescription": "Regulated assistants need policy aware prompts, tool restrictions, and logging that supports audits without storing unnecessary sensitive text. Read the full…",
+          "keywords": "Databiqs, Enterprise AI, Generative AI, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/23"
+        },
+        "topicKey": "chatbot"
+      },
+      {
+        "id": 24,
+        "tag": "AI Consulting",
+        "category": "AI Consulting",
+        "title": "Executive Workshops That Convert Skeptics Into Sponsors",
+        "date": "February 14, 2026",
+        "readTime": "12 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295407/6153453-uhd_4096_2160_25fps_ga2r4k.mp4",
+        "excerpt": "Workshops work when executives leave with decisions, not slides. Use real internal data examples and a forced ranking of top three workflows to fund.",
+        "content": "Skepticism is often rational: past vendor failures, unclear ownership, or immature data. Address it with transparent constraints and a credible pilot design. Workshops should produce commitments, not applause.\n\n## Workshop Outputs\nA ranked backlog, explicit risks, success metrics, and named sponsors. Capture assumptions that would invalidate the pilot so sponsors know what would make them stop funding.\n\n## Facilitation Tips\nKeep model jargon minimal. Spend time on workflow mapping and measurement. Use pre reads so the room arrives informed.\n\n## Data Reality Segments\nSpend dedicated time on data access, quality, and latency. If data is immature, scope the pilot to a slice where quality is provably good.\n\n## Follow Through Within Ten Days\nSend decision memo, assign owners, and book the first delivery milestone while momentum exists.\n\n## FAQs: Executive Workshops\nHow long should workshops be? Often one to two days with prep, or three half days virtual with homework.\nWho must attend? Sponsor, domain leader, security delegate, and product owner at minimum.\nWhat kills credibility? Demo only agendas without internal data.\nHow do we convert skeptics? Shared diagnosis of pain plus a bounded experiment with kill criteria.\n\nSponsors appear when the path to value feels concrete, not theatrical.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Executive workshop"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "Sponsor alignment"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Executive Workshops That Convert Skeptics Into S… | Databiqs",
+          "metaDescription": "Workshops work when executives leave with decisions, not slides. Use real internal data examples and a forced ranking of top three workflows to fund. Read th…",
+          "keywords": "Databiqs, AI Consulting, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/24"
+        },
+        "topicKey": "ai-consulting"
+      },
+      {
+        "id": 25,
+        "tag": "AI Consulting",
+        "category": "AI Consulting",
+        "title": "Vendor Evaluation Scorecards For AI Platform Decisions",
+        "date": "February 18, 2026",
+        "readTime": "12 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8467244-uhd_3840_2160_25fps_nmac7z.mp4",
+        "excerpt": "Score security, data residency, integration effort, and support quality alongside model benchmarks. The best model on paper loses to operational fit.",
+        "content": "Build scorecards from your non negotiables: identity, encryption, audit logs, SLAs, and exit costs. Run evaluations on your own datasets, not vendor demos. Procurement should protect delivery speed, not only negotiate discounts.\n\n## Proof Points\nReference customers with similar scale and compliance needs. Ask for failure stories, not only success stories. Inspect incident postmortems they are willing to share under NDA.\n\n## Contract Reality\nUnderstand rate limits, data retention clauses, and what happens when models deprecate. Negotiate migration assistance and export formats before signature crisis.\n\n## Integration Effort\nScore connectors, SSO, VPC options, and professional services backlog. A great API with six month implementation queue loses to a good API shipping next sprint.\n\n## Ongoing Relationship\nSupport responsiveness and roadmap transparency belong on the scorecard alongside price.\n\n## FAQs: AI Vendor Scorecards\nHow many vendors to shortlist? Three to five serious candidates after a fast knockout round.\nShould we build our own benchmarks? Yes, representative internal tasks with agreed grading rubrics.\nWhat weight for security? High in regulated industries; define minimum bar as pass fail before scoring softer features.\nHow often to reevaluate? Annually or on major model generation shifts.\n\nGood procurement protects velocity, it does not only reduce price.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "Vendor scorecard"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/case-study-phase-execution.c1299ff83a610029aba5.jpg",
+            "alt": "Platform evaluation"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Vendor Evaluation Scorecards For AI Platform Dec… | Databiqs",
+          "metaDescription": "Score security, data residency, integration effort, and support quality alongside model benchmarks. The best model on paper loses to operational fit. Read th…",
+          "keywords": "Databiqs, AI Consulting, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/25"
+        },
+        "topicKey": "ai-consulting"
+      },
+      {
+        "id": 26,
+        "tag": "AI Consulting",
+        "category": "AI Consulting",
+        "title": "Organizational Design For Cross Functional AI Delivery Teams",
+        "date": "February 22, 2026",
+        "readTime": "12 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295410/8084751-uhd_3840_2160_25fps_gloxzu.mp4",
+        "excerpt": "Shipping AI requires product, data, security, and domain experts in one rhythm. RACI charts help only when paired with shared OKRs and shared demos.",
+        "content": "Avoid the “data team builds, business team waits” pattern. Embed domain experts early and rotate ownership of metrics. AI delivery is a team sport with shared accountability for outcomes.\n\n## Team Topology Options\nPlatform enablement squads, workflow focused product teams, or hybrid models. Pick one and commit for a year. Topology churn mid flight destroys context.\n\n## Rituals That Matter\nWeekly integrated demos, shared incident reviews, and joint retrospectives on data quality. Celebrate fixes to pipelines, not only model accuracy bumps.\n\n## Clearing Dependencies\nSecurity, legal, and infra should have named liaisons with SLAs for AI teams.\n\n## Career And Growth\nProvide IC paths for data scientists who want to stay technical while influencing product.\n\n## FAQs: Cross Functional AI Teams\nWhat is the minimum viable squad? Product, engineering, data science or ML, design where UX matters, and domain SME part time at least.\nHow do we resolve priority fights? Shared OKRs on business metrics, not model accuracy alone.\nShould ML sit in central org or product? Either works if decision rights and funding are clear.\nWhat breaks teams most? Ambiguous ownership of data contracts and feature definitions.\n\nOrganizations ship what their structure rewards.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Cross functional teams"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "Delivery rituals"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Organizational Design For Cross Functional AI De… | Databiqs",
+          "metaDescription": "Shipping AI requires product, data, security, and domain experts in one rhythm. RACI charts help only when paired with shared OKRs and shared demos. Read the…",
+          "keywords": "Databiqs, AI Consulting, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/26"
+        },
+        "topicKey": "ai-consulting"
+      },
+      {
+        "id": 27,
+        "tag": "Machine Learning",
+        "category": "Neural Networks",
+        "title": "Attention Mechanisms Explained For Product And Engineering Leaders",
+        "date": "February 26, 2026",
+        "readTime": "12 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295407/7687810-uhd_4096_2160_24fps_lywssl.mp4",
+        "excerpt": "Attention is a learned routing mechanism: it decides which parts of the input to emphasize for the next representation. That intuition is enough for most roadmap conversations.",
+        "content": "You do not need calculus to make good decisions. You need to know costs: attention layers increase compute and memory with sequence length. Attention lets models focus on relevant tokens, which is why long context windows are powerful and expensive.\n\n## Practical Implications\nLong contexts are expensive. Retrieval and chunking often beat brute force scaling. Understand when your product truly needs full document context versus a good summary plus search.\n\n## When To Care\nIf you are selecting architectures for latency sensitive features, ask about KV cache behavior and batching constraints. For batch analytics, different tradeoffs apply.\n\n## Communicating With Finance\nTranslate sequence length growth into dollar per million tokens or GPU hours using vendor calculators and your measured traffic.\n\n## Roadmap Questions For Vendors\nAsk about context length pricing cliffs, batching support, and quantization effects on your tasks.\n\n## FAQs: Attention For Leaders\nDo we need the biggest context window? Only if retrieval cannot solve your use case; measure before buying headroom.\nWhat is KV cache? A memory of past tokens computations that speeds autoregressive generation; its size matters for cost.\nWhen is attention overkill? Simple classification on short text may not need transformer scale models.\nHow do we benchmark fairly? Hold dataset and latency SLA constant across candidates.\n\nLeaders should understand tradeoffs, not parameter counts.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "Attention intuition"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Cost tradeoffs"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Attention Mechanisms Explained For Product And E… | Databiqs",
+          "metaDescription": "Attention is a learned routing mechanism: it decides which parts of the input to emphasize for the next representation. That intuition is enough for most roa…",
+          "keywords": "Databiqs, Machine Learning, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/27"
+        },
+        "topicKey": "neural"
+      },
+      {
+        "id": 28,
+        "tag": "Machine Learning",
+        "category": "Neural Networks",
+        "title": "Why Smaller Specialized Models Beat One Giant Model For Many Tasks",
+        "date": "March 02, 2026",
+        "readTime": "12 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8501993-uhd_2160_3840_25fps_iodbgy.mp4",
+        "excerpt": "Specialized models are easier to evaluate, cheaper to run, and simpler to update when a single workflow changes. Monoliths hide coupling.",
+        "content": "Giant models are attractive until every change risks unrelated regressions. Specialized models let teams iterate with smaller blast radius. The right architecture often mixes sizes by task.\n\n## Decision Criteria\nIf tasks have different latency budgets, different compliance needs, or different data sources, split thoughtfully. If everything shares one distribution and SLA, a unified model can win on simplicity.\n\n## Ensemble Reality\nSometimes a router model plus specialists is the best economics. Routers must be monitored for bias toward cheap specialists that harm quality.\n\n## Operational Benefits\nSmaller models simplify testing, shrink deployment artifacts, and reduce energy footprint per request when matched to workload.\n\n## Migration Path\nStart by extracting the highest volume or highest risk workflow into a specialist while keeping a general model as fallback during validation.\n\n## FAQs: Specialized Versus Giant Models\nHow do we avoid too many models? Platform standards and a model catalog with owners and retirement policy.\nWhat is a sign we split wrong? Duplicate feature engineering and no shared evaluation harness.\nCan specialists share a backbone? Yes, multi task learning and adapters are common patterns.\nHow do we price compare? Total cost includes engineering time to maintain each endpoint.\n\nRight sizing is engineering maturity, not a lack of ambition.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Model specialization"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/case-study-phase-execution.c1299ff83a610029aba5.jpg",
+            "alt": "Routing patterns"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Why Smaller Specialized Models Beat One Giant Mo… | Databiqs",
+          "metaDescription": "Specialized models are easier to evaluate, cheaper to run, and simpler to update when a single workflow changes. Monoliths hide coupling. Read the full artic…",
+          "keywords": "Databiqs, Machine Learning, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/28"
+        },
+        "topicKey": "neural"
+      },
+      {
+        "id": 29,
+        "tag": "Machine Learning",
+        "category": "Neural Networks",
+        "title": "Embedding Spaces And Similarity Search In Practical Applications",
+        "date": "March 06, 2026",
+        "readTime": "13 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295407/6153453-uhd_4096_2160_25fps_ga2r4k.mp4",
+        "excerpt": "Embeddings turn text into vectors so you can search by meaning. Quality depends on domain fit, refresh cadence, and how you filter false neighbors.",
+        "content": "Start with retrieval quality metrics: precision at k, user thumbs down reasons, and latency. Tune chunking and metadata filters before swapping embedding models. Better embeddings cannot fix bad chunk boundaries.\n\n## Operational Concerns\nReindex strategies, version skew between training and serving, and monitoring for toxic or sensitive neighbors. Plan partial reindexes when only subsets of documents change.\n\n## Hybrid Search\nCombine keyword and vector retrieval when exact matches matter. Reciprocal rank fusion or learned rerankers are common patterns.\n\n## Evaluation Sets\nCurate adversarial queries including negations, product codes, and multilingual inputs if you serve global users.\n\n## Cost Controls\nCache frequent queries, deduplicate documents, and quantize vectors when recall impact is acceptable.\n\n## FAQs: Embeddings And Search\nHow often to refresh embeddings? When content churn or drift metrics exceed thresholds, not on a blind calendar only.\nWhat is a false neighbor? Semantically similar vector but wrong business answer, often due to ambiguous language.\nDo we fine tune embeddings? Sometimes on domain corpora; measure retrieval gains versus maintenance cost.\nWhat about privacy? Avoid embedding secrets; redact before indexing.\n\nSimilarity search is a product surface. Treat it like one.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "Embedding search"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Hybrid retrieval"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Embedding Spaces And Similarity Search In Practi… | Databiqs",
+          "metaDescription": "Embeddings turn text into vectors so you can search by meaning. Quality depends on domain fit, refresh cadence, and how you filter false neighbors. Read the…",
+          "keywords": "Databiqs, Machine Learning, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/29"
+        },
+        "topicKey": "neural"
+      },
+      {
+        "id": 30,
+        "tag": "Enterprise AI",
+        "category": "AI Solutions",
+        "title": "Solution Architectures That Keep Edge And Cloud In Sync",
+        "date": "March 10, 2026",
+        "readTime": "12 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8467244-uhd_3840_2160_25fps_nmac7z.mp4",
+        "excerpt": "Edge AI shines when offline behavior is defined, updates are staged, and cloud training loops do not break devices in the field.",
+        "content": "Define what runs locally versus remotely. Local inference should degrade gracefully when connectivity drops, with clear user messaging. Edge plus cloud is a product promise, not only an architecture diagram.\n\n## Update Safety\nCanary releases, rollback bundles, and signed artifacts prevent a bad model from bricking a fleet. Test on representative hardware tiers, not only emulators.\n\n## Data Return Paths\nCollect only what you need for improvement, with consent and bandwidth awareness. Batch uploads during WiFi when possible.\n\n## Model And Feature Versioning\nKeep strict compatibility between on device parsers and cloud trainers.\n\n## Observability From The Field\nDevice logs should explain model version, input checksums, and confidence without leaking PII.\n\n## FAQs: Edge And Cloud Sync\nWhat if devices rarely connect? Design for eventual consistency with clear user visible sync states.\nHow do we secure models on device? Use secure enclaves where available and obfuscation knowing motivated attackers exist.\nWho approves fleet wide rollouts? Joint hardware, firmware, and ML governance.\nWhat metrics matter? Crash rate, battery impact, inference latency percentiles, and sync success rate.\n\nSync is an architecture and governance problem together.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/case-study-phase-execution.c1299ff83a610029aba5.jpg",
+            "alt": "Edge and cloud"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "Staged updates"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Solution Architectures That Keep Edge And Cloud… | Databiqs",
+          "metaDescription": "Edge AI shines when offline behavior is defined, updates are staged, and cloud training loops do not break devices in the field. Read the full article for fr…",
+          "keywords": "Databiqs, AI Development, Enterprise AI, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/30"
+        },
+        "topicKey": "solutions"
+      },
+      {
+        "id": 31,
+        "tag": "Enterprise AI",
+        "category": "AI Solutions",
+        "title": "Security Reviews For AI Features Without Blocking Iteration",
+        "date": "March 14, 2026",
+        "readTime": "12 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295410/8084751-uhd_3840_2160_25fps_gloxzu.mp4",
+        "excerpt": "Security and velocity align when reviews are predictable: threat models for new surfaces, standard controls for common patterns, and fast paths for low risk changes.",
+        "content": "Create tiers of risk. Low tier changes reuse approved patterns. High tier changes get deeper review and stricter testing requirements. Ambiguity slows everyone; clarity speeds safe shipping.\n\n## Shared Language\nTranslate model risks into familiar categories: injection, excessive agency, data exfiltration, and privacy leakage. Security teams engage faster with familiar frames.\n\n## Automation\nStatic checks, policy tests for tool calling, and red team scripts catch regressions early. Bake checks into CI so review meetings discuss novel risks, not repeats.\n\n## Threat Modeling Cadence\nLightweight models per feature, deeper models annually or on architecture shifts.\n\n## Partnership Not Gatekeeping\nEmbed security engineers in squads for high velocity programs.\n\n## FAQs: AI Security Reviews\nWhat belongs in tier one? Copy and UI text changes with no new tools or data.\nWhen is tier three mandatory? New external tools, PII scope expansion, or payments impact.\nHow fast should fast path be? Publish SLA targets, for example two days for tier one.\nWhat documentation helps? Data flow diagrams, tool manifests, and test evidence links.\n\nGreat security teams enable shipping with guardrails, not gatekeeping by default.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Security review tiers"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/case-study-phase-execution.c1299ff83a610029aba5.jpg",
+            "alt": "Threat modeling"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Security Reviews For AI Features Without Blockin… | Databiqs",
+          "metaDescription": "Security and velocity align when reviews are predictable: threat models for new surfaces, standard controls for common patterns, and fast paths for low risk…",
+          "keywords": "Databiqs, AI Development, Enterprise AI, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/31"
+        },
+        "topicKey": "solutions"
+      },
+      {
+        "id": 32,
+        "tag": "Enterprise AI",
+        "category": "AI Solutions",
+        "title": "Scaling Inference Costs When Traffic Spikes Overnight",
+        "date": "March 18, 2026",
+        "readTime": "13 Min Read",
+        "image": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295407/7687810-uhd_4096_2160_24fps_lywssl.mp4",
+        "excerpt": "Cost control is routing, caching, batching, and model choice under load. Autoscaling without budgets creates surprises nobody wants to explain.",
+        "content": "Define budgets per feature and per customer segment. Add request classification so simple queries do not hit the largest model by default. Cost incidents are easier to prevent than to explain to finance after launch.\n\n## Caching Wins\nCache embeddings for stable documents. Cache deterministic tool results where safe. Invalidate with explicit versioning, not time alone.\n\n## Load Testing\nTest spikes before marketing launches. Measure tail latency, not averages only. Include failure injection for dependency timeouts.\n\n## Routing And Cascades\nImplement backoff when upstream saturation begins; avoid retry storms.\n\n## FinOps Collaboration\nShare dashboards linking requests to dollars with product owners.\n\n## FAQs: Inference Cost At Scale\nWhat is the fastest win? Response caching for idempotent read heavy endpoints.\nWhen does batching help? Offline or delay tolerant workloads with grouped inputs.\nHow do we attribute cost? Per tenant tags on requests and per model usage meters.\nWhat policy prevents runaway spend? Hard caps plus alerts at 70 and 90 percent of budget.\n\nScaling inference is financial engineering as much as ML engineering.",
+        "detailMedia": [
+          {
+            "afterNthSection": 2,
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+            "alt": "Inference scaling"
+          },
+          {
+            "afterNthSection": 4,
+            "src": "/static/media/machine-learning.35f513f89e4b939478fe16af9597e08f.svg",
+            "alt": "Cost controls"
+          }
+        ],
+        "seo": {
+          "metaTitle": "Scaling Inference Costs When Traffic Spikes Over… | Databiqs",
+          "metaDescription": "Cost control is routing, caching, batching, and model choice under load. Autoscaling without budgets creates surprises nobody wants to explain. Read the full…",
+          "keywords": "Databiqs, AI Development, Enterprise AI, enterprise AI, artificial intelligence, AI strategy, machine learning, business automation",
+          "canonicalPath": "/blog-detail/32"
+        },
+        "topicKey": "solutions"
+      }
+    ],
+    "categories": [
+      {
+        "key": "automation",
+        "name": "AI & Automation",
+        "iconUrl": "",
+        "lottieKey": "automation"
+      },
+      {
+        "key": "strategy",
+        "name": "Strategy & ROI",
+        "iconUrl": "",
+        "lottieKey": "strategy"
+      },
+      {
+        "key": "analytics",
+        "name": "Data & Analytics",
+        "iconUrl": "",
+        "lottieKey": "analytics"
+      },
+      {
+        "key": "cx",
+        "name": "Customer Experience",
+        "iconUrl": "",
+        "lottieKey": "cx"
+      },
+      {
+        "key": "chatbot",
+        "name": "AI Chatbot",
+        "iconUrl": "",
+        "lottieKey": "chatbot"
+      },
+      {
+        "key": "ai-consulting",
+        "name": "AI Consulting",
+        "iconUrl": "",
+        "lottieKey": "ai-consulting"
+      },
+      {
+        "key": "neural",
+        "name": "Neural Networks",
+        "iconUrl": "",
+        "lottieKey": "neural"
+      },
+      {
+        "key": "solutions",
+        "name": "AI Solutions",
+        "iconUrl": "",
+        "lottieKey": "solutions"
+      }
+    ],
+    "videoPool": [
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295410/8084751-uhd_3840_2160_25fps_gloxzu.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295407/7687810-uhd_4096_2160_24fps_lywssl.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8501993-uhd_2160_3840_25fps_iodbgy.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295407/6153453-uhd_4096_2160_25fps_ga2r4k.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8467244-uhd_3840_2160_25fps_nmac7z.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295406/4354448-uhd_3840_2160_25fps_imnk7m.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8328106-uhd_2160_3840_25fps_drdtlu.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8501993-uhd_2160_3840_25fps_iodbgy.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295411/7688618-uhd_2160_4096_24fps_zasgyk.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295410/8084494-uhd_3840_2160_25fps_ftqpw8.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295408/8084620-uhd_3840_2160_25fps_iew7a0.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295412/8464662-uhd_3840_2160_25fps_fuhjcg.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295411/8327799-uhd_3840_2160_25fps_firdd9.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8467244-uhd_3840_2160_25fps_nmac7z.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295410/8086703-uhd_3840_2160_25fps_ezlhrd.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295410/8084494-uhd_3840_2160_25fps_ftqpw8.mp4"
+    ],
+    "heroVideo": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:good,w_1920,c_limit/v1779295410/8084751-uhd_3840_2160_25fps_gloxzu.mp4",
+    "featuredIdsByTopic": {
+      "automation": [
+        1,
+        9,
+        10,
+        11
+      ],
+      "strategy": [
+        2,
+        12,
+        13,
+        14
+      ],
+      "analytics": [
+        3,
+        15,
+        16,
+        17
+      ],
+      "cx": [
+        4,
+        18,
+        19,
+        20
+      ],
+      "chatbot": [
+        5,
+        21,
+        22,
+        23
+      ],
+      "ai-consulting": [
+        6,
+        24,
+        25,
+        26
+      ],
+      "neural": [
+        7,
+        27,
+        28,
+        29
+      ],
+      "solutions": [
+        8,
+        30,
+        31,
+        32
+      ]
+    },
+    "browseTopicKeys": [
+      "automation",
+      "strategy",
+      "analytics",
+      "cx",
+      "chatbot",
+      "ai-consulting",
+      "neural",
+      "solutions"
+    ]
+  },
+  "team": [
+    {
+      "name": "Jaffar Ali Chaudhary",
+      "role": "Founder & CEO",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/e_background_removal,f_png,q_auto:good,w_900,c_limit/v1779396811/founder_ceo_yleptg.png",
+      "avatarPosition": "center top",
+      "featured": true,
+      "spotlight": true
+    },
+    {
+      "name": "Jawad Afzal",
+      "role": "CTO",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297637/CTO_np65yp.png",
+      "avatarPosition": "center top",
+      "featured": true
+    },
+    {
+      "name": "Amari Fields",
+      "role": "Director of CS & Business Development",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297637/Amari-Fields_dwoir6.png",
+      "avatarPosition": "center top",
+      "featured": true
+    },
+    {
+      "name": "Maudood Fareed",
+      "role": "Team Lead",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297646/team-lead_wd0hry.png",
+      "avatarPosition": "center top",
+      "featured": true
+    },
+    {
+      "name": "Akhlaq Ahmad",
+      "role": "Senior Software Engineer",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297636/Akhlaq_1_rvm9us.png",
+      "avatarPosition": "center top",
+      "featured": true
+    },
+    {
+      "name": "Alishba Aslam",
+      "role": "HR Manager",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297637/Alishba1_wokthp.png",
+      "avatarPosition": "center top"
+    },
+    {
+      "name": "Shamaim Ali Rizvi",
+      "role": "Senior UI UX Designer",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297644/Shamaim_1_nwizxs.png",
+      "avatarPosition": "center top",
+      "featured": true
+    },
+    {
+      "name": "Wali ullah",
+      "role": "Business Development Executive",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297637/business-development-executive_ipffau.jpg",
+      "avatarPosition": "center top",
+      "featured": true
+    },
+    {
+      "name": "Abdullah Anjum",
+      "role": "Business Development Executive",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297642/marketing-manager_fagwhj.png",
+      "avatarPosition": "center top",
+      "featured": true
+    },
+    {
+      "name": "Maarij Ali",
+      "role": "Technical Project Manager",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297643/project-manager_AI-Developer_iebpel.png",
+      "avatarPosition": "center top",
+      "featured": true
+    },
+    {
+      "name": "Irum Shahzadi",
+      "role": "Senior Software Engineer",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297640/Irum_1_a08uaj.png",
+      "avatarPosition": "center top",
+      "featured": true
+    },
+    {
+      "name": "Ali Raza",
+      "role": "Senior Software Engineer",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297645/software-engineer3_ndy0uz.jpg",
+      "avatarPosition": "center top",
+      "featured": true
+    },
+    {
+      "name": "Saad Bin Abi Usama",
+      "role": "Senior Software Engineer",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297645/software-engineer2_wo3v7c.png",
+      "avatarPosition": "center top",
+      "featured": true
+    },
+    {
+      "name": "Hamza Mumtaz",
+      "role": "UI UX Designer",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297647/ui-ux-designer_c9ra1c.png",
+      "avatarPosition": "center top",
+      "featured": true
+    },
+    {
+      "name": "Faizan Ahmed",
+      "role": "Associate Software Engineer",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297644/software-engineer_ew8som.png",
+      "avatarPosition": "center top",
+      "featured": true
+    },
+    {
+      "name": "Junaid Qamar",
+      "role": "Associate Software Engineer",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297641/junaid_qhvhxe.png",
+      "avatarPosition": "center top",
+      "featured": true
+    },
+    {
+      "name": "Talha Bin Faisal",
+      "role": "Full Stack AI Developer",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297638/fullstack-AI-Engineer_xh4k7a.png",
+      "avatarPosition": "center top",
+      "featured": true
+    },
+    {
+      "name": "Hamad Khan",
+      "role": "AI/ML Engineer",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297640/hamad_khan_dxym6b.png",
+      "avatarPosition": "center top",
+      "featured": true
+    },
+    {
+      "name": "Fatima Tahir",
+      "role": "Content Writer",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297638/fatima_tuz_zahra_pfhlhs.png",
+      "avatarPosition": "center top",
+      "featured": true
+    },
+    {
+      "name": "Laiba Sheikh",
+      "role": "Marketing Head",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297642/LAIBA_r12jkp.png",
+      "avatarPosition": "center top",
+      "featured": true
+    },
+    {
+      "name": "Hadeed Tarar",
+      "role": "Business Development Executive",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297639/Hadeed_Tarar_hmhuzi.png",
+      "avatarPosition": "center top",
+      "featured": true
+    }
+  ],
+  "media": {
+    "blogHeroVideo": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:good,w_1920,c_limit/v1779295410/8084751-uhd_3840_2160_25fps_gloxzu.mp4",
+    "blogVideoPool": [
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295410/8084751-uhd_3840_2160_25fps_gloxzu.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295407/7687810-uhd_4096_2160_24fps_lywssl.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8501993-uhd_2160_3840_25fps_iodbgy.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295407/6153453-uhd_4096_2160_25fps_ga2r4k.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8467244-uhd_3840_2160_25fps_nmac7z.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295406/4354448-uhd_3840_2160_25fps_imnk7m.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8328106-uhd_2160_3840_25fps_drdtlu.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8501993-uhd_2160_3840_25fps_iodbgy.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295411/7688618-uhd_2160_4096_24fps_zasgyk.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295410/8084494-uhd_3840_2160_25fps_ftqpw8.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295408/8084620-uhd_3840_2160_25fps_iew7a0.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295412/8464662-uhd_3840_2160_25fps_fuhjcg.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295411/8327799-uhd_3840_2160_25fps_firdd9.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295413/8467244-uhd_3840_2160_25fps_nmac7z.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295410/8086703-uhd_3840_2160_25fps_ezlhrd.mp4",
+      "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295410/8084494-uhd_3840_2160_25fps_ftqpw8.mp4"
+    ],
+    "solutionVideos": {
+      "automation": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:good,w_1600,c_limit/v1779295413/8328106-uhd_2160_3840_25fps_drdtlu.mp4",
+      "chatbots": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:good,w_1600,c_limit/v1779295412/8464662-uhd_3840_2160_25fps_fuhjcg.mp4",
+      "ml": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:good,w_1600,c_limit/v1779295411/8327799-uhd_3840_2160_25fps_firdd9.mp4",
+      "strategy": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:good,w_1600,c_limit/v1779295407/7687810-uhd_4096_2160_24fps_lywssl.mp4"
+    }
+  },
+  "updatedAt": "2026-05-21T17:21:00.961Z"
+}
