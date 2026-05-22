@@ -60,7 +60,7 @@ LEGACY_PATHS = (
     PROJECT_ROOT / "databiqs-website" / "server" / "content.json",
 )
 
-ALLOWED_SECTIONS = frozenset({"services", "caseStudies", "blogs", "team", "media"})
+ALLOWED_SECTIONS = frozenset({"services", "caseStudies", "blogs", "team", "testimonials", "media"})
 
 ADMIN_EMAIL = os.getenv("ADMIN_EMAIL", "admin@databiqs.com")
 ADMIN_PASSWORD = os.getenv("ADMIN_PASSWORD", "DatabiqsAdmin2026!")

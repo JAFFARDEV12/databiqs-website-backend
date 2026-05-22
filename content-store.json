@@ -2751,13 +2751,57 @@
       "role": "Business Development Executive"
     },
     {
-      "name": "New Member",
-      "role": "Role",
-      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297639/Hadeed_Tarar_hmhuzi.png",
       "avatarPosition": "center top",
-      "featured": true
+      "featured": true,
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297639/Hadeed_Tarar_hmhuzi.png",
+      "name": "New Member",
+      "role": "Role"
     }
   ],
+  "testimonials": {
+    "items": [
+      {
+        "audioUrl": "",
+        "id": 1,
+        "quote": "\"Databiqs Delivered An AI Solution That Significantly Improved Our Customer Response Time And Operational Efficiency. Their Approach Was Strategic, Professional, And Results-Driven.\""
+      },
+      {
+        "audioUrl": "",
+        "id": 2,
+        "quote": "\"Databiqs Helped Us Modernize Our Customer Experience With AI-First Automation, Delivering Faster Service And Better Decision-Making Across Teams.\""
+      },
+      {
+        "audioUrl": "",
+        "id": 3,
+        "quote": "\"The AI Automation Implemented By Databiqs Streamlined Our Internal Workflows And Reduced Manual Effort Across Teams. Their Expertise With Intelligent Systems Truly Stands Out.\""
+      },
+      {
+        "audioUrl": "",
+        "id": 5,
+        "quote": "\"Working With Databiqs Has Been Transformative For Our Business. Their AI Solutions Enabled Us To Automate Key Processes And Scale Effortlessly Across All Departments.\""
+      },
+      {
+        "audioUrl": "",
+        "id": 6,
+        "quote": "\"The Intelligent Automation Platform Deployed By Databiqs Reduced Our Operational Costs By 40%. Their Team Was Knowledgeable, Responsive, And Truly Invested In Our Success.\""
+      },
+      {
+        "audioUrl": "",
+        "id": 7,
+        "quote": "\"Databiqs Understood Our Unique Challenges And Delivered A Tailored AI Solution That Exceeded Expectations. The Results Were Measurable Within The First Month.\""
+      },
+      {
+        "audioUrl": "",
+        "id": 8,
+        "quote": "\"From Initial Consultation To Full Deployment The Databiqs Team Was Professional And Thorough. Their AI Tools Gave Us A Competitive Edge We Did Not Expect So Quickly.\""
+      },
+      {
+        "audioUrl": "",
+        "id": 10,
+        "quote": "\"The Team At Databiqs Brought Both Technical Depth And Strategic Vision. Their AI Solutions Integrated Seamlessly With Our Existing Systems And Delivered Real ROI.\""
+      }
+    ]
+  },
   "media": {
     "blogHeroVideo": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:good,w_1920,c_limit/v1779295410/8084751-uhd_3840_2160_25fps_gloxzu.mp4",
     "blogVideoPool": [
@@ -2779,11 +2823,11 @@
       "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_1280,c_limit/v1779295410/8084494-uhd_3840_2160_25fps_ftqpw8.mp4"
     ],
     "solutionVideos": {
-      "automation": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:good,w_1600,c_limit/v1779295413/8328106-uhd_2160_3840_25fps_drdtlu.mp4",
-      "chatbots": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:good,w_1600,c_limit/v1779295412/8464662-uhd_3840_2160_25fps_fuhjcg.mp4",
-      "ml": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:good,w_1600,c_limit/v1779295411/8327799-uhd_3840_2160_25fps_firdd9.mp4",
-      "strategy": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:good,w_1600,c_limit/v1779295407/7687810-uhd_4096_2160_24fps_lywssl.mp4"
+      "automation": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_960,c_limit/v1779295413/8328106-uhd_2160_3840_25fps_drdtlu.mp4",
+      "chatbots": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_960,c_limit/v1779295412/8464662-uhd_3840_2160_25fps_fuhjcg.mp4",
+      "ml": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_960,c_limit/v1779295411/8327799-uhd_3840_2160_25fps_firdd9.mp4",
+      "strategy": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_960,c_limit/v1779295407/7687810-uhd_4096_2160_24fps_lywssl.mp4"
     }
   },
-  "updatedAt": "2026-05-21T22:06:08.920Z"
+  "updatedAt": "2026-05-22T21:26:31.480Z"
 }
