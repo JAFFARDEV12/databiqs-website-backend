@@ -12,7 +12,7 @@ Deploy on [Railway](https://railway.app) via `railpack.json` / `start.sh` (gunic
 | Public CMS | `GET /api/content` |
 | Admin CMS | `POST /api/admin/login`, `GET/PUT /api/admin/content`, `PATCH/DELETE /api/admin/content/:section` |
 | Health | `GET /api/health`, `GET /health` |
-
+....
 ## Local setup
 
 ```bash
