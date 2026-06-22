@@ -1,2 +1,2 @@
 [tool.vercel]
-entrypoint = "databiqs-website:app"
+entrypoint = "app:app"
