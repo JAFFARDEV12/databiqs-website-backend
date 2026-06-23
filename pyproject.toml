@@ -1,2 +1,15 @@
+[project]
+name = "databiqs-website-backend"
+version = "1.0.0"
+requires-python = ">=3.12"
+dependencies = [
+    "flask",
+    "flask-cors",
+    "openai",
+    "python-dotenv",
+    "gunicorn",
+    "PyJWT",
+]
+
 [tool.vercel]
 entrypoint = "app:app"
