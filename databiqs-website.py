@@ -1,6 +1,6 @@
 """
 Databiqs unified API — chatbot (Groq) + CMS admin (JSON file storage, no database).
-Deploy on Railway via gunicorn (see railpack.json / start.sh).
+Deploy on Vercel (app.py entry) or Railway via gunicorn (see railpack.json / start.sh).
 """
 
 from __future__ import annotations
@@ -38,7 +38,8 @@ CORS(
     ],
 )
 
-if os.environ.get("RAILWAY_ENVIRONMENT"):
+# Cross-origin cookies (frontend on databiqs.com → API on *.vercel.app / Railway)
+if os.environ.get("RAILWAY_ENVIRONMENT") or os.environ.get("VERCEL"):
     app.config["SESSION_COOKIE_SAMESITE"] = "None"
     app.config["SESSION_COOKIE_SECURE"] = True
 
