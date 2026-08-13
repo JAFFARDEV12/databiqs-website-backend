@@ -3041,6 +3041,45 @@
       "image": "https://res.cloudinary.com/deelyxcjk/image/upload/f_auto,q_auto:good,w_700,c_limit/v1779297639/Hadeed_Tarar_hmhuzi.png",
       "name": "Hadeed Tarar",
       "role": "Business Development Executive"
+    },
+    {
+      "avatarPosition": "center top",
+      "featured": true,
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/v1786633810/person-1_rxxwtn.png",
+      "name": "Zobia Ali",
+      "role": "Business Development Executive"
+    },
+    {
+      "name": "Subaina Pervaiz",
+      "role": "AI LM Engineer",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/v1786634201/person-2_dinhdv.png",
+      "avatarPosition": "center top",
+      "featured": true,
+      "spotlight": false
+    },
+    {
+      "name": "Zainab Baig",
+      "role": "AI LM Engineer",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/v1786634532/person-3_dgwrtm.png",
+      "avatarPosition": "center top",
+      "featured": true,
+      "spotlight": false
+    },
+    {
+      "name": "Hiba Eshan",
+      "role": "AI LM Engineer",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/v1786634628/Adobe_Express_-_file_10_1_iryxrr.png",
+      "avatarPosition": "center top",
+      "featured": true,
+      "spotlight": false
+    },
+    {
+      "name": "Fatima Zahra",
+      "role": "AI LM Engineer",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/v1786634873/person-4_qy0vus.png",
+      "avatarPosition": "center top",
+      "featured": true,
+      "spotlight": false
     }
   ],
   "testimonials": {
