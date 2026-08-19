@@ -139,7 +139,8 @@ MAX_SESSION_HISTORY_BYTES = 3200
 
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 GROQ_BASE_URL = os.environ.get("GROQ_BASE_URL", "https://api.groq.com/openai/v1")
-GROQ_MODEL = "llama-3.1-8b-instant"
+# Groq decommissioned llama-3.1-8b-instant on 2026-08-16; gpt-oss-20b is the replacement.
+GROQ_MODEL = os.environ.get("GROQ_MODEL", "openai/gpt-oss-20b")
 
 _groq_client: Optional[OpenAI] = None
 
@@ -469,14 +470,17 @@ def handle_prompt():
     try:
         client = get_groq_client()
         messages = [{"role": "system", "content": SYSTEM_PROMPT}] + history
-        completion = client.chat.completions.create(
-            model=GROQ_MODEL,
-            messages=messages,
-            temperature=0.4,
-            max_tokens=700,
-            stream=False,
-        )
-        reply = completion.choices[0].message.content or ""
+        create_kwargs = {
+            "model": GROQ_MODEL,
+            "messages": messages,
+            "temperature": 0.4,
+            "max_tokens": 1200,
+            "stream": False,
+        }
+        if "gpt-oss" in GROQ_MODEL:
+            create_kwargs["reasoning_effort"] = "low"
+        completion = client.chat.completions.create(**create_kwargs)
+        reply = (completion.choices[0].message.content or "").strip()
         history.append({"role": "assistant", "content": reply})
         history = history[-MAX_HISTORY:]
         _persist_chat(history, user_name)
