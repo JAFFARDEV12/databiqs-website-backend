@@ -3090,8 +3090,16 @@
       "spotlight": false
     },
     {
-      "name": "Abdullah Afzal",
-      "role": "Business Development Executive",
+      "name": "Syed Ali Musa Rizvi",
+      "role": "AI & Automation Engineer",
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/v1790004615/Group_1000005862_cvluhj.png",
+      "avatarPosition": "center top",
+      "featured": true,
+      "spotlight": false
+    },
+    {
+      "name": "Talal Naeem",
+      "role": "AI Solutions Architect",
       "image": "https://res.cloudinary.com/deelyxcjk/image/upload/v1788809714/Abdullah_Afzal_mxhk99.png",
       "avatarPosition": "center top",
       "featured": true,
