@@ -3177,5 +3177,1251 @@
       "strategy": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_960,c_limit/v1779295407/7687810-uhd_4096_2160_24fps_lywssl.mp4"
     }
   },
-  "updatedAt": "2026-08-11T16:33:55.138Z"
+  "updatedAt": "2026-08-11T16:33:55.138Z",
+  "servicePages": {
+    "list": [
+      {
+        "createdAt": "2026-09-28T22:37:28.675Z",
+        "slug": "full-stack-development",
+        "title": "Full-Stack & SaaS Development Services",
+        "updatedAt": "2026-09-29T21:18:50.505Z"
+      },
+      {
+        "createdAt": "2026-09-28T22:41:50.959Z",
+        "slug": "qa-full-stack-page",
+        "title": "QA Full Stack Page Edited",
+        "updatedAt": "2026-09-29T17:31:29.042Z"
+      }
+    ],
+    "pages": {
+      "full-stack-development": {
+        "slug": "full-stack-development",
+        "title": "Full-Stack & SaaS Development Services",
+        "data": {
+          "meta": {
+            "documentTitle": "Full-Stack & SaaS Development Services | Databiqs"
+          },
+          "hiddenSections": [],
+          "hero": {
+            "kicker": "Full-stack development company",
+            "breadcrumbCurrent": "Full-Stack & SaaS",
+            "title": "Full-Stack & SaaS Development Services",
+            "lead": "A full-stack development company and SaaS development company. Senior teams build MVPs, SaaS products and custom software with React, Next.js, Node.js, Python and AWS.",
+            "primaryCtaLabel": "Book a Free 30-Min Consultation",
+            "primaryCtaTo": "/book-consultation",
+            "secondaryCtaLabel": "See case studies",
+            "secondaryCtaTo": "/case-studies",
+            "tags": [
+              "SaaS development",
+              "MVP development",
+              "Custom software",
+              "Hire React developers",
+              "Dedicated team",
+              "New tag"
+            ],
+            "glance": {
+              "statusLabel": "Taking new projects",
+              "rows": [
+                {
+                  "icon": "bolt",
+                  "label": "MVPs start from",
+                  "value": "USD [X]"
+                },
+                {
+                  "icon": "users",
+                  "label": "Engagement",
+                  "value": "Fixed price · Dedicated team"
+                },
+                {
+                  "icon": "shield",
+                  "label": "Confidentiality",
+                  "value": "NDA on request"
+                }
+              ],
+              "ctaLabel": "Get a Free Estimate"
+            }
+          },
+          "whatWeBuild": {
+            "kicker": "What we build",
+            "title": "From first MVP to a SaaS product that scales",
+            "side": "One senior team covers product design, front end, back end, cloud and QA.",
+            "cards": [
+              {
+                "icon": "layers",
+                "title": "SaaS development",
+                "desc": "Multi-tenant SaaS products with billing, roles, admin panels and analytics built in."
+              },
+              {
+                "icon": "wrench",
+                "title": "MVP development",
+                "desc": "A focused first version you can put in front of users and investors fast."
+              },
+              {
+                "icon": "window",
+                "title": "Custom software development",
+                "desc": "Customer portals, dashboards and internal tools that fit your workflow."
+              },
+              {
+                "icon": "plug",
+                "title": "APIs & integrations",
+                "desc": "Connect payments, CRMs, ERPs and third-party services reliably."
+              },
+              {
+                "icon": "users",
+                "title": "Dedicated development team",
+                "desc": "Hire full-stack developers who work only on your product, billed monthly."
+              },
+              {
+                "icon": "cloud",
+                "title": "Cloud architecture & DevOps",
+                "desc": "Secure, scalable infrastructure on AWS with CI/CD and monitoring."
+              }
+            ]
+          },
+          "whyDatabiqs": {
+            "kicker": "Why Databiqs",
+            "title": "Why startups choose Databiqs as their MVP development company",
+            "cards": [
+              {
+                "icon": "wrench",
+                "title": "Launch in weeks",
+                "desc": "A focused first version in front of real users, fast."
+              },
+              {
+                "icon": "layers",
+                "title": "One full-stack team",
+                "desc": "Design, front end, back end and cloud — no hand-offs."
+              },
+              {
+                "icon": "users",
+                "title": "Scale the team",
+                "desc": "Move from fixed price to a dedicated team when you're ready."
+              },
+              {
+                "icon": "code",
+                "title": "Clean code you own",
+                "desc": "Tested, documented code in your own repositories."
+              }
+            ]
+          },
+          "toc": {
+            "eyebrow": "On this page",
+            "items": [
+              {
+                "id": "fsd-end-to-end",
+                "label": "Full-stack development services, end to end"
+              },
+              {
+                "id": "fsd-timeline-cost",
+                "label": "MVP development: timeline and cost"
+              },
+              {
+                "id": "fsd-hire-team",
+                "label": "Hire full-stack developers or a dedicated development team"
+              },
+              {
+                "id": "fsd-react-stack",
+                "label": "React, Next.js and Node.js development"
+              }
+            ],
+            "cardTitle": "Need a quote?",
+            "cardDesc": "Free 30-minute call, fixed quote after.",
+            "cardCtaLabel": "Book a call",
+            "cardCtaTo": "/book-consultation"
+          },
+          "longform": [
+            {
+              "id": "fsd-end-to-end",
+              "title": "Full-stack development services, end to end",
+              "paragraphs": [
+                "One team owns the whole product: database, APIs, front end, cloud and testing. That means fewer hand-offs, faster decisions and one point of contact for you.",
+                "We work in weekly sprints and show you working software every week, so you can change direction early instead of after launch."
+              ]
+            },
+            {
+              "id": "fsd-timeline-cost",
+              "title": "MVP development: timeline and cost",
+              "paragraphs": [
+                "An MVP should be small, not throwaway. We cut scope to the features that prove your idea, but build them on an architecture that can take more users and features later. Most MVPs take [8–12] weeks and cost USD [X]–[Y]."
+              ]
+            },
+            {
+              "id": "fsd-hire-team",
+              "title": "Hire full-stack developers or a dedicated development team",
+              "paragraphs": [
+                "A fixed-price project suits a clear first version. A dedicated development team suits SaaS products that keep evolving — you hire full-stack developers, React developers or Node.js developers who stay with you month after month."
+              ]
+            },
+            {
+              "id": "fsd-react-stack",
+              "title": "React, Next.js and Node.js development",
+              "paragraphs": [
+                "As a React development company and Next.js development agency, we build fast, accessible interfaces. On the back end we use Node.js and Python with PostgreSQL, deployed on AWS with CI/CD, backups and monitoring."
+              ]
+            }
+          ],
+          "process": {
+            "kicker": "How we work",
+            "title": "A clear process, with a demo every week",
+            "ctaLabel": "Book a Free 30-Min Consultation",
+            "ctaTo": "/book-consultation",
+            "steps": [
+              {
+                "num": "01",
+                "week": "Week 1",
+                "title": "Discovery",
+                "desc": "We map goals, users, scope and risks, then send a fixed quote and delivery plan."
+              },
+              {
+                "num": "02",
+                "week": "Weeks 2–3",
+                "title": "Design",
+                "desc": "Clickable wireframes and UI you review and approve before a line of code."
+              },
+              {
+                "num": "03",
+                "week": "Weeks 4–10",
+                "title": "Build",
+                "desc": "Senior engineers ship in weekly sprints, with a live demo every Friday."
+              },
+              {
+                "num": "04",
+                "week": "Ongoing",
+                "title": "Launch & support",
+                "desc": "We launch, monitor and hand over code, docs and accounts — all yours."
+              }
+            ]
+          },
+          "techStack": {
+            "kicker": "Tech stack",
+            "title": "Built on tools that scale",
+            "items": [
+              {
+                "name": "React",
+                "logoKey": "react"
+              },
+              {
+                "name": "Next.js",
+                "logoKey": "nextjs"
+              },
+              {
+                "name": "TypeScript",
+                "logoKey": "typescript"
+              },
+              {
+                "name": "Node.js",
+                "logoKey": "nodejs"
+              },
+              {
+                "name": "Python",
+                "logoKey": "python"
+              },
+              {
+                "name": "PostgreSQL",
+                "logoKey": "postgresql"
+              },
+              {
+                "name": "AWS",
+                "logoKey": "aws"
+              },
+              {
+                "name": "Docker",
+                "logoKey": "docker"
+              }
+            ]
+          },
+          "caseStudy": {
+            "kicker": "Featured case study",
+            "imageSrc": "/uploads/97fe97aa97114b72a5ec9559d32da690-clean.jpg",
+            "imageAlt": "Product screenshot — SaaS MVP built by Databiqs full-stack team",
+            "projectName": "[Project name]",
+            "meta": "SaaS MVP · Next.js + Node.js",
+            "sub": "[Industry] company, [size] — named with permission, or \"name withheld under NDA\".",
+            "challengeLabel": "Challenge",
+            "challengeText": "[The problem the client had, in one or two sentences.]",
+            "solutionLabel": "What we built",
+            "solutionText": "[The solution, stack and timeline.]",
+            "results": [
+              {
+                "value": "[Result]",
+                "label": "e.g. first paying users"
+              },
+              {
+                "value": "[Result]",
+                "label": "e.g. launched in [X] weeks"
+              }
+            ],
+            "linkLabel": "Read the full case study",
+            "linkTo": "/case-studies"
+          },
+          "engagement": {
+            "kicker": "Engagement models",
+            "title": "Pick how you want to work with us",
+            "noteText": "MVPs typically start from USD [X]",
+            "tiers": [
+              {
+                "icon": "file",
+                "title": "Fixed-price project",
+                "desc": "A defined scope — website, MVP or chatbot — with a fixed quote after a free 30-minute call.",
+                "bullets": [
+                  "Fixed scope and timeline",
+                  "Weekly demos",
+                  "Pay by milestone"
+                ],
+                "highlight": false,
+                "tag": ""
+              },
+              {
+                "icon": "users",
+                "title": "Dedicated development team",
+                "desc": "Senior engineers who work only on your product, billed monthly. Scale up or down as you grow.",
+                "bullets": [
+                  "Full-stack, AI or design roles",
+                  "Works in your tools",
+                  "Monthly billing"
+                ],
+                "highlight": true,
+                "tag": "Scale with us"
+              },
+              {
+                "icon": "clock",
+                "title": "Hourly",
+                "desc": "For audits, small changes, integrations and ongoing support after launch.",
+                "bullets": [
+                  "No minimum commitment",
+                  "Transparent time logs",
+                  "Senior engineers only"
+                ],
+                "highlight": false,
+                "tag": ""
+              }
+            ]
+          },
+          "faq": {
+            "kicker": "FAQ",
+            "title": "Questions, answered",
+            "lead": "Still have a question? Ask us directly on a free 30-minute call.",
+            "ctaLabel": "Book a Free 30-Min Consultation",
+            "ctaTo": "/book-consultation",
+            "items": [
+              {
+                "question": "How much does MVP development cost?",
+                "answer": "Most MVPs we build cost between USD [X] and USD [Y], depending on features, integrations and platforms. You get a fixed quote after a free 30-minute call."
+              },
+              {
+                "question": "Can I hire full-stack developers or React developers monthly?",
+                "answer": "Yes — our dedicated-team model lets you bring on full-stack, React or Node.js developers who work only on your product, billed monthly with no long-term lock-in."
+              },
+              {
+                "question": "How fast can you start?",
+                "answer": "Most engagements kick off within [1–2] weeks of the discovery call, once scope and the delivery plan are signed off."
+              },
+              {
+                "question": "Fixed price or dedicated team — which is right for me?",
+                "answer": "Choose fixed price for a clearly scoped first version. Choose a dedicated team if your product will keep evolving after launch and you want the same engineers to stay on."
+              },
+              {
+                "question": "Who owns the code?",
+                "answer": "You do. All code, documentation and infrastructure accounts are handed over and live in your own repositories from day one."
+              },
+              {
+                "question": "Which time zones do you work with?",
+                "answer": "We run weekly demos and daily async updates that overlap with US, UK and EU business hours, whichever suits your team."
+              }
+            ]
+          },
+          "related": {
+            "kicker": "Related services",
+            "title": "Explore more ways we can help",
+            "items": [
+              {
+                "icon": "globe",
+                "title": "Web Development",
+                "desc": "Custom websites and web apps",
+                "to": "/services/web-development"
+              },
+              {
+                "icon": "chip",
+                "title": "AI Development",
+                "desc": "Chatbots, agents and automation",
+                "to": "/services/ai-automation"
+              },
+              {
+                "icon": "calendar",
+                "title": "Free consultation",
+                "desc": "30 minutes with a senior engineer",
+                "to": "/book-consultation"
+              }
+            ]
+          },
+          "blog": {
+            "kicker": "From the blog",
+            "title": "Guides and answers",
+            "allLabel": "All articles",
+            "allTo": "/blog-page",
+            "posts": [
+              {
+                "tag": "Full-stack",
+                "cover": "MVP timeline and cost",
+                "imageSrc": "",
+                "title": "MVP development: timeline and cost",
+                "to": "/blog-page",
+                "readTime": "[X] min read",
+                "linkLabel": "Read the guide"
+              },
+              {
+                "tag": "Hiring",
+                "cover": "hiring developers",
+                "imageSrc": "",
+                "title": "Hire full-stack developers or an agency?",
+                "to": "/blog-page",
+                "readTime": "[X] min read",
+                "linkLabel": "Read the guide"
+              },
+              {
+                "tag": "SaaS",
+                "cover": "SaaS architecture",
+                "imageSrc": "",
+                "title": "SaaS architecture for your first 1,000 customers",
+                "to": "/blog-page",
+                "readTime": "[X] min read",
+                "linkLabel": "Read the guide"
+              }
+            ]
+          },
+          "finalCta": {
+            "kicker": "Start a project",
+            "title": "Plan your MVP or SaaS product with us",
+            "lead": "Share a few details and a senior engineer will reply within 24 hours.",
+            "bullets": [
+              "Fixed quote after a free 30-minute call",
+              "NDA on request",
+              "You own 100% of the code"
+            ],
+            "form": {
+              "badgeText": "Senior engineer reviews every request",
+              "title": "Get a free project estimate",
+              "sub": "Tell us a little about your project. We reply within 24 hours.",
+              "submitLabel": "Get my free estimate",
+              "privacyText": "Your details stay confidential and are never shared or sold. NDA available on request.",
+              "fields": [
+                {
+                  "key": "fullName",
+                  "type": "text",
+                  "label": "Full name",
+                  "placeholder": "Jane Smith",
+                  "required": true
+                },
+                {
+                  "key": "email",
+                  "type": "email",
+                  "label": "Work email",
+                  "placeholder": "jane@company.com",
+                  "required": true
+                },
+                {
+                  "key": "company",
+                  "type": "text",
+                  "label": "Company name",
+                  "placeholder": "Company Inc.",
+                  "required": false
+                },
+                {
+                  "key": "phone",
+                  "type": "tel",
+                  "label": "Phone number",
+                  "placeholder": "+1 555 000 0000",
+                  "required": false
+                },
+                {
+                  "key": "field_1790716518266_5",
+                  "type": "text",
+                  "label": "\\services",
+                  "required": false,
+                  "options": [
+                    {
+                      "label": "New MVP",
+                      "value": "mvp"
+                    },
+                    {
+                      "label": "SaaS product",
+                      "value": "saas"
+                    },
+                    {
+                      "label": "Custom software",
+                      "value": "custom-software"
+                    },
+                    {
+                      "label": "Dedicated team",
+                      "value": "dedicated-team"
+                    },
+                    {
+                      "label": "Not sure yet",
+                      "value": "not-sure"
+                    }
+                  ],
+                  "placeholder": ""
+                }
+              ],
+              "fieldLabels": {
+                "budget": "Budget range",
+                "company": "Company name",
+                "details": "Project details",
+                "email": "Work email",
+                "fullName": "Full name",
+                "phone": "Phone number",
+                "projectType": "Project type"
+              }
+            }
+          }
+        },
+        "styles": {
+          "hero.glance.rows.0.icon": {
+            "desktop": {
+              "color": "#ffffff"
+            },
+            "mobile": {}
+          }
+        },
+        "createdAt": "2026-09-28T22:37:28.675Z",
+        "updatedAt": "2026-09-29T21:18:50.505Z"
+      },
+      "qa-full-stack-page": {
+        "slug": "qa-full-stack-page",
+        "title": "QA Full Stack Page Edited",
+        "data": {
+          "meta": {
+            "documentTitle": "QA Full Stack Page | Databiqs"
+          },
+          "hiddenSections": [],
+          "hero": {
+            "kicker": "Full-stack development company",
+            "breadcrumbCurrent": "QA Full Stack Page",
+            "title": "QA Full Stack Page Edited",
+            "lead": "A full-stack development company and SaaS development company. Senior teams build MVPs, SaaS products and custom software with React, Next.js, Node.js, Python and AWS.",
+            "primaryCtaLabel": "Book a Free 30-Min Consultation",
+            "primaryCtaTo": "/book-consultation",
+            "secondaryCtaLabel": "See case studies",
+            "secondaryCtaTo": "/case-studies",
+            "tags": [
+              "SaaS development",
+              "MVP development",
+              "Custom software",
+              "Hire React developers",
+              "Dedicated team"
+            ],
+            "glance": {
+              "statusLabel": "Taking new projects",
+              "rows": [
+                {
+                  "icon": "clock",
+                  "label": "MVP timeline",
+                  "value": "[8–12] weeks"
+                },
+                {
+                  "icon": "bolt",
+                  "label": "MVPs start from",
+                  "value": "USD [X]"
+                },
+                {
+                  "icon": "users",
+                  "label": "Engagement",
+                  "value": "Fixed price · Dedicated team"
+                },
+                {
+                  "icon": "shield",
+                  "label": "Confidentiality",
+                  "value": "NDA on request"
+                }
+              ],
+              "ctaLabel": "Get a Free Estimate"
+            }
+          },
+          "whatWeBuild": {
+            "kicker": "What we build",
+            "title": "From first MVP to a SaaS product that scales",
+            "side": "One senior team covers product design, front end, back end, cloud and QA.",
+            "cards": [
+              {
+                "icon": "layers",
+                "title": "SaaS development",
+                "desc": "Multi-tenant SaaS products with billing, roles, admin panels and analytics built in."
+              },
+              {
+                "icon": "wrench",
+                "title": "MVP development",
+                "desc": "A focused first version you can put in front of users and investors fast."
+              },
+              {
+                "icon": "window",
+                "title": "Custom software development",
+                "desc": "Customer portals, dashboards and internal tools that fit your workflow."
+              },
+              {
+                "icon": "plug",
+                "title": "APIs & integrations",
+                "desc": "Connect payments, CRMs, ERPs and third-party services reliably."
+              },
+              {
+                "icon": "users",
+                "title": "Dedicated development team",
+                "desc": "Hire full-stack developers who work only on your product, billed monthly."
+              },
+              {
+                "icon": "cloud",
+                "title": "Cloud architecture & DevOps",
+                "desc": "Secure, scalable infrastructure on AWS with CI/CD and monitoring."
+              },
+              {
+                "icon": "layers",
+                "title": "New capability",
+                "desc": "Describe this capability."
+              }
+            ]
+          },
+          "whyDatabiqs": {
+            "kicker": "Why Databiqs",
+            "title": "Why startups choose Databiqs as their MVP development company",
+            "cards": [
+              {
+                "icon": "wrench",
+                "title": "Launch in weeks",
+                "desc": "A focused first version in front of real users, fast."
+              },
+              {
+                "icon": "layers",
+                "title": "One full-stack team",
+                "desc": "Design, front end, back end and cloud — no hand-offs."
+              },
+              {
+                "icon": "users",
+                "title": "Scale the team",
+                "desc": "Move from fixed price to a dedicated team when you're ready."
+              },
+              {
+                "icon": "code",
+                "title": "Clean code you own",
+                "desc": "Tested, documented code in your own repositories."
+              }
+            ]
+          },
+          "toc": {
+            "eyebrow": "On this page",
+            "items": [
+              {
+                "id": "fsd-end-to-end",
+                "label": "Full-stack development services, end to end"
+              },
+              {
+                "id": "fsd-timeline-cost",
+                "label": "MVP development: timeline and cost"
+              },
+              {
+                "id": "fsd-hire-team",
+                "label": "Hire full-stack developers or a dedicated development team"
+              },
+              {
+                "id": "fsd-react-stack",
+                "label": "React, Next.js and Node.js development"
+              }
+            ],
+            "cardTitle": "Need a quote?",
+            "cardDesc": "Free 30-minute call, fixed quote after.",
+            "cardCtaLabel": "Book a call",
+            "cardCtaTo": "/book-consultation"
+          },
+          "longform": [
+            {
+              "id": "fsd-end-to-end",
+              "title": "Full-stack development services, end to end",
+              "paragraphs": [
+                "One team owns the whole product: database, APIs, front end, cloud and testing. That means fewer hand-offs, faster decisions and one point of contact for you.",
+                "We work in weekly sprints and show you working software every week, so you can change direction early instead of after launch."
+              ]
+            },
+            {
+              "id": "fsd-timeline-cost",
+              "title": "MVP development: timeline and cost",
+              "paragraphs": [
+                "An MVP should be small, not throwaway. We cut scope to the features that prove your idea, but build them on an architecture that can take more users and features later. Most MVPs take [8–12] weeks and cost USD [X]–[Y]."
+              ]
+            },
+            {
+              "id": "fsd-hire-team",
+              "title": "Hire full-stack developers or a dedicated development team",
+              "paragraphs": [
+                "A fixed-price project suits a clear first version. A dedicated development team suits SaaS products that keep evolving — you hire full-stack developers, React developers or Node.js developers who stay with you month after month."
+              ]
+            },
+            {
+              "id": "fsd-react-stack",
+              "title": "React, Next.js and Node.js development",
+              "paragraphs": [
+                "As a React development company and Next.js development agency, we build fast, accessible interfaces. On the back end we use Node.js and Python with PostgreSQL, deployed on AWS with CI/CD, backups and monitoring."
+              ]
+            }
+          ],
+          "process": {
+            "kicker": "How we work",
+            "title": "A clear process, with a demo every week",
+            "ctaLabel": "Book a Free 30-Min Consultation",
+            "ctaTo": "/book-consultation",
+            "steps": [
+              {
+                "num": "01",
+                "week": "Week 1",
+                "title": "Discovery",
+                "desc": "We map goals, users, scope and risks, then send a fixed quote and delivery plan."
+              },
+              {
+                "num": "02",
+                "week": "Weeks 2–3",
+                "title": "Design",
+                "desc": "Clickable wireframes and UI you review and approve before a line of code."
+              },
+              {
+                "num": "03",
+                "week": "Weeks 4–10",
+                "title": "Build",
+                "desc": "Senior engineers ship in weekly sprints, with a live demo every Friday."
+              },
+              {
+                "num": "04",
+                "week": "Ongoing",
+                "title": "Launch & support",
+                "desc": "We launch, monitor and hand over code, docs and accounts — all yours."
+              }
+            ]
+          },
+          "techStack": {
+            "kicker": "Tech stack",
+            "title": "Built on tools that scale",
+            "items": [
+              {
+                "name": "React",
+                "logoKey": "react"
+              },
+              {
+                "name": "Next.js",
+                "logoKey": "nextjs"
+              },
+              {
+                "name": "TypeScript",
+                "logoKey": "typescript"
+              },
+              {
+                "name": "Node.js",
+                "logoKey": "nodejs"
+              },
+              {
+                "name": "Python",
+                "logoKey": "python"
+              },
+              {
+                "name": "PostgreSQL",
+                "logoKey": "postgresql"
+              },
+              {
+                "name": "AWS",
+                "logoKey": "aws"
+              },
+              {
+                "name": "Docker",
+                "logoKey": "docker"
+              }
+            ]
+          },
+          "caseStudy": {
+            "kicker": "Featured case study",
+            "imageSrc": "/uploads/a4320252641d4fa1b6030b912f335ad2-test.png",
+            "imageAlt": "QA test image",
+            "projectName": "[Project name]",
+            "meta": "SaaS MVP · Next.js + Node.js",
+            "sub": "[Industry] company, [size] — named with permission, or \"name withheld under NDA\".",
+            "challengeLabel": "Challenge",
+            "challengeText": "[The problem the client had, in one or two sentences.]",
+            "solutionLabel": "What we built",
+            "solutionText": "[The solution, stack and timeline.]",
+            "results": [
+              {
+                "value": "[Result]",
+                "label": "e.g. first paying users"
+              },
+              {
+                "value": "[Result]",
+                "label": "e.g. launched in [X] weeks"
+              }
+            ],
+            "linkLabel": "Read the full case study",
+            "linkTo": "/case-studies"
+          },
+          "engagement": {
+            "kicker": "Engagement models",
+            "title": "Pick how you want to work with us",
+            "noteText": "MVPs typically start from USD [X]",
+            "tiers": [
+              {
+                "icon": "file",
+                "title": "Fixed-price project",
+                "desc": "A defined scope — website, MVP or chatbot — with a fixed quote after a free 30-minute call.",
+                "bullets": [
+                  "Fixed scope and timeline",
+                  "Weekly demos",
+                  "Pay by milestone"
+                ],
+                "highlight": false,
+                "tag": ""
+              },
+              {
+                "icon": "users",
+                "title": "Dedicated development team",
+                "desc": "Senior engineers who work only on your product, billed monthly. Scale up or down as you grow.",
+                "bullets": [
+                  "Full-stack, AI or design roles",
+                  "Works in your tools",
+                  "Monthly billing"
+                ],
+                "highlight": true,
+                "tag": "Scale with us"
+              },
+              {
+                "icon": "clock",
+                "title": "Hourly",
+                "desc": "For audits, small changes, integrations and ongoing support after launch.",
+                "bullets": [
+                  "No minimum commitment",
+                  "Transparent time logs",
+                  "Senior engineers only"
+                ],
+                "highlight": false,
+                "tag": ""
+              }
+            ]
+          },
+          "faq": {
+            "kicker": "FAQ",
+            "title": "Questions, answered",
+            "lead": "Still have a question? Ask us directly on a free 30-minute call.",
+            "ctaLabel": "Book a Free 30-Min Consultation",
+            "ctaTo": "/book-consultation",
+            "items": [
+              {
+                "question": "How much does MVP development cost?",
+                "answer": "Most MVPs we build cost between USD [X] and USD [Y], depending on features, integrations and platforms. You get a fixed quote after a free 30-minute call."
+              },
+              {
+                "question": "Can I hire full-stack developers or React developers monthly?",
+                "answer": "Yes — our dedicated-team model lets you bring on full-stack, React or Node.js developers who work only on your product, billed monthly with no long-term lock-in."
+              },
+              {
+                "question": "How fast can you start?",
+                "answer": "Most engagements kick off within [1–2] weeks of the discovery call, once scope and the delivery plan are signed off."
+              },
+              {
+                "question": "Fixed price or dedicated team — which is right for me?",
+                "answer": "Choose fixed price for a clearly scoped first version. Choose a dedicated team if your product will keep evolving after launch and you want the same engineers to stay on."
+              },
+              {
+                "question": "Who owns the code?",
+                "answer": "You do. All code, documentation and infrastructure accounts are handed over and live in your own repositories from day one."
+              },
+              {
+                "question": "Which time zones do you work with?",
+                "answer": "We run weekly demos and daily async updates that overlap with US, UK and EU business hours, whichever suits your team."
+              }
+            ]
+          },
+          "related": {
+            "kicker": "Related services",
+            "title": "Explore more ways we can help",
+            "items": [
+              {
+                "icon": "globe",
+                "title": "Web Development",
+                "desc": "Custom websites and web apps",
+                "to": "/services/qa-full-stack-page"
+              },
+              {
+                "icon": "chip",
+                "title": "AI Development",
+                "desc": "Chatbots, agents and automation",
+                "to": "/services/ai-automation"
+              },
+              {
+                "icon": "calendar",
+                "title": "Free consultation",
+                "desc": "30 minutes with a senior engineer",
+                "to": "/book-consultation"
+              }
+            ]
+          },
+          "blog": {
+            "kicker": "From the blog",
+            "title": "Guides and answers",
+            "allLabel": "All articles",
+            "allTo": "/blog-page",
+            "posts": [
+              {
+                "tag": "Full-stack",
+                "cover": "MVP timeline and cost",
+                "imageSrc": "",
+                "title": "MVP development: timeline and cost",
+                "to": "/blog-page",
+                "readTime": "[X] min read",
+                "linkLabel": "Read the guide"
+              },
+              {
+                "tag": "Hiring",
+                "cover": "hiring developers",
+                "imageSrc": "",
+                "title": "Hire full-stack developers or an agency?",
+                "to": "/blog-page",
+                "readTime": "[X] min read",
+                "linkLabel": "Read the guide"
+              },
+              {
+                "tag": "SaaS",
+                "cover": "SaaS architecture",
+                "imageSrc": "",
+                "title": "SaaS architecture for your first 1,000 customers",
+                "to": "/blog-page",
+                "readTime": "[X] min read",
+                "linkLabel": "Read the guide"
+              }
+            ]
+          },
+          "finalCta": {
+            "kicker": "Start a project",
+            "title": "Plan your MVP or SaaS product with us",
+            "lead": "Share a few details and a senior engineer will reply within 24 hours.",
+            "bullets": [
+              "Fixed quote after a free 30-minute call",
+              "NDA on request",
+              "You own 100% of the code"
+            ],
+            "form": {
+              "badgeText": "Senior engineer reviews every request",
+              "title": "Get a free project estimate",
+              "sub": "Tell us a little about your project. We reply within 24 hours.",
+              "submitLabel": "Get my free estimate",
+              "privacyText": "Your details stay confidential and are never shared or sold. NDA available on request.",
+              "fields": [
+                {
+                  "key": "fullName",
+                  "type": "text",
+                  "label": "Full name",
+                  "placeholder": "Jane Smith",
+                  "required": true
+                },
+                {
+                  "key": "email",
+                  "type": "email",
+                  "label": "Work email",
+                  "placeholder": "jane@company.com",
+                  "required": true
+                },
+                {
+                  "key": "company",
+                  "type": "text",
+                  "label": "Company name",
+                  "placeholder": "Company Inc.",
+                  "required": false
+                },
+                {
+                  "key": "phone",
+                  "type": "tel",
+                  "label": "Phone number",
+                  "placeholder": "+1 555 000 0000",
+                  "required": false
+                },
+                {
+                  "key": "projectType",
+                  "type": "select",
+                  "label": "Project type",
+                  "required": false,
+                  "options": [
+                    {
+                      "label": "New MVP",
+                      "value": "mvp"
+                    },
+                    {
+                      "label": "SaaS product",
+                      "value": "saas"
+                    },
+                    {
+                      "label": "Custom software",
+                      "value": "custom-software"
+                    },
+                    {
+                      "label": "Dedicated team",
+                      "value": "dedicated-team"
+                    },
+                    {
+                      "label": "Not sure yet",
+                      "value": "not-sure"
+                    }
+                  ]
+                },
+                {
+                  "key": "budget",
+                  "type": "select",
+                  "label": "Budget range",
+                  "required": false,
+                  "options": [
+                    {
+                      "label": "Under USD 10k",
+                      "value": "under-10k"
+                    },
+                    {
+                      "label": "USD 10k – 25k",
+                      "value": "10k-25k"
+                    },
+                    {
+                      "label": "USD 25k – 50k",
+                      "value": "25k-50k"
+                    },
+                    {
+                      "label": "USD 50k+",
+                      "value": "50k-plus"
+                    },
+                    {
+                      "label": "Not sure yet",
+                      "value": "not-sure"
+                    }
+                  ]
+                },
+                {
+                  "key": "details",
+                  "type": "textarea",
+                  "label": "Project details",
+                  "placeholder": "What are you building, and what does success look like?",
+                  "required": true,
+                  "fullWidth": true
+                }
+              ],
+              "fieldLabels": {
+                "budget": "Budget range",
+                "company": "Company name",
+                "details": "Project details",
+                "email": "Work email",
+                "fullName": "Full name",
+                "phone": "Phone number",
+                "projectType": "Project type"
+              }
+            }
+          }
+        },
+        "styles": {
+          "hero.title": {
+            "desktop": {
+              "backgroundMode": "gradient",
+              "color": "#ff0000",
+              "fontSize": 45,
+              "textAlign": null
+            },
+            "mobile": {
+              "fontSize": 21,
+              "textAlign": "center"
+            }
+          },
+          "whatWeBuild.cards.0.icon": {
+            "desktop": {
+              "color": "#00aa00"
+            },
+            "mobile": {}
+          }
+        },
+        "createdAt": "2026-09-28T22:41:50.959Z",
+        "updatedAt": "2026-09-29T17:31:29.042Z"
+      }
+    }
+  },
+  "homePage": {
+    "data": {
+      "hero": {
+        "description": "Databiqs is an AI development company and full-stack development company. We design and build AI solutions, custom websites and web apps for startups and growing businesses with fixed timelines, senior engineers and clear pricing."
+      },
+      "hiddenSections": [],
+      "imgChat": {
+        "alt": "Chatbot Graphic",
+        "src": "/service-chat.png"
+      },
+      "imgCrm": {
+        "alt": "CRM Graphic",
+        "src": "/service-crm.png"
+      },
+      "problem": {
+        "items": [
+          {
+            "desc": "Prototypes impress in a meeting, then break under real users, data and traffic.",
+            "title": "Built as demos, not for production"
+          },
+          {
+            "desc": "Description of the problem.",
+            "title": "New problem"
+          }
+        ],
+        "title": "Why AI systems look powerful but don’t deliver results"
+      },
+      "solution": {
+        "items": [
+          "Designing resilient, scalable infrastructure",
+          "Integrating with your CRM, helpdesk and data",
+          "Monitoring, support and clear reporting after launch"
+        ],
+        "title": "Production-grade from day one"
+      },
+      "services": [
+        null,
+        {
+          "stack": [
+            {
+              "val": "REACT "
+            }
+          ]
+        }
+      ]
+    },
+    "styles": {
+      "ai-tag-1": {
+        "desktop": {
+          "color": "#ffffff"
+        },
+        "mobile": {}
+      }
+    },
+    "updatedAt": "2026-09-29T23:59:27.111Z"
+  },
+  "aboutPage": {
+    "data": {
+      "hiddenSections": [],
+      "hero": {
+        "titleLine1": "Meet our Founder & CEO",
+        "titleAccent": "Mr. Jaffar Ali Chaudhary",
+        "paragraphs": [
+          "Mr. Jaffar Ali founded Databiqs with a clear vision: to help founders and startups transform their ideas into revenue-ready AI and SaaS products without the typical delays, uncertainty, and technical complexity that slow down innovation.",
+          "With deep expertise across AI development, full-stack engineering, and enterprise architecture, Jaffar has spent his career solving one of the hardest challenges in tech: how to go from concept to scalable product quickly, without compromising on quality or future growth potential."
+        ],
+        "ctaLabel": "Book a Consultation",
+        "ctaTo": "/book-consultation",
+        "portraitSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/v1779487427/founder_ceo_yleptg.png",
+        "portraitAlt": "Jaffar Ali, Founder & CEO"
+      },
+      "stats": {
+        "items": [
+          {
+            "text": "TRUSTED BY CLIENTS"
+          },
+          {
+            "text": "100% CLIENT SATISFACTION"
+          },
+          {
+            "text": "12 YEARS OF EXCELLENCE"
+          },
+          {
+            "text": "150+ SUCCESSFULLY DELIVERED PROJECTS"
+          }
+        ]
+      },
+      "intro": {
+        "pill": "About Us",
+        "titleLine": "INNOVATING FUTURE OF",
+        "titleAccent": "BUSINESS TECHNOLOGY",
+        "subtitle": "We're A Team Of Passionate Technologists Committed To Helping Businesses Unlock Their Full Potential Through Intelligent Automation And AI Solutions.",
+        "cards": [
+          {
+            "imgSrc": "/static/media/mission.95fe12473a8e8a89ab3b96c60d58a98d.svg",
+            "imgAlt": "Mission Icon",
+            "title": "Our Mission",
+            "desc": "To Democratize Access To Powerful AI And Automation Technologies Of Every Size To Make Smarter Decisions, Streamline Operations, And Scale With Confidence In A Rapidly Evolving Digital World."
+          },
+          {
+            "imgSrc": "/static/media/vision.1dce7ec9207a95c54393b67d644b229f.svg",
+            "imgAlt": "Vision Icon",
+            "title": "Our Vision",
+            "desc": ""
+          },
+          {
+            "imgSrc": "/static/media/approach.fdb7bb3fdc3b2807ada03187d8859278.svg",
+            "imgAlt": "Approach Icon",
+            "title": "Our Approach",
+            "desc": "We Design And Deploy AI Solutions That Are Practical, Ethical, And Scalable, Combining Data Intelligence, Automation, And Human Insight To Solve Real World Business Challenges And Deliver Measurable Impact."
+          }
+        ]
+      },
+      "workingWithUs": {
+        "pill": "WORKING WITH US",
+        "title": "What you can expect, every project",
+        "cards": [
+          {
+            "icon": "message",
+            "title": "Clear communication",
+            "items": [
+              "Weekly demo on a video call",
+              "Written progress update every week",
+              "We work in your tools — Slack, Jira, Notion"
+            ]
+          },
+          {
+            "icon": "lock",
+            "title": "Security & confidentiality",
+            "items": [
+              "NDA signed before you share anything",
+              "Your data stays in your cloud",
+              "Role-based access, logged changes"
+            ]
+          },
+          {
+            "icon": "shieldCheck",
+            "title": "Quality you can check",
+            "items": [
+              "Code reviews and automated tests",
+              "Documentation with every handover",
+              "[X] weeks of free support after launch"
+            ]
+          }
+        ]
+      },
+      "howWeWork": {
+        "pill": "HOW WE WORK",
+        "title": "From first call to production in four steps",
+        "ctaLabel": "Book a Free 30-Min Consultation",
+        "ctaTo": "/book-consultation",
+        "steps": [
+          {
+            "num": "01",
+            "badge": "Week 1",
+            "title": "Discovery",
+            "desc": "We map goals, users, scope and risks, then send a fixed quote and delivery plan."
+          },
+          {
+            "num": "02",
+            "badge": "Weeks 2–3",
+            "title": "Design",
+            "desc": "Clickable wireframes and UI you review and approve before a line of code."
+          },
+          {
+            "num": "03",
+            "badge": "Weeks 4–10",
+            "title": "Build",
+            "desc": "Senior engineers ship in weekly sprints, with a live demo every Friday."
+          },
+          {
+            "num": "04",
+            "badge": "Ongoing",
+            "title": "Launch & support",
+            "desc": "We launch, monitor and hand over code, docs and accounts — all yours."
+          }
+        ]
+      },
+      "finalCta": {
+        "title": "READY TO DISCUSS YOUR IDEA WITH OUR TEAM?",
+        "subtitle": "If you are exploring AI automation, product strategy, or custom software, you can connect with us directly from this page and book a focused consultation session.",
+        "ctaLabel": "Book a Consultation",
+        "ctaTo": "/book-consultation"
+      }
+    },
+    "styles": {},
+    "updatedAt": "2026-09-30T21:49:21.164Z"
+  }
 }
