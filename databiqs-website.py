@@ -78,20 +78,41 @@ JWT_ALGORITHM = "HS256"
 JWT_EXPIRE_HOURS = 12
 
 
+def get_data_file() -> Path:
+    env_path = os.getenv("CONTENT_FILE")
+    if env_path:
+        return Path(env_path)
+    default_path = BACKEND_ROOT / "content-store.json"
+    if os.getenv("VERCEL") or not os.access(BACKEND_ROOT, os.W_OK):
+        tmp_path = Path("/tmp/content-store.json")
+        if not tmp_path.exists() and default_path.exists():
+            try:
+                tmp_path.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(default_path, tmp_path)
+            except Exception:
+                pass
+        return tmp_path
+    return default_path
+
 def migrate_legacy_content_file() -> None:
-    if DATA_FILE.is_file():
+    data_file = get_data_file()
+    if data_file.is_file():
         return
     for legacy in LEGACY_PATHS:
         if legacy.is_file():
-            DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
-            shutil.copy2(legacy, DATA_FILE)
-            return
+            try:
+                data_file.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(legacy, data_file)
+                return
+            except Exception:
+                pass
 
 
 def read_content() -> dict[str, Any]:
     migrate_legacy_content_file()
+    data_file = get_data_file()
     try:
-        raw = DATA_FILE.read_text(encoding="utf-8")
+        raw = data_file.read_text(encoding="utf-8")
         parsed = json.loads(raw)
         return parsed if isinstance(parsed, dict) else {}
     except (OSError, json.JSONDecodeError):
@@ -100,10 +121,11 @@ def read_content() -> dict[str, Any]:
 
 def write_content(data: dict[str, Any]) -> dict[str, Any]:
     migrate_legacy_content_file()
-    DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
+    data_file = get_data_file()
+    data_file.parent.mkdir(parents=True, exist_ok=True)
     payload = dict(data)
     payload["updatedAt"] = payload.get("updatedAt") or datetime.now(timezone.utc).isoformat()
-    DATA_FILE.write_text(
+    data_file.write_text(
         f"{json.dumps(payload, indent=2, ensure_ascii=False)}\n",
         encoding="utf-8",
     )
