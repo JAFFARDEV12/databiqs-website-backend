@@ -525,7 +525,7 @@
   "caseStudies": {
     "stats": [
       {
-        "label": "Projects delivered",
+        "label": "PROJECTS DELIVERED",
         "value": "320+"
       },
       {
@@ -1519,13 +1519,13 @@
         "detailMedia": [
           {
             "afterNthSection": 3,
-            "src": "https://res.cloudinary.com/deelyxcjk/image/upload/v1785255989/AI_Development_Company_in_Pakistan-1_mpxzhv.png",
-            "alt": "AI architecture and predictive systems"
+            "alt": "AI architecture and predictive systems",
+            "src": "https://res.cloudinary.com/deelyxcjk/image/upload/v1785255989/AI_Development_Company_in_Pakistan-1_mpxzhv.png"
           },
           {
             "afterNthSection": 6,
-            "src": "https://res.cloudinary.com/deelyxcjk/image/upload/v1785254864/AI_Development_Company_in_Pakistan_k4rfgv.png",
-            "alt": "Production deployment and engineering"
+            "alt": "Production deployment and engineering",
+            "src": "https://res.cloudinary.com/deelyxcjk/image/upload/v1785254864/AI_Development_Company_in_Pakistan_k4rfgv.png"
           }
         ],
         "excerpt": "As a leading AI Services Provider & Software Development Company based in Pakistan, we build intelligent, scalable and secure AI systems that help businesses innovate, automate and grow.",
@@ -2658,17 +2658,18 @@
       {
         "category": "AI & Automation",
         "content": "Modern enterprises face increasing complexity in operations. AI in workflow automation helps organizations streamline processes, reduce manual work, and increase efficiency. By integrating AI into workflows, businesses can optimize operations, enhance decision-making, and improve productivity across departments.\r\n\r\nAt Databiqs, we provide AI-powered workflow automation solutions that help enterprises automate repetitive tasks, analyze data in real-time, and improve operational efficiency. From AI chatbots and predictive analytics to generative AI tools, our solutions make workflows smarter, faster, and more reliable.\r\n\r\n## What Is AI in Workflow Automation?\r\nAI in workflow automation involves integrating artificial intelligence technologies into business processes to automate repetitive tasks, optimize operations, and provide actionable insights.\r\n\r\nKey aspects include:\r\n- Automating repetitive tasks in finance, HR, marketing, and operations\r\n- AI-powered decision-making from operational data\r\n- Predictive analytics for outcomes, risks, and resource needs\r\n- Generative AI for reporting, content creation, and document processing\r\n- Integration with CRMs, ERPs, and SaaS platforms\r\n\r\n## Benefits of AI in Workflow Automation\r\n1. Increased Efficiency – AI automates repetitive tasks and reduces bottlenecks.\r\n2. Cost Reduction – Decreased operational costs and fewer manual errors.\r\n3. Enhanced Accuracy – Consistent execution with minimized human error.\r\n4. Scalable Operations – Handle increased workloads without proportional staffing increases.\r\n5. Data-Driven Insights – Identify inefficiencies and optimize processes continuously.\r\n6. Improved Customer Experience – Faster responses and accurate order processing.\r\n\r\n## Real-World Examples of AI in Workflow Automation\r\n- Finance and Accounting: Invoice processing, expense reporting, reconciliation.\r\n- Human Resources: Resume screening, interview scheduling, onboarding.\r\n- Customer Support: FAQs, ticket routing, escalation workflows.\r\n- Marketing: Email campaigns, lead scoring, customer segmentation.\r\n- Supply Chain and Logistics: Demand prediction, route optimization, inventory management.\r\n- Enterprise Operations: KPI dashboards and workflow improvement suggestions.\r\n\r\n## How Databiqs Implements AI in Workflow Automation\r\n- Workflow Assessment – Identify tasks suitable for AI automation.\r\n- Data Preparation – Organize and clean workflow data for AI applications.\r\n- AI Model Development – Predictive, generative, or ML models tailored to workflows.\r\n- Integration – Connect with enterprise software and internal systems.\r\n- Testing and Optimization – Validate accuracy, reliability, and efficiency.\r\n- Deployment and Scaling – Expand automated workflows across departments.\r\n- Continuous Monitoring – Refine models as operations evolve.\r\n\r\n## Industries Benefiting from AI Workflow Automation\r\n- Finance and Banking\r\n- Healthcare\r\n- E-commerce and Retail\r\n- Manufacturing\r\n- Logistics and Transportation\r\n- Enterprise SaaS\r\n\r\n## Why Choose Databiqs for AI Workflow Automation?\r\n- Expert AI Developers in machine learning, predictive analytics, and generative AI\r\n- Custom Solutions designed for enterprise operations\r\n- Scalable and Secure enterprise-grade systems\r\n- End-to-End Support from strategy through monitoring\r\n- Business-Focused Approach driving ROI and efficiency\r\n\r\n## FAQs – AI in Workflow Automation\r\nQ1: What is AI in workflow automation? Using AI to automate tasks, optimize processes, and provide actionable insights in business operations.\r\nQ2: How does AI improve workflow efficiency? By automating repetitive work, reducing errors, and monitoring workflows for optimization.\r\nQ3: Can AI integrate with existing enterprise systems? Yes. Databiqs integrates with CRMs, ERPs, SaaS platforms, and custom systems.\r\nQ4: Which industries benefit most? Finance, healthcare, e-commerce, manufacturing, logistics, and enterprise SaaS.\r\nQ5: How do you measure success? KPIs such as time saved, reduced errors, productivity gains, cost savings, and automation ROI.\r\n\r\nStreamline your operations with AI in workflow automation from Databiqs. Contact Databiqs today to implement AI-driven workflows that transform your enterprise operations.",
+        "coverImage": "",
         "date": "May 26, 2026",
         "detailMedia": [
           {
             "afterNthSection": 2,
-            "src": "https://res.cloudinary.com/deelyxcjk/image/upload/v1785256535/AI_workflow_automation_for_business_efficiency_dmv1ex.png",
-            "alt": "AI workflow automation"
+            "alt": "AI workflow automation",
+            "src": "https://res.cloudinary.com/deelyxcjk/image/upload/v1785256535/AI_workflow_automation_for_business_efficiency_dmv1ex.png"
           },
           {
             "afterNthSection": 5,
-            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
-            "alt": "Business process automation"
+            "alt": "Business process automation",
+            "src": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg"
           }
         ],
         "excerpt": "Integrate AI into workflows to automate repetitive tasks, analyze data in real time, and improve operational efficiency across finance, HR, marketing, and operations.",
@@ -2681,11 +2682,10 @@
           "metaDescription": "Integrate AI into workflows to automate repetitive tasks, analyze data in real time, and improve operational efficiency across finance, HR, marketing, and op…",
           "metaTitle": "AI in Workflow Automation – Boost Business Effic… | Databiqs"
         },
+        "slug": "ai-in-workflow-automation-boost-business-efficiency-with-databiqs",
         "tag": "Enterprise AI",
         "title": "AI in Workflow Automation – Boost Business Efficiency with Databiqs",
-        "topicKey": "automation",
-        "slug": "ai-in-workflow-automation-boost-business-efficiency-with-databiqs",
-        "coverImage": ""
+        "topicKey": "automation"
       },
       {
         "category": "Data & Analytics",
@@ -3050,59 +3050,59 @@
       "role": "Business Development Executive"
     },
     {
+      "avatarPosition": "center top",
+      "featured": true,
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/v1786634201/person-2_dinhdv.png",
       "name": "Subaina Pervaiz",
       "role": "AI LM Engineer",
-      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/v1786634201/person-2_dinhdv.png",
-      "avatarPosition": "center top",
-      "featured": true,
       "spotlight": false
     },
     {
+      "avatarPosition": "center top",
+      "featured": true,
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/v1786634532/person-3_dgwrtm.png",
       "name": "Zainab Baig",
       "role": "AI LM Engineer",
-      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/v1786634532/person-3_dgwrtm.png",
-      "avatarPosition": "center top",
-      "featured": true,
       "spotlight": false
     },
     {
+      "avatarPosition": "center top",
+      "featured": true,
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/v1786634628/Adobe_Express_-_file_10_1_iryxrr.png",
       "name": "Hiba Eshan",
       "role": "AI LM Engineer",
-      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/v1786634628/Adobe_Express_-_file_10_1_iryxrr.png",
-      "avatarPosition": "center top",
-      "featured": true,
       "spotlight": false
     },
     {
+      "avatarPosition": "center top",
+      "featured": true,
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/v1786634873/person-4_qy0vus.png",
       "name": "Fatima Zahra",
       "role": "AI LM Engineer",
-      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/v1786634873/person-4_qy0vus.png",
-      "avatarPosition": "center top",
-      "featured": true,
       "spotlight": false
     },
     {
-      "name": "Syed Ali Musa Rizvi",
-      "role": "AI & Automation Engineer",
+      "avatarPosition": "center top",
+      "featured": true,
       "image": "https://res.cloudinary.com/deelyxcjk/image/upload/v1788809714/Syed_Ali_Musa_Rizvi_szi0od.png",
-      "avatarPosition": "center top",
-      "featured": true,
-      "spotlight": false
-    },
-    {
       "name": "Syed Ali Musa Rizvi",
       "role": "AI & Automation Engineer",
-      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/v1790004615/Group_1000005862_cvluhj.png",
-      "avatarPosition": "center top",
-      "featured": true,
       "spotlight": false
     },
     {
+      "avatarPosition": "center top",
+      "featured": true,
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/v1790004615/Group_1000005862_cvluhj.png",
+      "name": "Syed Ali Musa Rizvi",
+      "role": "AI & Automation Engineer",
+      "spotlight": false
+    },
+    {
+      "avatarPosition": "center top",
+      "featured": true,
+      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/v1788809714/Abdullah_Afzal_mxhk99.png",
       "name": "Talal Naeem",
       "role": "AI Solutions Architect",
-      "image": "https://res.cloudinary.com/deelyxcjk/image/upload/v1788809714/Abdullah_Afzal_mxhk99.png",
-      "avatarPosition": "center top",
-      "featured": true,
       "spotlight": false
     }
   ],
@@ -3177,23 +3177,1563 @@
       "strategy": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_960,c_limit/v1779295407/7687810-uhd_4096_2160_24fps_lywssl.mp4"
     }
   },
-  "updatedAt": "2026-08-11T16:33:55.138Z",
   "servicePages": {
     "list": [
       {
         "createdAt": "2026-09-28T22:37:28.675Z",
         "slug": "full-stack-development",
         "title": "Full-Stack & SaaS Development Services",
-        "updatedAt": "2026-09-29T21:18:50.505Z"
+        "updatedAt": "2026-10-01T17:32:59.102Z"
       },
       {
-        "createdAt": "2026-09-28T22:41:50.959Z",
-        "slug": "qa-full-stack-page",
-        "title": "QA Full Stack Page Edited",
-        "updatedAt": "2026-09-29T17:31:29.042Z"
+        "createdAt": "2026-10-01T16:57:19.868Z",
+        "slug": "ai-chatbots",
+        "title": "AI Chatbots",
+        "updatedAt": "2026-10-01T16:57:19.868Z"
+      },
+      {
+        "createdAt": "2026-10-01T16:57:19.868Z",
+        "slug": "ai-automation",
+        "title": "AI Automation",
+        "updatedAt": "2026-10-01T16:57:19.868Z"
+      },
+      {
+        "createdAt": "2026-10-01T16:57:19.868Z",
+        "slug": "machine-learning",
+        "title": "Machine Learning",
+        "updatedAt": "2026-10-01T16:57:19.868Z"
+      },
+      {
+        "createdAt": "2026-10-01T16:57:19.868Z",
+        "slug": "ai-consulting",
+        "title": "AI Consulting",
+        "updatedAt": "2026-10-01T16:57:19.868Z"
       }
     ],
     "pages": {
+      "ai-automation": {
+        "slug": "ai-automation",
+        "title": "AI Automation",
+        "data": {
+          "meta": {
+            "documentTitle": "AI Automation Services | Databiqs"
+          },
+          "hiddenSections": [],
+          "cardPreview": {
+            "icon": "workflow",
+            "shortDescription": "End-to-end intelligent process automation. Streamline operations, reduce manual errors, and accelerate throughput.",
+            "features": [
+              "Workflow Orchestration",
+              "Data Extraction (IDP)",
+              "System Integrations"
+            ]
+          },
+          "hero": {
+            "kicker": "Automation Excellence",
+            "breadcrumbCurrent": "AI Automation",
+            "title": "Automate Complex Operations With Precision",
+            "lead": "End-to-end intelligent process automation. We identify high-impact bottlenecks, design resilient automation pipelines, and deploy systems that streamline operations and scale without compromising quality.",
+            "primaryCtaLabel": "Book a Free 30-Min Consultation",
+            "primaryCtaTo": "/book-consultation",
+            "secondaryCtaLabel": "See case studies",
+            "secondaryCtaTo": "/case-studies",
+            "tags": [
+              "Workflow Orchestration",
+              "Data Extraction (IDP)",
+              "System Integrations",
+              "Human-in-the-loop QA",
+              "Monitoring & Alerting"
+            ],
+            "glance": {
+              "statusLabel": "Taking new projects",
+              "rows": [
+                {
+                  "icon": "clock",
+                  "label": "Launch timeline",
+                  "value": "[6–10] weeks"
+                },
+                {
+                  "icon": "bolt",
+                  "label": "Projects start from",
+                  "value": "USD [X]"
+                },
+                {
+                  "icon": "users",
+                  "label": "Engagement",
+                  "value": "Fixed price · Dedicated team"
+                },
+                {
+                  "icon": "shield",
+                  "label": "Confidentiality",
+                  "value": "NDA on request"
+                }
+              ],
+              "ctaLabel": "Get a Free Estimate"
+            }
+          },
+          "whatWeBuild": {
+            "kicker": "What we build",
+            "title": "From manual workflows to resilient automation pipelines",
+            "side": "One team covers process discovery, orchestration, integrations and monitoring.",
+            "cards": [
+              {
+                "icon": "workflow",
+                "title": "Workflow orchestration",
+                "desc": "Rule + AI powered pipelines that coordinate multi-step business processes."
+              },
+              {
+                "icon": "file",
+                "title": "Data extraction (IDP)",
+                "desc": "Pull structured data from documents, emails and forms automatically."
+              },
+              {
+                "icon": "plug",
+                "title": "System integrations",
+                "desc": "Connect ERPs, CRMs and internal tools into one automated flow."
+              },
+              {
+                "icon": "shieldCheck",
+                "title": "Human-in-the-loop checkpoints",
+                "desc": "Quality gates where a person reviews before high-stakes actions."
+              },
+              {
+                "icon": "search",
+                "title": "Monitoring & alerting",
+                "desc": "Catch failures and drift before they become operational incidents."
+              },
+              {
+                "icon": "cloud",
+                "title": "Cloud-native deployment",
+                "desc": "Scalable infrastructure on AWS with CI/CD and observability."
+              }
+            ]
+          },
+          "whyDatabiqs": {
+            "kicker": "Why Databiqs",
+            "title": "Why operations teams choose Databiqs for automation",
+            "cards": [
+              {
+                "icon": "bolt",
+                "title": "Built for throughput",
+                "desc": "Automation designed around your actual bottlenecks, not generic templates."
+              },
+              {
+                "icon": "layers",
+                "title": "One team, full stack",
+                "desc": "Process discovery, engineering and monitoring — no hand-offs."
+              },
+              {
+                "icon": "users",
+                "title": "Scales with you",
+                "desc": "Start with one workflow, expand to a dedicated automation team."
+              },
+              {
+                "icon": "code",
+                "title": "Clean, owned code",
+                "desc": "Tested, documented pipelines you keep in your own infrastructure."
+              }
+            ]
+          },
+          "toc": {
+            "eyebrow": "On this page",
+            "items": [
+              {
+                "id": "auto-end-to-end",
+                "label": "AI automation services, end to end"
+              },
+              {
+                "id": "auto-timeline-cost",
+                "label": "Automation rollout: timeline and cost"
+              },
+              {
+                "id": "auto-hire-team",
+                "label": "Fixed-price project or a dedicated automation team"
+              },
+              {
+                "id": "auto-integrations",
+                "label": "Integrating with your ERP, CRM and internal tools"
+              }
+            ],
+            "cardTitle": "Need a quote?",
+            "cardDesc": "Free 30-minute call, fixed quote after.",
+            "cardCtaLabel": "Book a call",
+            "cardCtaTo": "/book-consultation"
+          },
+          "longform": [
+            {
+              "id": "auto-end-to-end",
+              "title": "AI automation services, end to end",
+              "paragraphs": [
+                "We start with an operational discovery to find the workflows costing you the most manual effort, then design automation pipelines with human-in-the-loop checkpoints so quality never drops as volume grows.",
+                "We work in weekly sprints and demo working automation every week, so you can validate behavior on real cases before it touches production volume."
+              ]
+            },
+            {
+              "id": "auto-timeline-cost",
+              "title": "Automation rollout: timeline and cost",
+              "paragraphs": [
+                "A focused first workflow typically rolls out in [6–10] weeks and costs USD [X]–[Y], depending on the number of systems it touches and how much data extraction is involved."
+              ]
+            },
+            {
+              "id": "auto-hire-team",
+              "title": "Fixed-price project or a dedicated automation team",
+              "paragraphs": [
+                "A fixed-price engagement suits one clearly scoped workflow. A dedicated automation team suits organizations automating multiple processes across departments over time."
+              ]
+            },
+            {
+              "id": "auto-integrations",
+              "title": "Integrating with your ERP, CRM and internal tools",
+              "paragraphs": [
+                "Automation is only useful if it talks to the systems you already run on. We integrate with ERPs, CRMs, helpdesks and internal tools via API, so automated steps update the same records your team already trusts."
+              ]
+            }
+          ],
+          "process": {
+            "kicker": "How we work",
+            "title": "A clear process, with a demo every week",
+            "ctaLabel": "Book a Free 30-Min Consultation",
+            "ctaTo": "/book-consultation",
+            "steps": [
+              {
+                "num": "01",
+                "week": "Week 1",
+                "title": "Operational discovery",
+                "desc": "Identify automation-ready workflows and constraints."
+              },
+              {
+                "num": "02",
+                "week": "Weeks 2–3",
+                "title": "Pipeline design",
+                "desc": "Workflow engineering with human-in-the-loop checkpoints you approve."
+              },
+              {
+                "num": "03",
+                "week": "Weeks 4–8",
+                "title": "Build & integrate",
+                "desc": "Senior engineers ship in weekly sprints, with a live demo every Friday."
+              },
+              {
+                "num": "04",
+                "week": "Ongoing",
+                "title": "Monitor & tune",
+                "desc": "Monitoring, alerting and iterative tuning for long-term performance."
+              }
+            ]
+          },
+          "techStack": {
+            "kicker": "Tech stack",
+            "title": "Built on tools that scale",
+            "items": [
+              {
+                "name": "Python",
+                "logoKey": "python"
+              },
+              {
+                "name": "Node.js",
+                "logoKey": "nodejs"
+              },
+              {
+                "name": "PostgreSQL",
+                "logoKey": "postgresql"
+              },
+              {
+                "name": "AWS",
+                "logoKey": "aws"
+              },
+              {
+                "name": "Docker",
+                "logoKey": "docker"
+              }
+            ]
+          },
+          "caseStudy": {
+            "kicker": "Featured case study",
+            "imageSrc": "",
+            "imageAlt": "Product screenshot — automation pipeline built by Databiqs",
+            "projectName": "[Project name]",
+            "meta": "Operations automation · IDP + ERP integration",
+            "sub": "[Industry] company, [size] — named with permission, or \"name withheld under NDA\".",
+            "challengeLabel": "Challenge",
+            "challengeText": "[The problem the client had, in one or two sentences.]",
+            "solutionLabel": "What we built",
+            "solutionText": "[The solution, stack and timeline.]",
+            "results": [
+              {
+                "value": "[Result]",
+                "label": "e.g. manual hours saved per week"
+              },
+              {
+                "value": "[Result]",
+                "label": "e.g. error rate reduced"
+              }
+            ],
+            "linkLabel": "Read the full case study",
+            "linkTo": "/case-studies"
+          },
+          "engagement": {
+            "kicker": "Engagement models",
+            "title": "Pick how you want to work with us",
+            "noteText": "Automation projects typically start from USD [X]",
+            "tiers": [
+              {
+                "icon": "file",
+                "title": "Fixed-price project",
+                "desc": "One defined workflow automated end to end, with a fixed quote after a free call.",
+                "bullets": [
+                  "Fixed scope and timeline",
+                  "Weekly demos",
+                  "Pay by milestone"
+                ],
+                "highlight": false,
+                "tag": ""
+              },
+              {
+                "icon": "users",
+                "title": "Dedicated automation team",
+                "desc": "Senior engineers who keep automating processes across departments, billed monthly.",
+                "bullets": [
+                  "New workflows added over time",
+                  "Works in your tools",
+                  "Monthly billing"
+                ],
+                "highlight": true,
+                "tag": "Scale with us"
+              },
+              {
+                "icon": "clock",
+                "title": "Hourly",
+                "desc": "For audits, tuning and ongoing support after rollout.",
+                "bullets": [
+                  "No minimum commitment",
+                  "Transparent time logs",
+                  "Senior engineers only"
+                ],
+                "highlight": false,
+                "tag": ""
+              }
+            ]
+          },
+          "faq": {
+            "kicker": "FAQ",
+            "title": "Questions, answered",
+            "lead": "Still have a question? Ask us directly on a free 30-minute call.",
+            "ctaLabel": "Book a Free 30-Min Consultation",
+            "ctaTo": "/book-consultation",
+            "items": [
+              {
+                "question": "How much does AI automation cost?",
+                "answer": "Most automation projects cost between USD [X] and USD [Y], depending on the number of systems and amount of data extraction involved. You get a fixed quote after a free call."
+              },
+              {
+                "question": "What kinds of workflows can you automate?",
+                "answer": "Document processing, approvals, data entry between systems, reporting and most repetitive multi-step operational workflows."
+              },
+              {
+                "question": "How do you keep quality high as volume scales?",
+                "answer": "Human-in-the-loop checkpoints review high-stakes or low-confidence cases, with monitoring and alerting to catch drift early."
+              },
+              {
+                "question": "Fixed price or dedicated team — which is right for me?",
+                "answer": "Choose fixed price for one clearly scoped workflow. Choose a dedicated team if you plan to automate multiple processes over time."
+              },
+              {
+                "question": "Who owns the automation pipelines?",
+                "answer": "You do. All code, infrastructure and documentation are handed over and live in your own environment."
+              },
+              {
+                "question": "How fast can you start?",
+                "answer": "Most engagements kick off within [1–2] weeks of the discovery call, once scope is signed off."
+              }
+            ]
+          },
+          "related": {
+            "kicker": "Related services",
+            "title": "Explore more ways we can help",
+            "items": [
+              {
+                "icon": "message",
+                "title": "AI Chatbots",
+                "desc": "Conversational AI for support and sales",
+                "to": "/services/ai-chatbots"
+              },
+              {
+                "icon": "chip",
+                "title": "Machine Learning",
+                "desc": "Predictive models trained on your data",
+                "to": "/services/machine-learning"
+              },
+              {
+                "icon": "calendar",
+                "title": "Free consultation",
+                "desc": "30 minutes with a senior engineer",
+                "to": "/book-consultation"
+              }
+            ]
+          },
+          "blog": {
+            "kicker": "From the blog",
+            "title": "Guides and answers",
+            "allLabel": "All articles",
+            "allTo": "/blog-page",
+            "posts": [
+              {
+                "tag": "Automation",
+                "cover": "process automation ROI",
+                "imageSrc": "",
+                "title": "How to prioritize workflows for automation",
+                "to": "/blog-page",
+                "readTime": "[X] min read",
+                "linkLabel": "Read the guide"
+              },
+              {
+                "tag": "Operations",
+                "cover": "IDP basics",
+                "imageSrc": "",
+                "title": "Intelligent document processing, explained",
+                "to": "/blog-page",
+                "readTime": "[X] min read",
+                "linkLabel": "Read the guide"
+              },
+              {
+                "tag": "AI",
+                "cover": "human in the loop",
+                "imageSrc": "",
+                "title": "Why human-in-the-loop still matters",
+                "to": "/blog-page",
+                "readTime": "[X] min read",
+                "linkLabel": "Read the guide"
+              }
+            ]
+          },
+          "finalCta": {
+            "kicker": "Start a project",
+            "title": "Plan your automation rollout with us",
+            "lead": "Share a few details and a senior engineer will reply within 24 hours.",
+            "bullets": [
+              "Fixed quote after a free 30-minute call",
+              "NDA on request",
+              "You own 100% of the code"
+            ],
+            "form": {
+              "badgeText": "Senior engineer reviews every request",
+              "title": "Get a free project estimate",
+              "sub": "Tell us a little about your project. We reply within 24 hours.",
+              "submitLabel": "Get my free estimate",
+              "privacyText": "Your details stay confidential and are never shared or sold. NDA available on request.",
+              "fields": [
+                {
+                  "key": "fullName",
+                  "type": "text",
+                  "label": "Full name",
+                  "placeholder": "Jane Smith",
+                  "required": true
+                },
+                {
+                  "key": "email",
+                  "type": "email",
+                  "label": "Work email",
+                  "placeholder": "jane@company.com",
+                  "required": true
+                },
+                {
+                  "key": "company",
+                  "type": "text",
+                  "label": "Company name",
+                  "placeholder": "Company Inc.",
+                  "required": false
+                },
+                {
+                  "key": "phone",
+                  "type": "tel",
+                  "label": "Phone number",
+                  "placeholder": "+1 555 000 0000",
+                  "required": false
+                },
+                {
+                  "key": "projectType",
+                  "type": "select",
+                  "label": "Project type",
+                  "required": false,
+                  "options": [
+                    {
+                      "label": "Document / data automation",
+                      "value": "document-automation"
+                    },
+                    {
+                      "label": "Workflow / approvals automation",
+                      "value": "workflow-automation"
+                    },
+                    {
+                      "label": "System integration",
+                      "value": "integration"
+                    },
+                    {
+                      "label": "Not sure yet",
+                      "value": "not-sure"
+                    }
+                  ]
+                },
+                {
+                  "key": "budget",
+                  "type": "select",
+                  "label": "Budget range",
+                  "required": false,
+                  "options": [
+                    {
+                      "label": "Under USD 10k",
+                      "value": "under-10k"
+                    },
+                    {
+                      "label": "USD 10k – 25k",
+                      "value": "10k-25k"
+                    },
+                    {
+                      "label": "USD 25k – 50k",
+                      "value": "25k-50k"
+                    },
+                    {
+                      "label": "USD 50k+",
+                      "value": "50k-plus"
+                    },
+                    {
+                      "label": "Not sure yet",
+                      "value": "not-sure"
+                    }
+                  ]
+                },
+                {
+                  "key": "details",
+                  "type": "textarea",
+                  "label": "Project details",
+                  "placeholder": "What are you building, and what does success look like?",
+                  "required": true,
+                  "fullWidth": true
+                }
+              ]
+            }
+          }
+        },
+        "styles": {},
+        "createdAt": "2026-10-01T16:57:19.868Z",
+        "updatedAt": "2026-10-01T16:57:19.868Z"
+      },
+      "ai-chatbots": {
+        "slug": "ai-chatbots",
+        "title": "AI Chatbots",
+        "data": {
+          "meta": {
+            "documentTitle": "AI Chatbot Development Services | Databiqs"
+          },
+          "hiddenSections": [],
+          "cardPreview": {
+            "icon": "bot",
+            "shortDescription": "Build custom conversational AI chatbots that understand context, resolve complex customer queries, provide 24/7 support, and integrate with your CRM and business systems.",
+            "features": [
+              "",
+              "Customer Support Automation",
+              "CRM Integration"
+            ]
+          },
+          "hero": {
+            "kicker": "Conversational AI",
+            "breadcrumbCurrent": "AI Chatbots",
+            "title": "AI Chatbots That Convert And Retain",
+            "lead": "We design AI chatbot systems that feel human, resolve complex customer queries, provide 24/7 support, and integrate directly with your CRM and business systems — tailored to your brand voice and outcomes.",
+            "primaryCtaLabel": "Book a Free 30-Min Consultation",
+            "primaryCtaTo": "/book-consultation",
+            "secondaryCtaLabel": "See case studies",
+            "secondaryCtaTo": "/case-studies",
+            "tags": [
+              "Conversational AI",
+              "Customer Support Automation",
+              "CRM Integration",
+              "Lead Qualification",
+              "24/7 Coverage"
+            ],
+            "glance": {
+              "statusLabel": "Taking new projects",
+              "rows": [
+                {
+                  "icon": "clock",
+                  "label": "Launch timeline",
+                  "value": "[4–8] weeks"
+                },
+                {
+                  "icon": "bolt",
+                  "label": "Projects start from",
+                  "value": "USD [X]"
+                },
+                {
+                  "icon": "users",
+                  "label": "Engagement",
+                  "value": "Fixed price · Dedicated team"
+                },
+                {
+                  "icon": "shield",
+                  "label": "Confidentiality",
+                  "value": "NDA on request"
+                }
+              ],
+              "ctaLabel": "Get a Free Estimate"
+            }
+          },
+          "whatWeBuild": {
+            "kicker": "What we build",
+            "title": "Conversations that resolve, qualify and convert",
+            "side": "One team covers conversation design, model training, integrations and analytics.",
+            "cards": [
+              {
+                "icon": "message",
+                "title": "Conversational AI",
+                "desc": "Chatbots that understand context and intent, not just keywords."
+              },
+              {
+                "icon": "bot",
+                "title": "Customer support automation",
+                "desc": "Resolve repetitive queries instantly while escalating complex ones to humans."
+              },
+              {
+                "icon": "plug",
+                "title": "CRM & helpdesk integration",
+                "desc": "Connect to Salesforce, HubSpot, Zendesk and your internal tools."
+              },
+              {
+                "icon": "target",
+                "title": "Lead qualification",
+                "desc": "Intent-driven flows that qualify and route leads to sales in real time."
+              },
+              {
+                "icon": "shieldCheck",
+                "title": "Guardrails & safety",
+                "desc": "Scoped responses, escalation paths and human-in-the-loop review."
+              },
+              {
+                "icon": "chip",
+                "title": "Multi-channel deployment",
+                "desc": "Web, WhatsApp, Slack and mobile, from a single conversation engine."
+              }
+            ]
+          },
+          "whyDatabiqs": {
+            "kicker": "Why Databiqs",
+            "title": "Why teams choose Databiqs for AI chatbots",
+            "cards": [
+              {
+                "icon": "brain",
+                "title": "Context-aware by design",
+                "desc": "Chatbots that remember the conversation, not just the last message."
+              },
+              {
+                "icon": "layers",
+                "title": "One team, full stack",
+                "desc": "Conversation design, model training and integrations — no hand-offs."
+              },
+              {
+                "icon": "users",
+                "title": "Scales with you",
+                "desc": "Start fixed-price, move to a dedicated team as usage grows."
+              },
+              {
+                "icon": "code",
+                "title": "Clean, owned code",
+                "desc": "Tested, documented integrations you keep in your own repositories."
+              }
+            ]
+          },
+          "toc": {
+            "eyebrow": "On this page",
+            "items": [
+              {
+                "id": "chat-end-to-end",
+                "label": "AI chatbot development, end to end"
+              },
+              {
+                "id": "chat-timeline-cost",
+                "label": "Chatbot launch: timeline and cost"
+              },
+              {
+                "id": "chat-hire-team",
+                "label": "Fixed-price build or a dedicated AI team"
+              },
+              {
+                "id": "chat-integrations",
+                "label": "CRM, helpdesk and channel integrations"
+              }
+            ],
+            "cardTitle": "Need a quote?",
+            "cardDesc": "Free 30-minute call, fixed quote after.",
+            "cardCtaLabel": "Book a call",
+            "cardCtaTo": "/book-consultation"
+          },
+          "longform": [
+            {
+              "id": "chat-end-to-end",
+              "title": "AI chatbot development, end to end",
+              "paragraphs": [
+                "We design the conversation first — intents, edge cases and escalation paths — then train and integrate the model around that design, so the chatbot behaves predictably in production, not just in a demo.",
+                "Every chatbot ships with analytics on intent coverage and resolution rate, so you can see exactly where it helps and where it still needs a human."
+              ]
+            },
+            {
+              "id": "chat-timeline-cost",
+              "title": "Chatbot launch: timeline and cost",
+              "paragraphs": [
+                "A focused support or lead-qualification chatbot typically launches in [4–8] weeks and costs USD [X]–[Y], depending on the number of intents, integrations and languages required."
+              ]
+            },
+            {
+              "id": "chat-hire-team",
+              "title": "Fixed-price build or a dedicated AI team",
+              "paragraphs": [
+                "A fixed-price engagement suits a clearly scoped first chatbot. A dedicated team suits products where conversational AI keeps expanding — new intents, new channels, new integrations — month after month."
+              ]
+            },
+            {
+              "id": "chat-integrations",
+              "title": "CRM, helpdesk and channel integrations",
+              "paragraphs": [
+                "We connect chatbots to the systems your team already uses — CRM, helpdesk, booking and billing — so conversations turn into logged, actionable records instead of a separate silo."
+              ]
+            }
+          ],
+          "process": {
+            "kicker": "How we work",
+            "title": "A clear process, with a demo every week",
+            "ctaLabel": "Book a Free 30-Min Consultation",
+            "ctaTo": "/book-consultation",
+            "steps": [
+              {
+                "num": "01",
+                "week": "Week 1",
+                "title": "Discovery",
+                "desc": "Map intents, customer journeys and systems to integrate with."
+              },
+              {
+                "num": "02",
+                "week": "Weeks 2–3",
+                "title": "Conversation design",
+                "desc": "Flows, guardrails and escalation paths you review before training."
+              },
+              {
+                "num": "03",
+                "week": "Weeks 4–6",
+                "title": "Build & train",
+                "desc": "Model training and integrations, with a live demo every Friday."
+              },
+              {
+                "num": "04",
+                "week": "Ongoing",
+                "title": "Launch & tune",
+                "desc": "Launch, monitor intent coverage and keep improving resolution rate."
+              }
+            ]
+          },
+          "techStack": {
+            "kicker": "Tech stack",
+            "title": "Built on tools that scale",
+            "items": [
+              {
+                "name": "Python",
+                "logoKey": "python"
+              },
+              {
+                "name": "Node.js",
+                "logoKey": "nodejs"
+              },
+              {
+                "name": "PostgreSQL",
+                "logoKey": "postgresql"
+              },
+              {
+                "name": "AWS",
+                "logoKey": "aws"
+              },
+              {
+                "name": "Docker",
+                "logoKey": "docker"
+              }
+            ]
+          },
+          "caseStudy": {
+            "kicker": "Featured case study",
+            "imageSrc": "",
+            "imageAlt": "Product screenshot — AI chatbot built by Databiqs",
+            "projectName": "[Project name]",
+            "meta": "Support chatbot · CRM integration",
+            "sub": "[Industry] company, [size] — named with permission, or \"name withheld under NDA\".",
+            "challengeLabel": "Challenge",
+            "challengeText": "[The problem the client had, in one or two sentences.]",
+            "solutionLabel": "What we built",
+            "solutionText": "[The solution, stack and timeline.]",
+            "results": [
+              {
+                "value": "[Result]",
+                "label": "e.g. first-response time reduced"
+              },
+              {
+                "value": "[Result]",
+                "label": "e.g. launched in [X] weeks"
+              }
+            ],
+            "linkLabel": "Read the full case study",
+            "linkTo": "/case-studies"
+          },
+          "engagement": {
+            "kicker": "Engagement models",
+            "title": "Pick how you want to work with us",
+            "noteText": "Chatbot projects typically start from USD [X]",
+            "tiers": [
+              {
+                "icon": "file",
+                "title": "Fixed-price project",
+                "desc": "A defined chatbot scope with a fixed quote after a free 30-minute call.",
+                "bullets": [
+                  "Fixed scope and timeline",
+                  "Weekly demos",
+                  "Pay by milestone"
+                ],
+                "highlight": false,
+                "tag": ""
+              },
+              {
+                "icon": "users",
+                "title": "Dedicated AI team",
+                "desc": "Senior engineers who keep expanding your conversational AI, billed monthly.",
+                "bullets": [
+                  "New intents and channels",
+                  "Works in your tools",
+                  "Monthly billing"
+                ],
+                "highlight": true,
+                "tag": "Scale with us"
+              },
+              {
+                "icon": "clock",
+                "title": "Hourly",
+                "desc": "For audits, tuning and ongoing support after launch.",
+                "bullets": [
+                  "No minimum commitment",
+                  "Transparent time logs",
+                  "Senior engineers only"
+                ],
+                "highlight": false,
+                "tag": ""
+              }
+            ]
+          },
+          "faq": {
+            "kicker": "FAQ",
+            "title": "Questions, answered",
+            "lead": "Still have a question? Ask us directly on a free 30-minute call.",
+            "ctaLabel": "Book a Free 30-Min Consultation",
+            "ctaTo": "/book-consultation",
+            "items": [
+              {
+                "question": "How much does an AI chatbot cost?",
+                "answer": "Most chatbots we build cost between USD [X] and USD [Y], depending on intents, integrations and channels. You get a fixed quote after a free 30-minute call."
+              },
+              {
+                "question": "Will it integrate with our CRM or helpdesk?",
+                "answer": "Yes — we regularly integrate with Salesforce, HubSpot, Zendesk and most CRMs and helpdesks with an API."
+              },
+              {
+                "question": "How fast can you start?",
+                "answer": "Most engagements kick off within [1–2] weeks of the discovery call, once intents and scope are signed off."
+              },
+              {
+                "question": "Fixed price or dedicated team — which is right for me?",
+                "answer": "Choose fixed price for a clearly scoped first chatbot. Choose a dedicated team if your conversational AI will keep growing after launch."
+              },
+              {
+                "question": "Who owns the code and the trained flows?",
+                "answer": "You do. All code, conversation flows and documentation are handed over and live in your own repositories."
+              },
+              {
+                "question": "Can it support multiple languages?",
+                "answer": "Yes — multi-language support is scoped during discovery and reflected in the timeline and quote."
+              }
+            ]
+          },
+          "related": {
+            "kicker": "Related services",
+            "title": "Explore more ways we can help",
+            "items": [
+              {
+                "icon": "workflow",
+                "title": "AI Automation",
+                "desc": "Workflow orchestration and process automation",
+                "to": "/services/ai-automation"
+              },
+              {
+                "icon": "chip",
+                "title": "Machine Learning",
+                "desc": "Predictive models trained on your data",
+                "to": "/services/machine-learning"
+              },
+              {
+                "icon": "calendar",
+                "title": "Free consultation",
+                "desc": "30 minutes with a senior engineer",
+                "to": "/book-consultation"
+              }
+            ]
+          },
+          "blog": {
+            "kicker": "From the blog",
+            "title": "Guides and answers",
+            "allLabel": "All articles",
+            "allTo": "/blog-page",
+            "posts": [
+              {
+                "tag": "Chatbots",
+                "cover": "Chatbot ROI",
+                "imageSrc": "",
+                "title": "How to measure chatbot ROI",
+                "to": "/blog-page",
+                "readTime": "[X] min read",
+                "linkLabel": "Read the guide"
+              },
+              {
+                "tag": "CX",
+                "cover": "support automation",
+                "imageSrc": "",
+                "title": "When to automate customer support",
+                "to": "/blog-page",
+                "readTime": "[X] min read",
+                "linkLabel": "Read the guide"
+              },
+              {
+                "tag": "AI",
+                "cover": "conversation design",
+                "imageSrc": "",
+                "title": "Conversation design basics for AI chatbots",
+                "to": "/blog-page",
+                "readTime": "[X] min read",
+                "linkLabel": "Read the guide"
+              }
+            ]
+          },
+          "finalCta": {
+            "kicker": "Start a project",
+            "title": "Plan your AI chatbot with us",
+            "lead": "Share a few details and a senior engineer will reply within 24 hours.",
+            "bullets": [
+              "Fixed quote after a free 30-minute call",
+              "NDA on request",
+              "You own 100% of the code"
+            ],
+            "form": {
+              "badgeText": "Senior engineer reviews every request",
+              "title": "Get a free project estimate",
+              "sub": "Tell us a little about your project. We reply within 24 hours.",
+              "submitLabel": "Get my free estimate",
+              "privacyText": "Your details stay confidential and are never shared or sold. NDA available on request.",
+              "fields": [
+                {
+                  "key": "fullName",
+                  "type": "text",
+                  "label": "Full name",
+                  "placeholder": "Jane Smith",
+                  "required": true
+                },
+                {
+                  "key": "email",
+                  "type": "email",
+                  "label": "Work email",
+                  "placeholder": "jane@company.com",
+                  "required": true
+                },
+                {
+                  "key": "company",
+                  "type": "text",
+                  "label": "Company name",
+                  "placeholder": "Company Inc.",
+                  "required": false
+                },
+                {
+                  "key": "phone",
+                  "type": "tel",
+                  "label": "Phone number",
+                  "placeholder": "+1 555 000 0000",
+                  "required": false
+                },
+                {
+                  "key": "projectType",
+                  "type": "select",
+                  "label": "Project type",
+                  "required": false,
+                  "options": [
+                    {
+                      "label": "Customer support chatbot",
+                      "value": "support-chatbot"
+                    },
+                    {
+                      "label": "Lead qualification chatbot",
+                      "value": "lead-chatbot"
+                    },
+                    {
+                      "label": "Internal / employee chatbot",
+                      "value": "internal-chatbot"
+                    },
+                    {
+                      "label": "Not sure yet",
+                      "value": "not-sure"
+                    }
+                  ]
+                },
+                {
+                  "key": "budget",
+                  "type": "select",
+                  "label": "Budget range",
+                  "required": false,
+                  "options": [
+                    {
+                      "label": "Under USD 10k",
+                      "value": "under-10k"
+                    },
+                    {
+                      "label": "USD 10k – 25k",
+                      "value": "10k-25k"
+                    },
+                    {
+                      "label": "USD 25k – 50k",
+                      "value": "25k-50k"
+                    },
+                    {
+                      "label": "USD 50k+",
+                      "value": "50k-plus"
+                    },
+                    {
+                      "label": "Not sure yet",
+                      "value": "not-sure"
+                    }
+                  ]
+                },
+                {
+                  "key": "details",
+                  "type": "textarea",
+                  "label": "Project details",
+                  "placeholder": "What are you building, and what does success look like?",
+                  "required": true,
+                  "fullWidth": true
+                }
+              ]
+            }
+          }
+        },
+        "styles": {},
+        "createdAt": "2026-10-01T16:57:19.868Z",
+        "updatedAt": "2026-10-01T16:57:19.868Z"
+      },
+      "ai-consulting": {
+        "slug": "ai-consulting",
+        "title": "AI Consulting",
+        "data": {
+          "meta": {
+            "documentTitle": "AI Consulting Services | Databiqs"
+          },
+          "hiddenSections": [],
+          "cardPreview": {
+            "icon": "compass",
+            "shortDescription": "Comprehensive roadmaps for AI adoption. We assess readiness, identify high-impact use cases, and architect scalable solutions.",
+            "features": [
+              "Roadmap Planning",
+              "ROI Analysis",
+              "Implementation Support"
+            ]
+          },
+          "hero": {
+            "kicker": "Strategic AI Advisory",
+            "breadcrumbCurrent": "AI Consulting",
+            "title": "Align AI Investments With Measurable Outcomes",
+            "lead": "Comprehensive roadmaps for AI adoption. We assess readiness, identify high-impact use cases, and architect scalable solutions — connecting technical feasibility, organizational readiness and ROI into a practical transformation roadmap.",
+            "primaryCtaLabel": "Book a Free 30-Min Consultation",
+            "primaryCtaTo": "/book-consultation",
+            "secondaryCtaLabel": "See case studies",
+            "secondaryCtaTo": "/case-studies",
+            "tags": [
+              "Roadmap Planning",
+              "ROI Analysis",
+              "Implementation Support",
+              "Readiness Assessment",
+              "Governance"
+            ],
+            "glance": {
+              "statusLabel": "Taking new engagements",
+              "rows": [
+                {
+                  "icon": "clock",
+                  "label": "Roadmap timeline",
+                  "value": "[2–4] weeks"
+                },
+                {
+                  "icon": "bolt",
+                  "label": "Engagements start from",
+                  "value": "USD [X]"
+                },
+                {
+                  "icon": "users",
+                  "label": "Engagement",
+                  "value": "Fixed scope · Advisory retainer"
+                },
+                {
+                  "icon": "shield",
+                  "label": "Confidentiality",
+                  "value": "NDA on request"
+                }
+              ],
+              "ctaLabel": "Get a Free Estimate"
+            }
+          },
+          "whatWeBuild": {
+            "kicker": "What we deliver",
+            "title": "A practical roadmap, not a slide deck",
+            "side": "One team connects technical feasibility, readiness and ROI into a plan you can execute.",
+            "cards": [
+              {
+                "icon": "compass",
+                "title": "Roadmap planning",
+                "desc": "A phased plan with clear milestones and ownership."
+              },
+              {
+                "icon": "target",
+                "title": "ROI analysis",
+                "desc": "Prioritize use cases by impact, complexity and time-to-value."
+              },
+              {
+                "icon": "wrench",
+                "title": "Implementation support",
+                "desc": "Hands-on help turning the roadmap into shipped systems."
+              },
+              {
+                "icon": "search",
+                "title": "Readiness assessment",
+                "desc": "An honest look at your data, tooling, teams and governance."
+              },
+              {
+                "icon": "shieldCheck",
+                "title": "Governance & policy",
+                "desc": "Guardrails that de-risk AI initiatives as they scale."
+              },
+              {
+                "icon": "lightbulb",
+                "title": "Executive workshops",
+                "desc": "Align leadership and stakeholders on priorities and constraints."
+              }
+            ]
+          },
+          "whyDatabiqs": {
+            "kicker": "Why Databiqs",
+            "title": "Why leadership teams choose Databiqs for AI strategy",
+            "cards": [
+              {
+                "icon": "compass",
+                "title": "Practical, not theoretical",
+                "desc": "Every recommendation is grounded in what we can actually build."
+              },
+              {
+                "icon": "layers",
+                "title": "Strategy and delivery, one team",
+                "desc": "The team that advises you can also build it — no hand-off risk."
+              },
+              {
+                "icon": "users",
+                "title": "Built for your organization",
+                "desc": "Roadmaps shaped by your data, teams and constraints, not generic playbooks."
+              },
+              {
+                "icon": "shieldCheck",
+                "title": "De-risked by design",
+                "desc": "Architecture, policy and operating-model clarity before you invest."
+              }
+            ]
+          },
+          "toc": {
+            "eyebrow": "On this page",
+            "items": [
+              {
+                "id": "con-end-to-end",
+                "label": "AI consulting services, end to end"
+              },
+              {
+                "id": "con-timeline-cost",
+                "label": "AI roadmap: timeline and cost"
+              },
+              {
+                "id": "con-engagement-model",
+                "label": "Fixed-scope roadmap or an ongoing advisory retainer"
+              },
+              {
+                "id": "con-readiness",
+                "label": "Readiness assessment: data, tooling, teams, governance"
+              }
+            ],
+            "cardTitle": "Need a quote?",
+            "cardDesc": "Free 30-minute call, fixed quote after.",
+            "cardCtaLabel": "Book a call",
+            "cardCtaTo": "/book-consultation"
+          },
+          "longform": [
+            {
+              "id": "con-end-to-end",
+              "title": "AI consulting services, end to end",
+              "paragraphs": [
+                "We help leadership teams prioritize where AI creates the most value, then connect that priority list to a phased delivery plan with clear milestones and governance.",
+                "Because the same team can also build what we recommend, the roadmap stays grounded in what is technically and organizationally realistic — not a wishlist."
+              ]
+            },
+            {
+              "id": "con-timeline-cost",
+              "title": "AI roadmap: timeline and cost",
+              "paragraphs": [
+                "A focused readiness assessment and roadmap typically takes [2–4] weeks and costs USD [X]–[Y], depending on the number of stakeholders and use cases evaluated."
+              ]
+            },
+            {
+              "id": "con-engagement-model",
+              "title": "Fixed-scope roadmap or an ongoing advisory retainer",
+              "paragraphs": [
+                "A fixed-scope engagement suits a one-time strategic review. An advisory retainer suits organizations that want continued guidance as they execute and new opportunities emerge."
+              ]
+            },
+            {
+              "id": "con-readiness",
+              "title": "Readiness assessment: data, tooling, teams, governance",
+              "paragraphs": [
+                "We assess data quality and availability, existing tooling, team capability and governance maturity — the four things that most often determine whether an AI initiative actually ships."
+              ]
+            }
+          ],
+          "process": {
+            "kicker": "How we work",
+            "title": "A clear process, with milestones you can see",
+            "ctaLabel": "Book a Free 30-Min Consultation",
+            "ctaTo": "/book-consultation",
+            "steps": [
+              {
+                "num": "01",
+                "week": "Week 1",
+                "title": "Executive workshops",
+                "desc": "Define priorities, constraints and success metrics with stakeholders."
+              },
+              {
+                "num": "02",
+                "week": "Weeks 2–3",
+                "title": "Readiness assessment",
+                "desc": "Evaluate data, tooling, teams and governance maturity."
+              },
+              {
+                "num": "03",
+                "week": "Week 4",
+                "title": "Roadmap delivery",
+                "desc": "A phased implementation plan with milestones and ownership."
+              },
+              {
+                "num": "04",
+                "week": "Ongoing",
+                "title": "Implementation support",
+                "desc": "Hands-on help turning the roadmap into shipped systems."
+              }
+            ]
+          },
+          "techStack": {
+            "kicker": "Tooling we assess and recommend on",
+            "title": "Technology-agnostic, outcome-driven",
+            "items": [
+              {
+                "name": "Python",
+                "logoKey": "python"
+              },
+              {
+                "name": "AWS",
+                "logoKey": "aws"
+              },
+              {
+                "name": "Docker",
+                "logoKey": "docker"
+              }
+            ]
+          },
+          "caseStudy": {
+            "kicker": "Featured case study",
+            "imageSrc": "",
+            "imageAlt": "AI roadmap delivered by Databiqs",
+            "projectName": "[Project name]",
+            "meta": "AI readiness assessment · Roadmap",
+            "sub": "[Industry] company, [size] — named with permission, or \"name withheld under NDA\".",
+            "challengeLabel": "Challenge",
+            "challengeText": "[The problem the client had, in one or two sentences.]",
+            "solutionLabel": "What we delivered",
+            "solutionText": "[The roadmap, priorities and timeline.]",
+            "results": [
+              {
+                "value": "[Result]",
+                "label": "e.g. use cases prioritized"
+              },
+              {
+                "value": "[Result]",
+                "label": "e.g. roadmap approved by leadership"
+              }
+            ],
+            "linkLabel": "Read the full case study",
+            "linkTo": "/case-studies"
+          },
+          "engagement": {
+            "kicker": "Engagement models",
+            "title": "Pick how you want to work with us",
+            "noteText": "Roadmap engagements typically start from USD [X]",
+            "tiers": [
+              {
+                "icon": "file",
+                "title": "Fixed-scope roadmap",
+                "desc": "A one-time readiness assessment and roadmap with a fixed quote.",
+                "bullets": [
+                  "Fixed scope and timeline",
+                  "Executive workshops included",
+                  "Pay by milestone"
+                ],
+                "highlight": false,
+                "tag": ""
+              },
+              {
+                "icon": "users",
+                "title": "Advisory retainer",
+                "desc": "Ongoing strategic guidance as you execute the roadmap, billed monthly.",
+                "bullets": [
+                  "Continued prioritization",
+                  "Works with your leadership team",
+                  "Monthly billing"
+                ],
+                "highlight": true,
+                "tag": "Scale with us"
+              },
+              {
+                "icon": "clock",
+                "title": "Hourly",
+                "desc": "For one-off workshops, reviews and second opinions.",
+                "bullets": [
+                  "No minimum commitment",
+                  "Transparent time logs",
+                  "Senior advisors only"
+                ],
+                "highlight": false,
+                "tag": ""
+              }
+            ]
+          },
+          "faq": {
+            "kicker": "FAQ",
+            "title": "Questions, answered",
+            "lead": "Still have a question? Ask us directly on a free 30-minute call.",
+            "ctaLabel": "Book a Free 30-Min Consultation",
+            "ctaTo": "/book-consultation",
+            "items": [
+              {
+                "question": "How much does an AI roadmap cost?",
+                "answer": "Most readiness assessments and roadmaps cost between USD [X] and USD [Y], depending on scope. You get a fixed quote after a free call."
+              },
+              {
+                "question": "Can you also build what you recommend?",
+                "answer": "Yes — the same team can implement the roadmap, or support your internal team through implementation."
+              },
+              {
+                "question": "How fast can you start?",
+                "answer": "Most engagements kick off within [1–2] weeks of the discovery call, once scope and stakeholders are confirmed."
+              },
+              {
+                "question": "Fixed scope or retainer — which is right for me?",
+                "answer": "Choose a fixed-scope roadmap for a one-time strategic review. Choose a retainer if you want continued guidance through execution."
+              },
+              {
+                "question": "Do you work with our existing tools and vendors?",
+                "answer": "Yes — our recommendations are technology-agnostic and work with the tools and vendors you already use where it makes sense."
+              },
+              {
+                "question": "Who owns the roadmap and findings?",
+                "answer": "You do. All deliverables, documentation and findings are handed over and are yours to keep and act on."
+              }
+            ]
+          },
+          "related": {
+            "kicker": "Related services",
+            "title": "Explore more ways we can help",
+            "items": [
+              {
+                "icon": "chip",
+                "title": "Machine Learning",
+                "desc": "Predictive models trained on your data",
+                "to": "/services/machine-learning"
+              },
+              {
+                "icon": "workflow",
+                "title": "AI Automation",
+                "desc": "Workflow orchestration and process automation",
+                "to": "/services/ai-automation"
+              },
+              {
+                "icon": "calendar",
+                "title": "Free consultation",
+                "desc": "30 minutes with a senior engineer",
+                "to": "/book-consultation"
+              }
+            ]
+          },
+          "blog": {
+            "kicker": "From the blog",
+            "title": "Guides and answers",
+            "allLabel": "All articles",
+            "allTo": "/blog-page",
+            "posts": [
+              {
+                "tag": "Strategy",
+                "cover": "AI readiness",
+                "imageSrc": "",
+                "title": "How to run an AI readiness assessment",
+                "to": "/blog-page",
+                "readTime": "[X] min read",
+                "linkLabel": "Read the guide"
+              },
+              {
+                "tag": "ROI",
+                "cover": "prioritization",
+                "imageSrc": "",
+                "title": "Prioritizing AI use cases by ROI",
+                "to": "/blog-page",
+                "readTime": "[X] min read",
+                "linkLabel": "Read the guide"
+              },
+              {
+                "tag": "Governance",
+                "cover": "AI policy",
+                "imageSrc": "",
+                "title": "AI governance basics for growing teams",
+                "to": "/blog-page",
+                "readTime": "[X] min read",
+                "linkLabel": "Read the guide"
+              }
+            ]
+          },
+          "finalCta": {
+            "kicker": "Start a project",
+            "title": "Plan your AI roadmap with us",
+            "lead": "Share a few details and a senior advisor will reply within 24 hours.",
+            "bullets": [
+              "Fixed quote after a free 30-minute call",
+              "NDA on request",
+              "You own every deliverable"
+            ],
+            "form": {
+              "badgeText": "Senior advisor reviews every request",
+              "title": "Get a free roadmap estimate",
+              "sub": "Tell us a little about your goals. We reply within 24 hours.",
+              "submitLabel": "Get my free estimate",
+              "privacyText": "Your details stay confidential and are never shared or sold. NDA available on request.",
+              "fields": [
+                {
+                  "key": "fullName",
+                  "type": "text",
+                  "label": "Full name",
+                  "placeholder": "Jane Smith",
+                  "required": true
+                },
+                {
+                  "key": "email",
+                  "type": "email",
+                  "label": "Work email",
+                  "placeholder": "jane@company.com",
+                  "required": true
+                },
+                {
+                  "key": "company",
+                  "type": "text",
+                  "label": "Company name",
+                  "placeholder": "Company Inc.",
+                  "required": false
+                },
+                {
+                  "key": "phone",
+                  "type": "tel",
+                  "label": "Phone number",
+                  "placeholder": "+1 555 000 0000",
+                  "required": false
+                },
+                {
+                  "key": "projectType",
+                  "type": "select",
+                  "label": "Project type",
+                  "required": false,
+                  "options": [
+                    {
+                      "label": "Readiness assessment",
+                      "value": "readiness-assessment"
+                    },
+                    {
+                      "label": "AI roadmap",
+                      "value": "roadmap"
+                    },
+                    {
+                      "label": "Ongoing advisory",
+                      "value": "advisory-retainer"
+                    },
+                    {
+                      "label": "Not sure yet",
+                      "value": "not-sure"
+                    }
+                  ]
+                },
+                {
+                  "key": "budget",
+                  "type": "select",
+                  "label": "Budget range",
+                  "required": false,
+                  "options": [
+                    {
+                      "label": "Under USD 10k",
+                      "value": "under-10k"
+                    },
+                    {
+                      "label": "USD 10k – 25k",
+                      "value": "10k-25k"
+                    },
+                    {
+                      "label": "USD 25k – 50k",
+                      "value": "25k-50k"
+                    },
+                    {
+                      "label": "USD 50k+",
+                      "value": "50k-plus"
+                    },
+                    {
+                      "label": "Not sure yet",
+                      "value": "not-sure"
+                    }
+                  ]
+                },
+                {
+                  "key": "details",
+                  "type": "textarea",
+                  "label": "Project details",
+                  "placeholder": "What are you trying to achieve, and what does success look like?",
+                  "required": true,
+                  "fullWidth": true
+                }
+              ]
+            }
+          }
+        },
+        "styles": {
+          "card.ai-consulting.icon": {
+            "desktop": {
+              "color": "#9eb6ff"
+            },
+            "mobile": {}
+          }
+        },
+        "createdAt": "2026-10-01T16:57:19.868Z",
+        "updatedAt": "2026-10-01T16:57:19.868Z"
+      },
       "full-stack-development": {
         "slug": "full-stack-development",
         "title": "Full-Stack & SaaS Development Services",
@@ -3201,7 +4741,18 @@
           "meta": {
             "documentTitle": "Full-Stack & SaaS Development Services | Databiqs"
           },
-          "hiddenSections": [],
+          "hiddenSections": [
+            "longform"
+          ],
+          "cardPreview": {
+            "icon": "layers",
+            "shortDescription": "A full-stack development company and SaaS development company building MVPs and custom software.",
+            "features": [
+              "SaaS Development",
+              "MVP Development",
+              "Cloud Architecture"
+            ]
+          },
           "hero": {
             "kicker": "Full-stack development company",
             "breadcrumbCurrent": "Full-Stack & SaaS",
@@ -3215,9 +4766,7 @@
               "SaaS development",
               "MVP development",
               "Custom software",
-              "Hire React developers",
-              "Dedicated team",
-              "New tag"
+              "Hire React developers"
             ],
             "glance": {
               "statusLabel": "Taking new projects",
@@ -3636,7 +5185,7 @@
                 {
                   "key": "field_1790716518266_5",
                   "type": "text",
-                  "label": "\\services",
+                  "label": "Services",
                   "required": false,
                   "options": [
                     {
@@ -3684,43 +5233,52 @@
           }
         },
         "createdAt": "2026-09-28T22:37:28.675Z",
-        "updatedAt": "2026-09-29T21:18:50.505Z"
+        "updatedAt": "2026-10-01T17:32:59.102Z"
       },
-      "qa-full-stack-page": {
-        "slug": "qa-full-stack-page",
-        "title": "QA Full Stack Page Edited",
+      "machine-learning": {
+        "slug": "machine-learning",
+        "title": "Machine Learning",
         "data": {
           "meta": {
-            "documentTitle": "QA Full Stack Page | Databiqs"
+            "documentTitle": "Machine Learning Services | Databiqs"
           },
           "hiddenSections": [],
+          "cardPreview": {
+            "icon": "brain",
+            "shortDescription": "Predictive models and deep learning algorithms trained on your proprietary data to uncover hidden insights and forecast trends.",
+            "features": [
+              "Predictive Analytics",
+              "Pattern Recognition",
+              "Real Insights"
+            ]
+          },
           "hero": {
-            "kicker": "Full-stack development company",
-            "breadcrumbCurrent": "QA Full Stack Page",
-            "title": "QA Full Stack Page Edited",
-            "lead": "A full-stack development company and SaaS development company. Senior teams build MVPs, SaaS products and custom software with React, Next.js, Node.js, Python and AWS.",
+            "kicker": "Predictive Intelligence",
+            "breadcrumbCurrent": "Machine Learning",
+            "title": "Turn Business Data Into Proactive Decisions",
+            "lead": "We build production-grade machine learning solutions that transform historical and real-time data into action — predictive models and deep learning trained on your proprietary data, designed for accuracy, interpretability and business adoption from day one.",
             "primaryCtaLabel": "Book a Free 30-Min Consultation",
             "primaryCtaTo": "/book-consultation",
             "secondaryCtaLabel": "See case studies",
             "secondaryCtaTo": "/case-studies",
             "tags": [
-              "SaaS development",
-              "MVP development",
-              "Custom software",
-              "Hire React developers",
-              "Dedicated team"
+              "Predictive Analytics",
+              "Pattern Recognition",
+              "Real-time Insights",
+              "Model Explainability",
+              "Drift Monitoring"
             ],
             "glance": {
               "statusLabel": "Taking new projects",
               "rows": [
                 {
                   "icon": "clock",
-                  "label": "MVP timeline",
-                  "value": "[8–12] weeks"
+                  "label": "First model timeline",
+                  "value": "[6–12] weeks"
                 },
                 {
                   "icon": "bolt",
-                  "label": "MVPs start from",
+                  "label": "Projects start from",
                   "value": "USD [X]"
                 },
                 {
@@ -3739,69 +5297,64 @@
           },
           "whatWeBuild": {
             "kicker": "What we build",
-            "title": "From first MVP to a SaaS product that scales",
-            "side": "One senior team covers product design, front end, back end, cloud and QA.",
+            "title": "From raw data to production ML you can trust",
+            "side": "One team covers data readiness, model development, deployment and monitoring.",
             "cards": [
               {
-                "icon": "layers",
-                "title": "SaaS development",
-                "desc": "Multi-tenant SaaS products with billing, roles, admin panels and analytics built in."
+                "icon": "target",
+                "title": "Predictive analytics",
+                "desc": "Forecast demand, churn and risk with context-aware models."
               },
               {
-                "icon": "wrench",
-                "title": "MVP development",
-                "desc": "A focused first version you can put in front of users and investors fast."
+                "icon": "search",
+                "title": "Pattern recognition",
+                "desc": "Discover hidden patterns in your data that unlock new efficiency."
               },
               {
-                "icon": "window",
-                "title": "Custom software development",
-                "desc": "Customer portals, dashboards and internal tools that fit your workflow."
+                "icon": "bolt",
+                "title": "Real-time scoring",
+                "desc": "Deploy low-latency ML pipelines for in-the-moment decisions."
               },
               {
-                "icon": "plug",
-                "title": "APIs & integrations",
-                "desc": "Connect payments, CRMs, ERPs and third-party services reliably."
+                "icon": "shieldCheck",
+                "title": "Bias checks & explainability",
+                "desc": "Models your stakeholders can audit, trust and adopt."
               },
               {
-                "icon": "users",
-                "title": "Dedicated development team",
-                "desc": "Hire full-stack developers who work only on your product, billed monthly."
+                "icon": "refresh",
+                "title": "Drift monitoring & retraining",
+                "desc": "Keep model accuracy high as real-world data shifts."
               },
               {
                 "icon": "cloud",
-                "title": "Cloud architecture & DevOps",
-                "desc": "Secure, scalable infrastructure on AWS with CI/CD and monitoring."
-              },
-              {
-                "icon": "layers",
-                "title": "New capability",
-                "desc": "Describe this capability."
+                "title": "Production deployment",
+                "desc": "Scalable inference on AWS with CI/CD and observability."
               }
             ]
           },
           "whyDatabiqs": {
             "kicker": "Why Databiqs",
-            "title": "Why startups choose Databiqs as their MVP development company",
+            "title": "Why teams choose Databiqs for machine learning",
             "cards": [
               {
-                "icon": "wrench",
-                "title": "Launch in weeks",
-                "desc": "A focused first version in front of real users, fast."
+                "icon": "brain",
+                "title": "Accuracy and interpretability",
+                "desc": "Models stakeholders understand well enough to actually use."
               },
               {
                 "icon": "layers",
-                "title": "One full-stack team",
-                "desc": "Design, front end, back end and cloud — no hand-offs."
+                "title": "One team, full stack",
+                "desc": "Data engineering, modeling and deployment — no hand-offs."
               },
               {
                 "icon": "users",
-                "title": "Scale the team",
-                "desc": "Move from fixed price to a dedicated team when you're ready."
+                "title": "Scales with you",
+                "desc": "Start with one model, grow to a dedicated ML team."
               },
               {
                 "icon": "code",
-                "title": "Clean code you own",
-                "desc": "Tested, documented code in your own repositories."
+                "title": "Clean, owned code",
+                "desc": "Tested, documented pipelines you keep in your own infrastructure."
               }
             ]
           },
@@ -3809,20 +5362,20 @@
             "eyebrow": "On this page",
             "items": [
               {
-                "id": "fsd-end-to-end",
-                "label": "Full-stack development services, end to end"
+                "id": "ml-end-to-end",
+                "label": "Machine learning services, end to end"
               },
               {
-                "id": "fsd-timeline-cost",
-                "label": "MVP development: timeline and cost"
+                "id": "ml-timeline-cost",
+                "label": "First model: timeline and cost"
               },
               {
-                "id": "fsd-hire-team",
-                "label": "Hire full-stack developers or a dedicated development team"
+                "id": "ml-hire-team",
+                "label": "Fixed-price model or a dedicated ML team"
               },
               {
-                "id": "fsd-react-stack",
-                "label": "React, Next.js and Node.js development"
+                "id": "ml-data-readiness",
+                "label": "Data readiness and feature strategy"
               }
             ],
             "cardTitle": "Need a quote?",
@@ -3832,32 +5385,32 @@
           },
           "longform": [
             {
-              "id": "fsd-end-to-end",
-              "title": "Full-stack development services, end to end",
+              "id": "ml-end-to-end",
+              "title": "Machine learning services, end to end",
               "paragraphs": [
-                "One team owns the whole product: database, APIs, front end, cloud and testing. That means fewer hand-offs, faster decisions and one point of contact for you.",
-                "We work in weekly sprints and show you working software every week, so you can change direction early instead of after launch."
+                "One team owns the whole pipeline: data readiness, feature engineering, model development, validation and production deployment — fewer hand-offs, faster iteration.",
+                "We work in weekly sprints and review model performance with you every week, using real evaluation metrics, not just demo accuracy."
               ]
             },
             {
-              "id": "fsd-timeline-cost",
-              "title": "MVP development: timeline and cost",
+              "id": "ml-timeline-cost",
+              "title": "First model: timeline and cost",
               "paragraphs": [
-                "An MVP should be small, not throwaway. We cut scope to the features that prove your idea, but build them on an architecture that can take more users and features later. Most MVPs take [8–12] weeks and cost USD [X]–[Y]."
+                "A focused first model — a forecast, a classifier, a recommender — typically takes [6–12] weeks and costs USD [X]–[Y], depending on data readiness and the complexity of the problem."
               ]
             },
             {
-              "id": "fsd-hire-team",
-              "title": "Hire full-stack developers or a dedicated development team",
+              "id": "ml-hire-team",
+              "title": "Fixed-price model or a dedicated ML team",
               "paragraphs": [
-                "A fixed-price project suits a clear first version. A dedicated development team suits SaaS products that keep evolving — you hire full-stack developers, React developers or Node.js developers who stay with you month after month."
+                "A fixed-price engagement suits one clearly scoped model. A dedicated ML team suits products where models keep evolving — new features, new data sources, continuous retraining."
               ]
             },
             {
-              "id": "fsd-react-stack",
-              "title": "React, Next.js and Node.js development",
+              "id": "ml-data-readiness",
+              "title": "Data readiness and feature strategy",
               "paragraphs": [
-                "As a React development company and Next.js development agency, we build fast, accessible interfaces. On the back end we use Node.js and Python with PostgreSQL, deployed on AWS with CI/CD, backups and monitoring."
+                "Most ML projects succeed or fail on data readiness. We start with a data audit and a feature strategy tied to the business KPI you actually care about, before any model is trained."
               ]
             }
           ],
@@ -3870,26 +5423,26 @@
               {
                 "num": "01",
                 "week": "Week 1",
-                "title": "Discovery",
-                "desc": "We map goals, users, scope and risks, then send a fixed quote and delivery plan."
+                "title": "Data readiness audit",
+                "desc": "Assess data quality and define a feature strategy aligned to KPIs."
               },
               {
                 "num": "02",
-                "week": "Weeks 2–3",
-                "title": "Design",
-                "desc": "Clickable wireframes and UI you review and approve before a line of code."
+                "week": "Weeks 2–4",
+                "title": "Model development",
+                "desc": "Build and validate models with bias checks and explainability tooling."
               },
               {
                 "num": "03",
-                "week": "Weeks 4–10",
-                "title": "Build",
-                "desc": "Senior engineers ship in weekly sprints, with a live demo every Friday."
+                "week": "Weeks 5–8",
+                "title": "Deployment",
+                "desc": "Production deployment with a live demo and review every Friday."
               },
               {
                 "num": "04",
                 "week": "Ongoing",
-                "title": "Launch & support",
-                "desc": "We launch, monitor and hand over code, docs and accounts — all yours."
+                "title": "Monitor & retrain",
+                "desc": "Drift monitoring and retraining routines to keep accuracy high."
               }
             ]
           },
@@ -3897,22 +5450,6 @@
             "kicker": "Tech stack",
             "title": "Built on tools that scale",
             "items": [
-              {
-                "name": "React",
-                "logoKey": "react"
-              },
-              {
-                "name": "Next.js",
-                "logoKey": "nextjs"
-              },
-              {
-                "name": "TypeScript",
-                "logoKey": "typescript"
-              },
-              {
-                "name": "Node.js",
-                "logoKey": "nodejs"
-              },
               {
                 "name": "Python",
                 "logoKey": "python"
@@ -3933,10 +5470,10 @@
           },
           "caseStudy": {
             "kicker": "Featured case study",
-            "imageSrc": "/uploads/a4320252641d4fa1b6030b912f335ad2-test.png",
-            "imageAlt": "QA test image",
+            "imageSrc": "",
+            "imageAlt": "Product screenshot — ML model built by Databiqs",
             "projectName": "[Project name]",
-            "meta": "SaaS MVP · Next.js + Node.js",
+            "meta": "Predictive model · Real-time scoring",
             "sub": "[Industry] company, [size] — named with permission, or \"name withheld under NDA\".",
             "challengeLabel": "Challenge",
             "challengeText": "[The problem the client had, in one or two sentences.]",
@@ -3945,11 +5482,11 @@
             "results": [
               {
                 "value": "[Result]",
-                "label": "e.g. first paying users"
+                "label": "e.g. forecast accuracy improved"
               },
               {
                 "value": "[Result]",
-                "label": "e.g. launched in [X] weeks"
+                "label": "e.g. churn reduced"
               }
             ],
             "linkLabel": "Read the full case study",
@@ -3958,12 +5495,12 @@
           "engagement": {
             "kicker": "Engagement models",
             "title": "Pick how you want to work with us",
-            "noteText": "MVPs typically start from USD [X]",
+            "noteText": "ML projects typically start from USD [X]",
             "tiers": [
               {
                 "icon": "file",
                 "title": "Fixed-price project",
-                "desc": "A defined scope — website, MVP or chatbot — with a fixed quote after a free 30-minute call.",
+                "desc": "One clearly scoped model with a fixed quote after a free call.",
                 "bullets": [
                   "Fixed scope and timeline",
                   "Weekly demos",
@@ -3974,10 +5511,10 @@
               },
               {
                 "icon": "users",
-                "title": "Dedicated development team",
-                "desc": "Senior engineers who work only on your product, billed monthly. Scale up or down as you grow.",
+                "title": "Dedicated ML team",
+                "desc": "Senior data scientists and engineers who keep evolving your models, billed monthly.",
                 "bullets": [
-                  "Full-stack, AI or design roles",
+                  "New features and data sources",
                   "Works in your tools",
                   "Monthly billing"
                 ],
@@ -3987,7 +5524,7 @@
               {
                 "icon": "clock",
                 "title": "Hourly",
-                "desc": "For audits, small changes, integrations and ongoing support after launch.",
+                "desc": "For audits, retraining and ongoing support after deployment.",
                 "bullets": [
                   "No minimum commitment",
                   "Transparent time logs",
@@ -4006,28 +5543,28 @@
             "ctaTo": "/book-consultation",
             "items": [
               {
-                "question": "How much does MVP development cost?",
-                "answer": "Most MVPs we build cost between USD [X] and USD [Y], depending on features, integrations and platforms. You get a fixed quote after a free 30-minute call."
+                "question": "How much does a machine learning model cost?",
+                "answer": "Most first models cost between USD [X] and USD [Y], depending on data readiness and problem complexity. You get a fixed quote after a free call."
               },
               {
-                "question": "Can I hire full-stack developers or React developers monthly?",
-                "answer": "Yes — our dedicated-team model lets you bring on full-stack, React or Node.js developers who work only on your product, billed monthly with no long-term lock-in."
+                "question": "Do you need our data to be perfectly clean first?",
+                "answer": "No — we start with a data readiness audit and work with what you have, flagging gaps that matter versus ones that can wait."
               },
               {
-                "question": "How fast can you start?",
-                "answer": "Most engagements kick off within [1–2] weeks of the discovery call, once scope and the delivery plan are signed off."
+                "question": "How do you make sure the model is trustworthy?",
+                "answer": "Validation, bias checks and explainability tooling are part of every build, so stakeholders can see why the model made a given prediction."
               },
               {
                 "question": "Fixed price or dedicated team — which is right for me?",
-                "answer": "Choose fixed price for a clearly scoped first version. Choose a dedicated team if your product will keep evolving after launch and you want the same engineers to stay on."
+                "answer": "Choose fixed price for one clearly scoped model. Choose a dedicated team if models and data sources will keep evolving."
               },
               {
-                "question": "Who owns the code?",
-                "answer": "You do. All code, documentation and infrastructure accounts are handed over and live in your own repositories from day one."
+                "question": "Who owns the models and pipelines?",
+                "answer": "You do. All code, trained artifacts and documentation are handed over and live in your own infrastructure."
               },
               {
-                "question": "Which time zones do you work with?",
-                "answer": "We run weekly demos and daily async updates that overlap with US, UK and EU business hours, whichever suits your team."
+                "question": "How do you prevent model performance from degrading over time?",
+                "answer": "Drift monitoring tracks real-world performance after launch, with retraining routines to keep accuracy high."
               }
             ]
           },
@@ -4036,16 +5573,16 @@
             "title": "Explore more ways we can help",
             "items": [
               {
-                "icon": "globe",
-                "title": "Web Development",
-                "desc": "Custom websites and web apps",
-                "to": "/services/qa-full-stack-page"
+                "icon": "workflow",
+                "title": "AI Automation",
+                "desc": "Workflow orchestration and process automation",
+                "to": "/services/ai-automation"
               },
               {
-                "icon": "chip",
-                "title": "AI Development",
-                "desc": "Chatbots, agents and automation",
-                "to": "/services/ai-automation"
+                "icon": "lightbulb",
+                "title": "AI Consulting",
+                "desc": "Roadmaps and ROI-driven AI adoption",
+                "to": "/services/ai-consulting"
               },
               {
                 "icon": "calendar",
@@ -4062,28 +5599,28 @@
             "allTo": "/blog-page",
             "posts": [
               {
-                "tag": "Full-stack",
-                "cover": "MVP timeline and cost",
+                "tag": "ML",
+                "cover": "model accuracy",
                 "imageSrc": "",
-                "title": "MVP development: timeline and cost",
+                "title": "How much data do you really need for ML?",
                 "to": "/blog-page",
                 "readTime": "[X] min read",
                 "linkLabel": "Read the guide"
               },
               {
-                "tag": "Hiring",
-                "cover": "hiring developers",
+                "tag": "MLOps",
+                "cover": "drift monitoring",
                 "imageSrc": "",
-                "title": "Hire full-stack developers or an agency?",
+                "title": "Model drift: what it is and how to catch it",
                 "to": "/blog-page",
                 "readTime": "[X] min read",
                 "linkLabel": "Read the guide"
               },
               {
-                "tag": "SaaS",
-                "cover": "SaaS architecture",
+                "tag": "AI",
+                "cover": "explainability",
                 "imageSrc": "",
-                "title": "SaaS architecture for your first 1,000 customers",
+                "title": "Why model explainability matters for adoption",
                 "to": "/blog-page",
                 "readTime": "[X] min read",
                 "linkLabel": "Read the guide"
@@ -4092,7 +5629,7 @@
           },
           "finalCta": {
             "kicker": "Start a project",
-            "title": "Plan your MVP or SaaS product with us",
+            "title": "Plan your first ML model with us",
             "lead": "Share a few details and a senior engineer will reply within 24 hours.",
             "bullets": [
               "Fixed quote after a free 30-minute call",
@@ -4141,20 +5678,16 @@
                   "required": false,
                   "options": [
                     {
-                      "label": "New MVP",
-                      "value": "mvp"
+                      "label": "Forecasting model",
+                      "value": "forecasting"
                     },
                     {
-                      "label": "SaaS product",
-                      "value": "saas"
+                      "label": "Classification / scoring model",
+                      "value": "classification"
                     },
                     {
-                      "label": "Custom software",
-                      "value": "custom-software"
-                    },
-                    {
-                      "label": "Dedicated team",
-                      "value": "dedicated-team"
+                      "label": "Recommendation engine",
+                      "value": "recommendation"
                     },
                     {
                       "label": "Not sure yet",
@@ -4198,99 +5731,15 @@
                   "required": true,
                   "fullWidth": true
                 }
-              ],
-              "fieldLabels": {
-                "budget": "Budget range",
-                "company": "Company name",
-                "details": "Project details",
-                "email": "Work email",
-                "fullName": "Full name",
-                "phone": "Phone number",
-                "projectType": "Project type"
-              }
+              ]
             }
           }
         },
-        "styles": {
-          "hero.title": {
-            "desktop": {
-              "backgroundMode": "gradient",
-              "color": "#ff0000",
-              "fontSize": 45,
-              "textAlign": null
-            },
-            "mobile": {
-              "fontSize": 21,
-              "textAlign": "center"
-            }
-          },
-          "whatWeBuild.cards.0.icon": {
-            "desktop": {
-              "color": "#00aa00"
-            },
-            "mobile": {}
-          }
-        },
-        "createdAt": "2026-09-28T22:41:50.959Z",
-        "updatedAt": "2026-09-29T17:31:29.042Z"
+        "styles": {},
+        "createdAt": "2026-10-01T16:57:19.868Z",
+        "updatedAt": "2026-10-01T16:57:19.868Z"
       }
     }
-  },
-  "homePage": {
-    "data": {
-      "hero": {
-        "description": "Databiqs is an AI development company and full-stack development company. We design and build AI solutions, custom websites and web apps for startups and growing businesses with fixed timelines, senior engineers and clear pricing."
-      },
-      "hiddenSections": [],
-      "imgChat": {
-        "alt": "Chatbot Graphic",
-        "src": "/service-chat.png"
-      },
-      "imgCrm": {
-        "alt": "CRM Graphic",
-        "src": "/service-crm.png"
-      },
-      "problem": {
-        "items": [
-          {
-            "desc": "Prototypes impress in a meeting, then break under real users, data and traffic.",
-            "title": "Built as demos, not for production"
-          },
-          {
-            "desc": "Description of the problem.",
-            "title": "New problem"
-          }
-        ],
-        "title": "Why AI systems look powerful but don’t deliver results"
-      },
-      "solution": {
-        "items": [
-          "Designing resilient, scalable infrastructure",
-          "Integrating with your CRM, helpdesk and data",
-          "Monitoring, support and clear reporting after launch"
-        ],
-        "title": "Production-grade from day one"
-      },
-      "services": [
-        null,
-        {
-          "stack": [
-            {
-              "val": "REACT "
-            }
-          ]
-        }
-      ]
-    },
-    "styles": {
-      "ai-tag-1": {
-        "desktop": {
-          "color": "#ffffff"
-        },
-        "mobile": {}
-      }
-    },
-    "updatedAt": "2026-09-29T23:59:27.111Z"
   },
   "aboutPage": {
     "data": {
@@ -4423,5 +5872,426 @@
     },
     "styles": {},
     "updatedAt": "2026-09-30T21:49:21.164Z"
-  }
+  },
+  "homePage": {
+    "data": {
+      "hiddenSections": [],
+      "hero": {
+        "titleLine1": "Enterprise AI",
+        "titleAccent": "Solutions",
+        "titleLine2": "Built to Scale",
+        "titleLine3": "Your Business",
+        "description": "Databiqs is an AI development company and full-stack development company. We design and build AI solutions, custom websites and web apps for startups and growing businesses with fixed timelines, senior engineers and clear pricing.",
+        "ctaLabel": "Contact Us",
+        "ctaTo": "/contact",
+        "chips": [
+          {
+            "text": "Machine Learning"
+          },
+          {
+            "text": "AI Strategy/Consultation"
+          },
+          {
+            "text": "AI Automation/Implementation"
+          },
+          {
+            "text": "AI Chatbot /Conversational"
+          }
+        ],
+        "quoteTag": "FREE · NO OBLIGATION",
+        "quoteTitle": "Get a Free Project Quote",
+        "quoteDesc": "Tell us about your idea and we'll reply with a clear scope, timeline, and fixed price — usually within 24 hours.",
+        "quoteCtaLabel": "Get a Quote",
+        "quoteCtaTo": "/contact",
+        "quoteTrust": [
+          "Free consultation",
+          "Reply within 24h",
+          "No obligation"
+        ]
+      },
+      "solutionNeed": {
+        "headingPrefix": "What Kind of",
+        "headingAccent": "Solution",
+        "headingSuffix": "Do You Need?",
+        "subheading": "Assemble your ideal team with top-tier professionals who are passionate about turning your AI vision into production reality. Whether you're seeking Machine Learning engineers, AI strategists, or enterprise system architects, we have the specialized talent to match your project's technical requirements.",
+        "ctaLabel": "View Details",
+        "options": [
+          {
+            "id": "automation",
+            "title": "AI Automation / Implementation",
+            "shortLabel": "AI Automation /\nImplementation",
+            "subheading": "End-to-end automation that connects your tools, data, and teams so repetitive work runs reliably in production - not just in a demo.",
+            "bullets": [
+              "Cross-team workflow automation",
+              "Reliable API integrations",
+              "Audit-ready process controls",
+              "Measurable operational outcomes"
+            ],
+            "ctaTo": "/services/ai-automation",
+            "iconName": "workflow"
+          },
+          {
+            "id": "chatbots",
+            "title": "AI Chatbots",
+            "shortLabel": "AI Chatbots",
+            "subheading": "Conversational experiences that understand context, respect policies, and escalate cleanly when a human needs to take over.",
+            "bullets": [
+              "Context-aware customer responses",
+              "Smart intent routing",
+              "Secure policy-compliant handling",
+              "Continuous quality optimization"
+            ],
+            "ctaTo": "/services/ai-chatbots",
+            "iconName": "bot"
+          },
+          {
+            "id": "ml",
+            "title": "Machine Learning",
+            "shortLabel": "Machine\nLearning",
+            "subheading": "Models and pipelines that turn historical and streaming data into forecasts, rankings, and decisions your teams can trust.",
+            "bullets": [
+              "Forecasting and predictions",
+              "Robust model pipelines",
+              "Governance and compliance",
+              "Production-ready deployment cycles"
+            ],
+            "ctaTo": "/services/machine-learning",
+            "iconName": "brain"
+          },
+          {
+            "id": "strategy",
+            "title": "AI Consulting",
+            "shortLabel": "AI Consulting",
+            "subheading": "Strategic AI consulting designed to help organizations identify high-impact opportunities, align AI initiatives with business goals, and build scalable transformation roadmaps. ",
+            "bullets": [
+              "AI Readiness & Opportunity Assessment",
+              "AI Transformation Roadmaps",
+              "Use-Case Prioritization & ROI Planning",
+              "Process & Workflow Analysis"
+            ],
+            "ctaTo": "/services/ai-consulting",
+            "iconName": "lightbulb"
+          }
+        ]
+      },
+      "numbersStats": {
+        "items": [
+          {
+            "value": "99.9%",
+            "label": "UPTIME ARCHITECTURE"
+          },
+          {
+            "value": "220+",
+            "label": "GLOBAL DEPLOYMENTS"
+          },
+          {
+            "value": "$30M",
+            "label": "CLIENT REV. IMPACT"
+          },
+          {
+            "value": "<12ms",
+            "label": "INFERENCE LATENCY"
+          }
+        ]
+      },
+      "aiSolutions": {
+        "headingPrefix": "Intelligent",
+        "headingAccent": "AI Solutions",
+        "headingSuffix": "Built for Scalable Growth",
+        "description": "We design AI-powered systems that streamline operations, enhance customer engagement, and enable businesses to scale with confidence.",
+        "cardTitle": "AI Conversational & Support Systems",
+        "cardDescription": "AI-Powered Conversational And Support Systems Designed To Automate Interactions, Reduce Response Times, Assist Teams, And Deliver Consistent, High-Quality Customer Experiences Across All Digital Touchpoints.",
+        "imgSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/v1779300497/Databiqas-Animation1_dkxylz.gif",
+        "imgAlt": "AI Solutions Diagram",
+        "capabilitiesLabel": "Key Capabilities:",
+        "capabilities": [
+          "Conversational AI With Natural Language Understanding",
+          "24/7 Automated Customer Interactions",
+          "Intelligent Query Routing & Escalation",
+          "Human-AI Collaboration For Support Teams",
+          "Multi-Channel Integration (Web, Chat, Messaging Platforms)"
+        ]
+      },
+      "aiAutomation": {
+        "title": "AI Automation",
+        "description": "Automate Workflows Using intelligent orchestration layers to Connect Systems, Eliminate Manual Tasks, And Optimize Business Operations.",
+        "imgSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/v1779300253/Databiqas-Animation_c9e1am.gif",
+        "imgAlt": "AI automation workflow animation",
+        "capabilitiesLabel": "Key Capabilities:",
+        "capabilities": [
+          "Custom Workflow Automation",
+          "Seamless System Integration",
+          "Data Synchronization",
+          "Process Optimization"
+        ]
+      },
+      "homeCaseStudies": {
+        "headlinePrefix": "Proven",
+        "headlineAccent": "Impact",
+        "headlineSuffix": "through AI Solutions",
+        "description": "Discover How We Help Forward-Thinking Businesses Solve Complex Challenges, Optimize Operations, And Achieve Measurable Results With Our AI-Driven Solutions."
+      },
+      "whyAI": {
+        "headingLine1Prefix": "Why AI systems",
+        "headingLine1Accent": "looks",
+        "headingLine1Suffix": "powerful…",
+        "headingLine2Prefix": "but don't",
+        "headingLine2Accent": "deliver",
+        "headingLine2Suffix": "results",
+        "description": "Your System Works. The Technology Is Solid. But The Outcome Doesn't Match The Expectation.",
+        "complaintsLabel": "Common Complaints",
+        "complaints": [
+          {
+            "quote": "\"We automated processes, but work is still manual\"",
+            "sub": "Efficiency gains never fully materialize."
+          },
+          {
+            "quote": "\"Our AI works in demos, but not in production\"",
+            "sub": "Real-world usage breaks flows and creates friction."
+          },
+          {
+            "quote": "\"We don't know how to turn AI into real business value\"",
+            "sub": "Use cases exist but have no path to impact."
+          },
+          {
+            "quote": "\"We have data, but no intelligence comes from it\"",
+            "sub": "Data lakes become expensive data graveyards."
+          },
+          {
+            "quote": "\"Our product is technically strong, but fails to scale\"",
+            "sub": "Architecture decisions limit growth potential."
+          }
+        ],
+        "rightHeadingLine1": "We Don't Just Build Technology",
+        "rightHeadingLine2": "We Engineer Business Outcomes",
+        "rightDescription": "Every Engagement Starts With Understanding Your Desired Outcome, Then Reverse-Engineers The Technology To Match. We Stay Until Results Are Proven.",
+        "differentiators": [
+          "Architecture-First Thinking - No Shortcuts",
+          "Production-Grade AI, Not Demoware",
+          "Measurable ROI Aligned To Your KPIs",
+          "Embedded Tech Leads, Not Black-Box Vendors",
+          "Scale From Startup To Enterprise"
+        ]
+      },
+      "howDatabiqs": {
+        "headingPrefix": "How",
+        "headingAccent": "Databiqs",
+        "headingSuffix": "can help?",
+        "description": "We move AI out of the lab and into production. Our strategic approach ensures that complex technological systems are architected for scale, deeply integrated into your workflows, and designed to deliver measurable business impact.",
+        "cards": [
+          {
+            "iconName": "search",
+            "title": "1. Audit",
+            "description": "Identifying bottlenecks in existing data pipelines and legacy systems to determine high-ROI AI integration points."
+          },
+          {
+            "iconName": "compass",
+            "title": "2. Architecture",
+            "description": "Designing resilient, scaleable infrastructures that support real-time processing and ensure enterprise-grade security."
+          },
+          {
+            "iconName": "refresh",
+            "title": "3. Automation",
+            "description": "Operationalizing AI models within your business processes to eliminate manual work and drive continuous optimization."
+          }
+        ]
+      },
+      "testimonialsHeading": {
+        "headingPrefix": "Trusted by",
+        "headingAccent": "Forward-Thinking",
+        "headingSuffix": "Businesses",
+        "description": "Our Clients Partner With Us To Solve Complex Challenges, Streamline Operations, And Achieve Measurable Results Through Intelligent AI Solutions."
+      },
+      "finalCta": {
+        "title": "START YOUR TRANSFORMATION TODAY",
+        "subtitle": "Setup A 30 Minutes Consultation Call With Our Experts. No Sales Pitch, Just Pure Engineering Strategy.",
+        "ctaLabel": "Setup a consultation call",
+        "ctaTo": "/book-consultation"
+      }
+    },
+    "styles": {
+      "ai-tag-1": {
+        "desktop": {
+          "color": "#ffffff"
+        },
+        "mobile": {}
+      }
+    },
+    "updatedAt": "2026-09-29T23:59:27.111Z"
+  },
+  "servicesPage": {
+    "data": {
+      "hiddenSections": [],
+      "hero": {
+        "titleAccent": "AI-Powered",
+        "titleRest": "Solutions To Transform Your Business",
+        "lede": "Build secure, custom AI solutions that automate workflows, improve decision-making, and increase operational efficiency. From AI strategy to implementation, Databiqs delivers intelligent chatbots, AI automation, and machine-learning solutions designed for sustainable business growth."
+      },
+      "pipeline": {
+        "eyebrow": "END-TO-END AI DEVELOPMENT PROCESS",
+        "titleLine": "From AI Strategy to",
+        "titleAccent": "Production-Ready Solutions",
+        "steps": [
+          {
+            "title": "Discover",
+            "description": "Assess workflows, data readiness, and automation opportunities through a structured AI readiness assessment."
+          },
+          {
+            "title": "Design",
+            "description": "Define your AI solution architecture, governance requirements, integrations, and milestones tied to measurable ROI."
+          },
+          {
+            "title": "Build",
+            "description": "Develop production-ready AI models, workflow automations, system integrations, and human-in-the-loop controls."
+          },
+          {
+            "title": "Scale",
+            "description": "Use MLOps, performance monitoring, and model-drift management to scale reliable AI systems across your organization."
+          }
+        ]
+      },
+      "coreCapabilities": {
+        "title": "CORE CAPABILITIES",
+        "subtitle": "Specialized intelligence modules engineered for enterprise scale and precision. Each solution is tailored to your unique business needs."
+      }
+    },
+    "styles": {},
+    "updatedAt": "2026-10-01T16:52:47.932Z"
+  },
+  "caseStudiesPage": {
+    "data": {
+      "hiddenSections": [],
+      "hero": {
+        "headlinePrefix": "Real results for",
+        "headlineAccent": "real businesses",
+        "description": "From predictive operations to customer-facing AI, we ship systems that hold up in production - measurable latency, clear ROI, and teams that actually adopt them."
+      },
+      "proof": {
+        "headlinePrefix": "Proof in the",
+        "headlineAccent": "numbers",
+        "description": "Explore how teams across industries use Databiqs to turn complex data and workflows into reliable, human-centered AI outcomes."
+      },
+      "ctaBanner": {
+        "title": "See how this works for your business",
+        "subtitle": "Schedule a free 30-minute strategy call with one of our senior architects.",
+        "ctaLabel": "Book a Consultation",
+        "ctaTo": "/book-consultation"
+      }
+    },
+    "styles": {},
+    "updatedAt": "2026-10-01T18:55:26.727Z"
+  },
+  "contactPage": {
+    "data": {
+      "hiddenSections": [],
+      "hero": {
+        "pill": "Contact us",
+        "title": "Let's start a conversation",
+        "lead": "Whether you are exploring AI automation, custom software, or a strategic partnership, tell us what you need - we read every message and respond as soon as we can.",
+        "metaPrefix": "Prefer the consultation flow?",
+        "metaLinkLabel": "Book a consultation",
+        "metaLinkTo": "/book-consultation"
+      },
+      "form": {
+        "fields": [
+          {
+            "key": "name",
+            "type": "text",
+            "label": "Your name",
+            "placeholder": "Jane Doe",
+            "required": false
+          },
+          {
+            "key": "email",
+            "type": "email",
+            "label": "Your email",
+            "placeholder": "you@company.com",
+            "required": true
+          },
+          {
+            "key": "phone",
+            "type": "tel",
+            "label": "Your phone number",
+            "placeholder": "+1 …",
+            "required": false
+          },
+          {
+            "key": "subject",
+            "type": "text",
+            "label": "Subject",
+            "placeholder": "What is this about?",
+            "required": false,
+            "fullWidth": true
+          },
+          {
+            "key": "service",
+            "type": "select",
+            "label": "Which service are you interested in?",
+            "required": false,
+            "options": [
+              {
+                "value": "AI Chatbots",
+                "label": "AI Chatbots"
+              },
+              {
+                "value": "AI Workflow Automation",
+                "label": "AI Workflow Automation"
+              },
+              {
+                "value": "Machine Learning",
+                "label": "Machine Learning"
+              },
+              {
+                "value": "AI Consulting",
+                "label": "AI Consulting"
+              },
+              {
+                "value": "Other",
+                "label": "Other"
+              }
+            ]
+          },
+          {
+            "key": "budget",
+            "type": "select",
+            "label": "Budget range",
+            "required": false,
+            "options": [
+              {
+                "value": "Under $5,000",
+                "label": "Under $5,000"
+              },
+              {
+                "value": "$5,000 - $15,000",
+                "label": "$5,000 - $15,000"
+              },
+              {
+                "value": "$15,000 - $50,000",
+                "label": "$15,000 - $50,000"
+              },
+              {
+                "value": "$50,000+",
+                "label": "$50,000+"
+              }
+            ]
+          },
+          {
+            "key": "message",
+            "type": "textarea",
+            "label": "Message",
+            "placeholder": "Share context, goals, or timelines…",
+            "required": false,
+            "fullWidth": true
+          }
+        ],
+        "submitLabel": "Send message",
+        "successTitle": "Thank you",
+        "successText": "You have submitted the form successfully. We will get in touch with you shortly.",
+        "successResetLabel": "Send another message"
+      }
+    },
+    "styles": {},
+    "updatedAt": "2026-10-01T18:55:26.727Z"
+  },
+  "updatedAt": "2026-10-01T18:55:49.801Z"
 }

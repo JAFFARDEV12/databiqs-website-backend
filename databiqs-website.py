@@ -64,7 +64,7 @@ LEGACY_PATHS = (
     PROJECT_ROOT / "databiqs-website" / "server" / "content.json",
 )
 
-ALLOWED_SECTIONS = frozenset({"services", "caseStudies", "blogs", "team", "testimonials", "media", "servicePages", "aboutPage", "homePage"})
+ALLOWED_SECTIONS = frozenset({"services", "caseStudies", "blogs", "team", "testimonials", "media", "servicePages", "aboutPage", "homePage", "servicesPage", "caseStudiesPage", "contactPage"})
 
 # ── Uploaded media (admin image uploads for the service-page editor) ────────
 UPLOAD_DIR = Path(os.getenv("UPLOAD_DIR", str(BACKEND_ROOT / "uploads")))
