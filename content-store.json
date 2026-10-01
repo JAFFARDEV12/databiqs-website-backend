@@ -31,7 +31,7 @@
         ]
       },
       "intro": {
-        "pill": "About Us",
+        "pill": "ab",
         "titleLine": "INNOVATING FUTURE OF",
         "titleAccent": "BUSINESS TECHNOLOGY",
         "subtitle": "We're A Team Of Passionate Technologists Committed To Helping Businesses Unlock Their Full Potential Through Intelligent Automation And AI Solutions.",
@@ -129,7 +129,7 @@
       }
     },
     "styles": {},
-    "updatedAt": "2026-10-01T22:13:56.592Z"
+    "updatedAt": "2026-10-01T22:14:39.016Z"
   },
   "blogs": {
     "browseTopicKeys": [
@@ -4457,5 +4457,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-01T22:13:57.739Z"
+  "updatedAt": "2026-10-01T22:14:40.385Z"
 }
