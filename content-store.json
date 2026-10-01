@@ -3175,7 +3175,8 @@
       "chatbots": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_960,c_limit/v1779295412/8464662-uhd_3840_2160_25fps_fuhjcg.mp4",
       "ml": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_960,c_limit/v1779295411/8327799-uhd_3840_2160_25fps_firdd9.mp4",
       "strategy": "https://res.cloudinary.com/deelyxcjk/video/upload/f_mp4,q_auto:eco,w_960,c_limit/v1779295407/7687810-uhd_4096_2160_24fps_lywssl.mp4"
-    }
+    },
+    "__persistence_test_marker": "test-value-1"
   },
   "updatedAt": "2026-08-11T16:33:55.138Z",
   "servicePages": {
