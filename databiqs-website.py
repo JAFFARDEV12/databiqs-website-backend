@@ -5,10 +5,13 @@ Deploy on Vercel (app.py entry) or Railway via gunicorn (see railpack.json / sta
 
 from __future__ import annotations
 
+import base64
 import json
 import os
 import re
 import shutil
+import urllib.error
+import urllib.request
 from datetime import datetime, timedelta, timezone
 from functools import wraps
 from pathlib import Path
@@ -66,6 +69,14 @@ LEGACY_PATHS = (
 
 ALLOWED_SECTIONS = frozenset({"services", "caseStudies", "blogs", "team", "testimonials", "media", "servicePages", "aboutPage", "homePage", "servicesPage", "caseStudiesPage", "contactPage"})
 
+# ── GitHub-backed persistence (Vercel serverless has no durable disk: /tmp is
+#    wiped per-instance, so every save is also committed to this repo and read
+#    back on cold start instead of falling back to the bundled default file) ──
+GITHUB_CONTENT_TOKEN = os.getenv("GITHUB_CONTENT_TOKEN")
+GITHUB_CONTENT_REPO = os.getenv("GITHUB_CONTENT_REPO", "JAFFARDEV12/databiqs-website-backend")
+GITHUB_CONTENT_BRANCH = os.getenv("GITHUB_CONTENT_BRANCH", "new-design")
+GITHUB_CONTENT_PATH = os.getenv("GITHUB_CONTENT_PATH", "content-store.json")
+
 # ── Uploaded media (admin image uploads for the service-page editor) ────────
 UPLOAD_DIR = Path(os.getenv("UPLOAD_DIR", str(BACKEND_ROOT / "uploads")))
 ALLOWED_UPLOAD_EXTENSIONS = frozenset({"png", "jpg", "jpeg", "gif", "webp", "svg"})
@@ -78,19 +89,85 @@ JWT_ALGORITHM = "HS256"
 JWT_EXPIRE_HOURS = 12
 
 
+def _github_api_request(method: str, path_and_query: str, body: Optional[dict] = None) -> Optional[dict]:
+    """Best-effort call to the GitHub Contents API. Returns None on any failure
+    (missing token, network error, 404) instead of raising."""
+    if not GITHUB_CONTENT_TOKEN:
+        return None
+    url = f"https://api.github.com/repos/{GITHUB_CONTENT_REPO}/contents/{path_and_query}"
+    data = json.dumps(body).encode("utf-8") if body is not None else None
+    req = urllib.request.Request(url, data=data, method=method)
+    req.add_header("Authorization", f"Bearer {GITHUB_CONTENT_TOKEN}")
+    req.add_header("Accept", "application/vnd.github+json")
+    req.add_header("User-Agent", "databiqs-cms")
+    if data is not None:
+        req.add_header("Content-Type", "application/json")
+    try:
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            return json.loads(resp.read().decode("utf-8"))
+    except Exception:
+        return None
+
+
+def github_fetch_content() -> Optional[dict[str, Any]]:
+    result = _github_api_request("GET", f"{GITHUB_CONTENT_PATH}?ref={GITHUB_CONTENT_BRANCH}")
+    if not result or "content" not in result:
+        return None
+    try:
+        raw = base64.b64decode(result["content"]).decode("utf-8")
+        parsed = json.loads(raw)
+        return parsed if isinstance(parsed, dict) else None
+    except Exception:
+        return None
+
+
+def github_commit_content(payload: dict[str, Any]) -> None:
+    if not GITHUB_CONTENT_TOKEN:
+        return
+    existing = _github_api_request("GET", f"{GITHUB_CONTENT_PATH}?ref={GITHUB_CONTENT_BRANCH}")
+    body = {
+        "message": "chore: update CMS content via admin panel",
+        "content": base64.b64encode(
+            f"{json.dumps(payload, indent=2, ensure_ascii=False)}\n".encode("utf-8")
+        ).decode("ascii"),
+        "branch": GITHUB_CONTENT_BRANCH,
+    }
+    if existing and existing.get("sha"):
+        body["sha"] = existing["sha"]
+    _github_api_request("PUT", GITHUB_CONTENT_PATH, body)
+
+
+def _seed_data_file(target: Path, fallback: Optional[Path] = None) -> None:
+    try:
+        target.parent.mkdir(parents=True, exist_ok=True)
+    except Exception:
+        pass
+    remote = github_fetch_content()
+    if remote is not None:
+        try:
+            target.write_text(f"{json.dumps(remote, indent=2, ensure_ascii=False)}\n", encoding="utf-8")
+            return
+        except Exception:
+            pass
+    if fallback and fallback.exists():
+        try:
+            shutil.copy2(fallback, target)
+        except Exception:
+            pass
+
+
 def get_data_file() -> Path:
     env_path = os.getenv("CONTENT_FILE")
     if env_path:
-        return Path(env_path)
+        path = Path(env_path)
+        if not path.exists():
+            _seed_data_file(path)
+        return path
     default_path = BACKEND_ROOT / "content-store.json"
     if os.getenv("VERCEL") or not os.access(BACKEND_ROOT, os.W_OK):
         tmp_path = Path("/tmp/content-store.json")
-        if not tmp_path.exists() and default_path.exists():
-            try:
-                tmp_path.parent.mkdir(parents=True, exist_ok=True)
-                shutil.copy2(default_path, tmp_path)
-            except Exception:
-                pass
+        if not tmp_path.exists():
+            _seed_data_file(tmp_path, default_path)
         return tmp_path
     return default_path
 
@@ -129,6 +206,10 @@ def write_content(data: dict[str, Any]) -> dict[str, Any]:
         f"{json.dumps(payload, indent=2, ensure_ascii=False)}\n",
         encoding="utf-8",
     )
+    try:
+        github_commit_content(payload)
+    except Exception:
+        pass
     return payload
 
 
