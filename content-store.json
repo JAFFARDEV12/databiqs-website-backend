@@ -5977,19 +5977,19 @@
       "numbersStats": {
         "items": [
           {
-            "value": "99.9%",
+            "value": "99.5%",
             "label": "UPTIME ARCHITECTURE"
           },
           {
-            "value": "220+",
+            "value": "85+",
             "label": "GLOBAL DEPLOYMENTS"
           },
           {
-            "value": "$30M",
+            "value": "$5M+",
             "label": "CLIENT REV. IMPACT"
           },
           {
-            "value": "<12ms",
+            "value": "<50ms",
             "label": "INFERENCE LATENCY"
           }
         ]
