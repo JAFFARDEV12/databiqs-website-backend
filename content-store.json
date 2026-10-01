@@ -1,82 +1,18 @@
 {
   "aboutPage": {
     "data": {
-      "finalCta": {
-        "ctaLabel": "Book a Consultation",
-        "ctaTo": "/book-consultation",
-        "subtitle": "If you are exploring AI automation, product strategy, or custom software, you can connect with us directly from this page and book a focused consultation session.",
-        "title": "READY TO DISCUSS YOUR IDEA WITH OUR TEAM?"
-      },
+      "hiddenSections": [],
       "hero": {
-        "ctaLabel": "Book a Consultation",
-        "ctaTo": "/book-consultation",
+        "titleLine1": "Meet our Founder & CEO",
+        "titleAccent": "Mr. Jaffar Ali Chaudhary",
         "paragraphs": [
           "Mr. Jaffar Ali founded Databiqs with a clear vision: to help founders and startups transform their ideas into revenue-ready AI and SaaS products without the typical delays, uncertainty, and technical complexity that slow down innovation.",
           "With deep expertise across AI development, full-stack engineering, and enterprise architecture, Jaffar has spent his career solving one of the hardest challenges in tech: how to go from concept to scalable product quickly, without compromising on quality or future growth potential."
         ],
-        "portraitAlt": "Jaffar Ali, Founder & CEO",
-        "portraitSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/v1779487427/founder_ceo_yleptg.png",
-        "titleAccent": "Mr. Jaffar Ali Chaudhary",
-        "titleLine1": "Meet our Founder & CEO"
-      },
-      "hiddenSections": [],
-      "howWeWork": {
-        "ctaLabel": "Book a Free 30-Min Consultation",
+        "ctaLabel": "Book a Consultation",
         "ctaTo": "/book-consultation",
-        "pill": "HOW WE WORK",
-        "steps": [
-          {
-            "badge": "Week 1",
-            "desc": "We map goals, users, scope and risks, then send a fixed quote and delivery plan.",
-            "num": "01",
-            "title": "Discovery"
-          },
-          {
-            "badge": "Weeks 2–3",
-            "desc": "Clickable wireframes and UI you review and approve before a line of code.",
-            "num": "02",
-            "title": "Design"
-          },
-          {
-            "badge": "Weeks 4–10",
-            "desc": "Senior engineers ship in weekly sprints, with a live demo every Friday.",
-            "num": "03",
-            "title": "Build"
-          },
-          {
-            "badge": "Ongoing",
-            "desc": "We launch, monitor and hand over code, docs and accounts — all yours.",
-            "num": "04",
-            "title": "Launch & support"
-          }
-        ],
-        "title": "From first call to production in four steps"
-      },
-      "intro": {
-        "cards": [
-          {
-            "desc": "To Democratize Access To Powerful AI And Automation Technologies Of Every Size To Make Smarter Decisions, Streamline Operations, And Scale With Confidence In A Rapidly Evolving Digital World.",
-            "imgAlt": "Mission Icon",
-            "imgSrc": "/static/media/mission.95fe12473a8e8a89ab3b96c60d58a98d.svg",
-            "title": "Our Mission"
-          },
-          {
-            "desc": "",
-            "imgAlt": "Vision Icon",
-            "imgSrc": "/static/media/vision.1dce7ec9207a95c54393b67d644b229f.svg",
-            "title": "Our Vision"
-          },
-          {
-            "desc": "We Design And Deploy AI Solutions That Are Practical, Ethical, And Scalable, Combining Data Intelligence, Automation, And Human Insight To Solve Real World Business Challenges And Deliver Measurable Impact.",
-            "imgAlt": "Approach Icon",
-            "imgSrc": "/static/media/approach.fdb7bb3fdc3b2807ada03187d8859278.svg",
-            "title": "Our Approach"
-          }
-        ],
-        "pill": "About Us",
-        "subtitle": "We're A Team Of Passionate Technologists Committed To Helping Businesses Unlock Their Full Potential Through Intelligent Automation And AI Solutions.",
-        "titleAccent": "BUSINESS TECHNOLOGY",
-        "titleLine": "INNOVATING FUTURE OF"
+        "portraitSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/v1779487427/founder_ceo_yleptg.png",
+        "portraitAlt": "Jaffar Ali, Founder & CEO"
       },
       "stats": {
         "items": [
@@ -90,46 +26,110 @@
             "text": "12 YEARS OF EXCELLENCE"
           },
           {
-            "text": "150+ SUCCESSFULLY DELIVERED PROJECTS"
+            "text": "SUCCESSFULLY DELIVERED PROJECT"
+          }
+        ]
+      },
+      "intro": {
+        "pill": "About Us",
+        "titleLine": "INNOVATING FUTURE OF",
+        "titleAccent": "BUSINESS TECHNOLOGY",
+        "subtitle": "We're A Team Of Passionate Technologists Committed To Helping Businesses Unlock Their Full Potential Through Intelligent Automation And AI Solutions.",
+        "cards": [
+          {
+            "imgSrc": "/static/media/mission.95fe12473a8e8a89ab3b96c60d58a98d.svg",
+            "imgAlt": "Mission Icon",
+            "title": "Our Mission",
+            "desc": "To Democratize Access To Powerful AI And Automation Technologies Of Every Size To Make Smarter Decisions, Streamline Operations, And Scale With Confidence In A Rapidly Evolving Digital World."
+          },
+          {
+            "imgSrc": "/static/media/vision.1dce7ec9207a95c54393b67d644b229f.svg",
+            "imgAlt": "Vision Icon",
+            "title": "Our Vision",
+            "desc": ""
+          },
+          {
+            "imgSrc": "/static/media/approach.fdb7bb3fdc3b2807ada03187d8859278.svg",
+            "imgAlt": "Approach Icon",
+            "title": "Our Approach",
+            "desc": "We Design And Deploy AI Solutions That Are Practical, Ethical, And Scalable, Combining Data Intelligence, Automation, And Human Insight To Solve Real World Business Challenges And Deliver Measurable Impact."
           }
         ]
       },
       "workingWithUs": {
+        "pill": "WORKING WITH US",
+        "title": "What you can expect, every project",
         "cards": [
           {
             "icon": "message",
+            "title": "Clear communication",
             "items": [
               "Weekly demo on a video call",
               "Written progress update every week",
               "We work in your tools — Slack, Jira, Notion"
-            ],
-            "title": "Clear communication"
+            ]
           },
           {
             "icon": "lock",
+            "title": "Security & confidentiality",
             "items": [
               "NDA signed before you share anything",
               "Your data stays in your cloud",
               "Role-based access, logged changes"
-            ],
-            "title": "Security & confidentiality"
+            ]
           },
           {
             "icon": "shieldCheck",
+            "title": "Quality you can check",
             "items": [
               "Code reviews and automated tests",
               "Documentation with every handover",
               "[X] weeks of free support after launch"
-            ],
-            "title": "Quality you can check"
+            ]
           }
-        ],
-        "pill": "WORKING WITH US",
-        "title": "What you can expect, every project"
+        ]
+      },
+      "howWeWork": {
+        "pill": "HOW WE WORK",
+        "title": "From first call to production in four steps",
+        "ctaLabel": "Book a Free 30-Min Consultation",
+        "ctaTo": "/book-consultation",
+        "steps": [
+          {
+            "num": "01",
+            "badge": "Week 1",
+            "title": "Discovery",
+            "desc": "We map goals, users, scope and risks, then send a fixed quote and delivery plan."
+          },
+          {
+            "num": "02",
+            "badge": "Weeks 2–3",
+            "title": "Design",
+            "desc": "Clickable wireframes and UI you review and approve before a line of code."
+          },
+          {
+            "num": "03",
+            "badge": "Weeks 4–10",
+            "title": "Build",
+            "desc": "Senior engineers ship in weekly sprints, with a live demo every Friday."
+          },
+          {
+            "num": "04",
+            "badge": "Ongoing",
+            "title": "Launch & support",
+            "desc": "We launch, monitor and hand over code, docs and accounts — all yours."
+          }
+        ]
+      },
+      "finalCta": {
+        "title": "READY TO DISCUSS YOUR IDEA WITH OUR TEAM?",
+        "subtitle": "If you are exploring AI automation, product strategy, or custom software, you can connect with us directly from this page and book a focused consultation session.",
+        "ctaLabel": "Book a Consultation",
+        "ctaTo": "/book-consultation"
       }
     },
     "styles": {},
-    "updatedAt": "2026-09-30T21:49:21.164Z"
+    "updatedAt": "2026-10-01T21:59:44.922Z"
   },
   "blogs": {
     "browseTopicKeys": [
@@ -2517,6 +2517,29 @@
       }
     ]
   },
+  "caseStudiesPage": {
+    "data": {
+      "ctaBanner": {
+        "ctaLabel": "Book a Consultation",
+        "ctaTo": "/book-consultation",
+        "subtitle": "Schedule a free 30-minute strategy call with one of our senior architects.",
+        "title": "See how this works for your business"
+      },
+      "hero": {
+        "description": "From predictive operations to customer-facing AI, we ship systems that hold up in production - measurable latency, clear ROI, and teams that actually adopt them.",
+        "headlineAccent": "real businesses test",
+        "headlinePrefix": "Real results for"
+      },
+      "hiddenSections": [],
+      "proof": {
+        "description": "Explore how teams across industries use Databiqs to turn complex data and workflows into reliable, human-centered AI outcomes.",
+        "headlineAccent": "numbers",
+        "headlinePrefix": "Proof in the"
+      }
+    },
+    "styles": {},
+    "updatedAt": "2026-10-01T21:56:44.877Z"
+  },
   "homePage": {
     "data": {
       "hero": {
@@ -4423,28 +4446,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-01T21:57:17.356Z",
-  "caseStudiesPage": {
-    "data": {
-      "hiddenSections": [],
-      "hero": {
-        "headlinePrefix": "Real results for",
-        "headlineAccent": "real businesses test",
-        "description": "From predictive operations to customer-facing AI, we ship systems that hold up in production - measurable latency, clear ROI, and teams that actually adopt them."
-      },
-      "proof": {
-        "headlinePrefix": "Proof in the",
-        "headlineAccent": "numbers",
-        "description": "Explore how teams across industries use Databiqs to turn complex data and workflows into reliable, human-centered AI outcomes."
-      },
-      "ctaBanner": {
-        "title": "See how this works for your business",
-        "subtitle": "Schedule a free 30-minute strategy call with one of our senior architects.",
-        "ctaLabel": "Book a Consultation",
-        "ctaTo": "/book-consultation"
-      }
-    },
-    "styles": {},
-    "updatedAt": "2026-10-01T21:56:44.877Z"
-  }
+  "updatedAt": "2026-10-01T21:59:45.913Z"
 }
