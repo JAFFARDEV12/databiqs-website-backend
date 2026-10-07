@@ -67,7 +67,7 @@ LEGACY_PATHS = (
     PROJECT_ROOT / "databiqs-website" / "server" / "content.json",
 )
 
-ALLOWED_SECTIONS = frozenset({"services", "caseStudies", "blogs", "team", "testimonials", "media", "servicePages", "aboutPage", "homePage"})
+ALLOWED_SECTIONS = frozenset({"services", "caseStudies", "blogs", "team", "testimonials", "media", "servicePages", "aboutPage", "homePage", "servicesPage", "caseStudiesPage", "contactPage"})
 
 # ── GitHub-backed persistence (Vercel serverless has no durable disk: /tmp is
 #    wiped per-instance, so every save is also committed to this repo and read
