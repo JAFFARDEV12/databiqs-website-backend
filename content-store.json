@@ -3030,11 +3030,11 @@
       "whyAI": {
         "headingLine1Prefix": "Why AI systems",
         "headingLine1Accent": "look",
-        "headingLine1Suffix": "powerful…",
+        "headingLine1Suffix": "powerful",
         "headingLine2Prefix": "but don't",
         "headingLine2Accent": "deliver",
         "headingLine2Suffix": "results",
-        "description": "Your System Works. The Technology Is Solid. But The Outcome Doesn't Match The Expectation.",
+        "description": "Your system works. The technology is solid. But the outcome doesn't match the expectation.",
         "complaintsLabel": "Common Complaints",
         "complaints": [
           {
@@ -6456,5 +6456,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-10T00:26:46.222Z"
+  "updatedAt": "2026-10-10T00:27:06.052Z"
 }
