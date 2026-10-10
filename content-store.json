@@ -3083,7 +3083,7 @@
           {
             "iconName": "compass",
             "title": "2. Architecture",
-            "description": "Designing resilient, scaleable infrastructures that support real-time processing and ensure enterprise-grade security."
+            "description": "Designing resilient, scalable infrastructure that supports real-time processing and enterprise-grade security."
           },
           {
             "iconName": "refresh",
@@ -3100,7 +3100,7 @@
       },
       "finalCta": {
         "title": "START YOUR TRANSFORMATION TODAY",
-        "subtitle": "Setup A 30 Minutes Consultation Call With Our Experts. No Sales Pitch, Just Pure Engineering Strategy.",
+        "subtitle": "Set up a 30-minute consultation call with our experts. No sales pitch, just engineering strategy.",
         "ctaLabel": "Setup a consultation call",
         "ctaTo": "/book-consultation"
       }
@@ -6456,5 +6456,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-10T00:27:17.042Z"
+  "updatedAt": "2026-10-10T00:27:27.584Z"
 }
