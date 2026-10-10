@@ -6415,9 +6415,9 @@
   "testimonials": {
     "items": [
       {
-        "audioUrl": "",
         "id": 1,
-        "quote": "\"Databiqs Delivered An AI Solution That Significantly Improved Our Customer Response Time And Operational Efficiency. Their Approach Was Strategic, Professional, And Results-Driven.\""
+        "quote": "\"Databiqs delivered an AI solution that significantly improved our customer response time and operational efficiency. Their approach was strategic, professional, and results-driven.\"",
+        "audioUrl": ""
       },
       {
         "audioUrl": "",
