@@ -3029,7 +3029,7 @@
       },
       "whyAI": {
         "headingLine1Prefix": "Why AI systems",
-        "headingLine1Accent": "looks",
+        "headingLine1Accent": "look",
         "headingLine1Suffix": "powerful…",
         "headingLine2Prefix": "but don't",
         "headingLine2Accent": "deliver",
@@ -6456,5 +6456,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-10T00:26:06.341Z"
+  "updatedAt": "2026-10-10T00:26:46.222Z"
 }
