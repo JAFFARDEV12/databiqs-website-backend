@@ -2871,44 +2871,15 @@
   },
   "homePage": {
     "data": {
-      "aiAutomation": {
-        "capabilities": [
-          "Custom Workflow Automation",
-          "Seamless System Integration",
-          "Data Synchronization",
-          "Process Optimization"
-        ],
-        "capabilitiesLabel": "Key Capabilities:",
-        "description": "Automate Workflows Using intelligent orchestration layers to Connect Systems, Eliminate Manual Tasks, And Optimize Business Operations.",
-        "imgAlt": "AI automation workflow animation",
-        "imgSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/v1779300253/Databiqas-Animation_c9e1am.gif",
-        "title": "AI Automation"
-      },
-      "aiSolutions": {
-        "capabilities": [
-          "Conversational AI With Natural Language Understanding",
-          "24/7 Automated Customer Interactions",
-          "Intelligent Query Routing & Escalation",
-          "Human-AI Collaboration For Support Teams",
-          "Multi-Channel Integration (Web, Chat, Messaging Platforms)"
-        ],
-        "capabilitiesLabel": "Key Capabilities:",
-        "cardDescription": "AI-Powered Conversational And Support Systems Designed To Automate Interactions, Reduce Response Times, Assist Teams, And Deliver Consistent, High-Quality Customer Experiences Across All Digital Touchpoints.",
-        "cardTitle": "AI Conversational & Support Systems",
-        "description": "We Design AI-Powered Systems That Streamline Operations, Enhance Customer Engagement And Help Businesses Scale With Confidence.",
-        "headingAccent": "AI Solutions",
-        "headingPrefix": "Intelligent",
-        "headingSuffix": "Built for Scalable Growth",
-        "imgAlt": "AI Solutions Diagram",
-        "imgSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/v1779300497/Databiqas-Animation1_dkxylz.gif"
-      },
-      "finalCta": {
-        "ctaLabel": "Setup a consultation call",
-        "ctaTo": "/book-consultation",
-        "subtitle": "Set up a 30-minute consultation call with our experts. No sales pitch, just engineering strategy.",
-        "title": "START YOUR TRANSFORMATION TODAY"
-      },
+      "hiddenSections": [],
       "hero": {
+        "titleLine1": "AI & Full-Stack",
+        "titleAccent": "Development",
+        "titleLine2": "Built to Scale",
+        "titleLine3": "Your Business",
+        "description": "Databiqs is an AI development company and full-stack development company. We design and build AI solutions, custom websites and web apps for startups and growing businesses with fixed timelines, senior engineers and clear pricing.",
+        "ctaLabel": "Contact Us",
+        "ctaTo": "/contact",
         "chips": [
           {
             "text": "Machine Learning"
@@ -2923,81 +2894,29 @@
             "text": "AI Chatbot /Conversational"
           }
         ],
-        "ctaLabel": "Contact Us",
-        "ctaTo": "/contact",
-        "description": "Databiqs is an AI development company and full-stack development company. We design and build AI solutions, custom websites and web apps for startups and growing businesses with fixed timelines, senior engineers and clear pricing.",
-        "quoteCtaLabel": "Get a Quote",
-        "quoteCtaTo": "/contact",
-        "quoteDesc": "Tell us about your idea and we'll reply with a clear scope, timeline, and fixed price — usually within 24 hours.",
         "quoteTag": "FREE · NO OBLIGATION",
         "quoteTitle": "Get a Free Project Quote",
+        "quoteDesc": "Tell us about your idea and we'll reply with a clear scope, timeline, and fixed price — usually within 24 hours.",
+        "quoteCtaLabel": "Get a Quote",
+        "quoteCtaTo": "/contact",
         "quoteTrust": [
           "Free consultation",
           "Reply within 24h",
           "No obligation"
-        ],
-        "titleAccent": "Development",
-        "titleLine1": "AI & Full-Stack",
-        "titleLine2": "Built to Scale",
-        "titleLine3": "Your Business"
-      },
-      "hiddenSections": [],
-      "homeCaseStudies": {
-        "description": "Discover How We Help Forward-Thinking Businesses Solve Complex Challenges, Optimize Operations, And Achieve Measurable Results With Our AI-Driven Solutions.",
-        "headlineAccent": "Impact",
-        "headlinePrefix": "Proven",
-        "headlineSuffix": "through AI Solutions"
-      },
-      "howDatabiqs": {
-        "cards": [
-          {
-            "description": "Identifying bottlenecks in existing data pipelines and legacy systems to determine high-ROI AI integration points.",
-            "iconName": "search",
-            "title": "1. Audit"
-          },
-          {
-            "description": "Designing resilient, scalable infrastructure that supports real-time processing and enterprise-grade security.",
-            "iconName": "compass",
-            "title": "2. Architecture"
-          },
-          {
-            "description": "Operationalizing AI models within your business processes to eliminate manual work and drive continuous optimization.",
-            "iconName": "refresh",
-            "title": "3. Automation"
-          }
-        ],
-        "description": "We move AI out of the lab and into production. Our strategic approach ensures that complex technological systems are architected for scale, deeply integrated into your workflows, and designed to deliver measurable business impact.",
-        "headingAccent": "Databiqs",
-        "headingPrefix": "How",
-        "headingSuffix": "helps"
-      },
-      "numbersStats": {
-        "items": [
-          {
-            "label": "FASTER TURNAROUND",
-            "value": "Up to 3x"
-          },
-          {
-            "label": "EFFICIENCY GAIN",
-            "value": "40%+"
-          },
-          {
-            "label": "FEWER MANUAL ERRORS",
-            "value": "90%"
-          },
-          {
-            "label": "TASKS AUTOMATED",
-            "value": "80%"
-          }
         ]
       },
       "solutionNeed": {
-        "ctaLabel": "View Details",
-        "headingAccent": "Solution",
         "headingPrefix": "What Kind of",
+        "headingAccent": "Solution",
         "headingSuffix": "Do You Need?",
+        "subheading": "Tell us what you're building. We'll match you with the right team (AI engineers, full-stack developers or product designers) and ship it in weeks, not quarters.",
+        "ctaLabel": "View Details",
         "options": [
           {
+            "id": "automation",
+            "title": "AI Automation / Implementation",
+            "shortLabel": "AI Automation /\nImplementation",
+            "subheading": "End-to-end automation that connects your tools, data, and teams so repetitive work runs reliably in production - not just in a demo.",
             "bullets": [
               "Cross-team workflow automation",
               "Reliable API integrations",
@@ -3005,13 +2924,13 @@
               "Measurable operational outcomes"
             ],
             "ctaTo": "/services/ai-automation",
-            "iconName": "workflow",
-            "id": "automation",
-            "shortLabel": "AI Automation /\nImplementation",
-            "subheading": "End-to-end automation that connects your tools, data, and teams so repetitive work runs reliably in production - not just in a demo.",
-            "title": "AI Automation / Implementation"
+            "iconName": "workflow"
           },
           {
+            "id": "chatbots",
+            "title": "AI Chatbots",
+            "shortLabel": "AI Chatbots",
+            "subheading": "Conversational experiences that understand context, respect policies, and escalate cleanly when a human needs to take over.",
             "bullets": [
               "Context-aware customer responses",
               "Smart intent routing",
@@ -3019,13 +2938,13 @@
               "Continuous quality optimization"
             ],
             "ctaTo": "/services/ai-chatbots",
-            "iconName": "bot",
-            "id": "chatbots",
-            "shortLabel": "AI Chatbots",
-            "subheading": "Conversational experiences that understand context, respect policies, and escalate cleanly when a human needs to take over.",
-            "title": "AI Chatbots"
+            "iconName": "bot"
           },
           {
+            "id": "ml",
+            "title": "Machine Learning",
+            "shortLabel": "Machine\nLearning",
+            "subheading": "Models and pipelines that turn historical and streaming data into forecasts, rankings, and decisions your teams can trust.",
             "bullets": [
               "Forecasting and predictions",
               "Robust model pipelines",
@@ -3033,13 +2952,13 @@
               "Production-ready deployment cycles"
             ],
             "ctaTo": "/services/machine-learning",
-            "iconName": "brain",
-            "id": "ml",
-            "shortLabel": "Machine\nLearning",
-            "subheading": "Models and pipelines that turn historical and streaming data into forecasts, rankings, and decisions your teams can trust.",
-            "title": "Machine Learning"
+            "iconName": "brain"
           },
           {
+            "id": "strategy",
+            "title": "AI Consulting",
+            "shortLabel": "AI Consulting",
+            "subheading": "Strategic AI consulting designed to help organizations identify high-impact opportunities, align AI initiatives with business goals, and build scalable transformation roadmaps. ",
             "bullets": [
               "AI Readiness & Opportunity Assessment",
               "AI Transformation Roadmaps",
@@ -3047,22 +2966,76 @@
               "Process & Workflow Analysis"
             ],
             "ctaTo": "/services/ai-consulting",
-            "iconName": "lightbulb",
-            "id": "strategy",
-            "shortLabel": "AI Consulting",
-            "subheading": "Strategic AI consulting designed to help organizations identify high-impact opportunities, align AI initiatives with business goals, and build scalable transformation roadmaps. ",
-            "title": "AI Consulting"
+            "iconName": "lightbulb"
           }
-        ],
-        "subheading": "Tell us what you're building. We'll match you with the right team (AI engineers, full-stack developers or product designers) and ship it in weeks, not quarters."
+        ]
       },
-      "testimonialsHeading": {
-        "description": "Our Clients Partner With Us To Solve Complex Challenges, Streamline Operations, And Achieve Measurable Results Through Intelligent AI Solutions.",
-        "headingAccent": "Forward-Thinking",
-        "headingPrefix": "Trusted by",
-        "headingSuffix": "Businesses"
+      "numbersStats": {
+        "items": [
+          {
+            "value": "Up to 3x",
+            "label": "FASTER TURNAROUND"
+          },
+          {
+            "value": "40%+",
+            "label": "EFFICIENCY GAIN"
+          },
+          {
+            "value": "90%",
+            "label": "FEWER MANUAL ERRORS"
+          },
+          {
+            "value": "80%",
+            "label": "TASKS AUTOMATED"
+          }
+        ]
+      },
+      "aiSolutions": {
+        "headingPrefix": "Intelligent",
+        "headingAccent": "AI Solutions",
+        "headingSuffix": "Built for Scalable Growth",
+        "description": "We Design AI-Powered Systems That Streamline Operations, Enhance Customer Engagement And Help Businesses Scale With Confidence.",
+        "cardTitle": "AI Conversational & Support Systems",
+        "cardDescription": "AI-Powered Conversational And Support Systems Designed To Automate Interactions, Reduce Response Times, Assist Teams, And Deliver Consistent, High-Quality Customer Experiences Across All Digital Touchpoints.",
+        "imgSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/v1779300497/Databiqas-Animation1_dkxylz.gif",
+        "imgAlt": "AI Solutions Diagram",
+        "capabilitiesLabel": "Key Capabilities:",
+        "capabilities": [
+          "Conversational AI With Natural Language Understanding",
+          "24/7 Automated Customer Interactions",
+          "Intelligent Query Routing & Escalation",
+          "Human-AI Collaboration For Support Teams",
+          "Multi-Channel Integration (Web, Chat, Messaging Platforms)"
+        ]
+      },
+      "aiAutomation": {
+        "title": "AI Automation",
+        "description": "Automate Workflows Using intelligent orchestration layers to Connect Systems, Eliminate Manual Tasks, And Optimize Business Operations.",
+        "imgSrc": "https://res.cloudinary.com/deelyxcjk/image/upload/v1779300253/Databiqas-Animation_c9e1am.gif",
+        "imgAlt": "AI automation workflow animation",
+        "capabilitiesLabel": "Key Capabilities:",
+        "capabilities": [
+          "Custom Workflow Automation",
+          "Seamless System Integration",
+          "Data Synchronization",
+          "Process Optimization"
+        ]
+      },
+      "homeCaseStudies": {
+        "headlinePrefix": "Proven",
+        "headlineAccent": "Impact",
+        "headlineSuffix": "through AI Solutions",
+        "description": "Discover How We Help Forward-Thinking Businesses Solve Complex Challenges, Optimize Operations, And Achieve Measurable Results With Our AI-Driven Solutions."
       },
       "whyAI": {
+        "headingLine1Prefix": "Why AI systems",
+        "headingLine1Accent": "look",
+        "headingLine1Suffix": "powerful",
+        "headingLine2Prefix": "but don't",
+        "headingLine2Accent": "deliver",
+        "headingLine2Suffix": "results",
+        "description": "Your system works. The technology is solid. But the outcome doesn't match the expectation.",
+        "complaintsLabel": "Common Complaints",
         "complaints": [
           {
             "quote": "\"We automated processes, but work is still manual\"",
@@ -3085,24 +3058,51 @@
             "sub": "Architecture decisions limit growth potential."
           }
         ],
-        "complaintsLabel": "Common Complaints",
-        "description": "Your system works. The technology is solid. But the outcome doesn't match the expectation.",
+        "rightHeadingLine1": "We Don't Just Build Technology",
+        "rightHeadingLine2": "We Engineer Business Outcomes",
+        "rightDescription": "Every engagement starts with your desired outcome, then we reverse-engineer the technology to match. We stay until the results are proven.",
         "differentiators": [
           "Architecture-First Thinking - No Shortcuts",
           "Production-Grade AI, Not Demoware",
           "Measurable ROI Aligned To Your KPIs",
           "Embedded Tech Leads, Not Black-Box Vendors",
           "Scale From Startup To Enterprise"
-        ],
-        "headingLine1Accent": "look",
-        "headingLine1Prefix": "Why AI systems",
-        "headingLine1Suffix": "powerful",
-        "headingLine2Accent": "deliver",
-        "headingLine2Prefix": "but don't",
-        "headingLine2Suffix": "results",
-        "rightDescription": "Every engagement starts with your desired outcome, then we reverse-engineer the technology to match. We stay until the results are proven.",
-        "rightHeadingLine1": "We Don't Just Build Technology",
-        "rightHeadingLine2": "We Engineer Business Outcomes"
+        ]
+      },
+      "howDatabiqs": {
+        "headingPrefix": "How",
+        "headingAccent": "Databiqs",
+        "headingSuffix": "helps",
+        "description": "We move AI out of the lab and into production. Our strategic approach ensures that complex technological systems are architected for scale, deeply integrated into your workflows, and designed to deliver measurable business impact.",
+        "cards": [
+          {
+            "iconName": "search",
+            "title": "1. Audit",
+            "description": "Identifying bottlenecks in existing data pipelines and legacy systems to determine high-ROI AI integration points."
+          },
+          {
+            "iconName": "compass",
+            "title": "2. Architecture",
+            "description": "Designing resilient, scalable infrastructure that supports real-time processing and enterprise-grade security."
+          },
+          {
+            "iconName": "refresh",
+            "title": "3. Automation",
+            "description": "Operationalizing AI models within your business processes to eliminate manual work and drive continuous optimization."
+          }
+        ]
+      },
+      "testimonialsHeading": {
+        "headingPrefix": "Trusted by",
+        "headingAccent": "Forward-Thinking",
+        "headingSuffix": "Businesses",
+        "description": "Our Clients Partner With Us To Solve Complex Challenges, Streamline Operations, And Achieve Measurable Results Through Intelligent AI Solutions."
+      },
+      "finalCta": {
+        "title": "START YOUR TRANSFORMATION TODAY",
+        "subtitle": "Set up a 30-minute consultation call with our experts. No sales pitch, just engineering strategy.",
+        "ctaLabel": "Book a free 30-minute call",
+        "ctaTo": "/book-consultation"
       }
     },
     "styles": {
@@ -5657,421 +5657,153 @@
         "updatedAt": "2026-10-01T16:57:19.868Z"
       },
       "web-development": {
-        "slug": "web-development",
-        "title": "Custom Website Development Services",
+        "createdAt": "2026-10-10T00:31:09.790Z",
         "data": {
-          "meta": {
-            "documentTitle": "Web Development | Databiqs"
+          "blog": {
+            "allLabel": "All articles",
+            "allTo": "/blog-page",
+            "kicker": "From the blog",
+            "posts": [
+              {
+                "cover": "MVP timeline and cost",
+                "imageSrc": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
+                "linkLabel": "Read the guide",
+                "readTime": "9 min read",
+                "tag": "Full-stack",
+                "title": "MVP development: timeline and cost",
+                "to": "/blog/mvp-development-timeline-and-cost"
+              },
+              {
+                "cover": "hiring developers",
+                "imageSrc": "/service-web.png",
+                "linkLabel": "Read the guide",
+                "readTime": "8 min read",
+                "tag": "Hiring",
+                "title": "Hire full-stack developers or an agency?",
+                "to": "/blog/hire-full-stack-developers-or-an-agency"
+              },
+              {
+                "cover": "SaaS architecture",
+                "imageSrc": "/static/media/case-study-phase-execution.c1299ff83a610029aba5.jpg",
+                "linkLabel": "Read the guide",
+                "readTime": "10 min read",
+                "tag": "SaaS",
+                "title": "SaaS architecture for your first 1,000 customers",
+                "to": "/blog/saas-architecture-for-your-first-1000-customers"
+              }
+            ],
+            "title": "Guides and answers"
           },
-          "hiddenSections": [
-            "caseStudy",
-            "blog",
-            "longform"
-          ],
           "cardPreview": {
-            "icon": "layers",
-            "shortDescription": "Custom websites and web apps built on React and Next.js. Fast, SEO-ready and built to turn visitors into enquiries.",
             "features": [
               "Business Websites",
               "Web Apps",
               "Website Redesign"
-            ]
-          },
-          "hero": {
-            "kicker": "WEB DEVELOPMENT COMPANY",
-            "breadcrumbCurrent": "Web Development",
-            "title": "Custom Website Development Services",
-            "lead": "Fast, SEO-ready websites and web apps for startups and growing businesses. Senior developers design and build on React and Next.js, and you own 100% of the code.",
-            "primaryCtaLabel": "Book a Free 30-Min Consultation",
-            "primaryCtaTo": "/book-consultation",
-            "secondaryCtaLabel": "See case studies",
-            "secondaryCtaTo": "/case-studies",
-            "tags": [
-              "Business websites",
-              "Landing pages",
-              "Web apps",
-              "Website redesign",
-              "SEO-ready builds"
             ],
-            "glance": {
-              "statusLabel": "Taking new projects",
-              "rows": [
-                {
-                  "icon": "clock",
-                  "label": "MVP timeline",
-                  "value": "[8–12] weeks"
-                },
-                {
-                  "icon": "bolt",
-                  "label": "MVPs start from",
-                  "value": "USD [X]"
-                },
-                {
-                  "icon": "users",
-                  "label": "Engagement",
-                  "value": "Fixed price · Dedicated team"
-                },
-                {
-                  "icon": "shield",
-                  "label": "Confidentiality",
-                  "value": "NDA on request"
-                }
-              ],
-              "ctaLabel": "Get a Free Estimate"
-            }
-          },
-          "whatWeBuild": {
-            "kicker": "What we build",
-            "title": "From a fast business website to a full web app",
-            "side": "One senior team covers design, development, SEO basics and launch, so you don't have to manage several vendors.",
-            "cards": [
-              {
-                "icon": "layers",
-                "title": "Business websites",
-                "desc": "Fast, mobile-first company websites that explain what you do and turn visitors into enquiries."
-              },
-              {
-                "icon": "wrench",
-                "title": "Landing pages",
-                "desc": "Focused pages for ads and product launches, built to load fast and convert paid traffic."
-              },
-              {
-                "icon": "window",
-                "title": "Web applications",
-                "desc": "Customer portals, dashboards, booking systems and internal tools built on React and Node.js."
-              },
-              {
-                "icon": "plug",
-                "title": "Website redesign",
-                "desc": "Move an outdated or slow site to a modern stack, with redirects planned to protect your search rankings."
-              },
-              {
-                "icon": "users",
-                "title": "CMS & easy editing",
-                "desc": "Update text, pages and blog posts yourself through a simple admin panel, without calling a developer."
-              },
-              {
-                "icon": "cloud",
-                "title": "Speed & SEO built in",
-                "desc": "Clean code, fast load times, structured data and on-page SEO set up from day one."
-              }
-            ]
-          },
-          "whyDatabiqs": {
-            "kicker": "Why Databiqs",
-            "title": "Why businesses choose Databiqs as their web development company",
-            "cards": [
-              {
-                "icon": "wrench",
-                "title": "Senior developers",
-                "desc": "Experienced engineers design and build your site from start to finish."
-              },
-              {
-                "icon": "layers",
-                "title": "Design and build in one team",
-                "desc": "UI design, front end, back end and launch, with no hand-offs."
-              },
-              {
-                "icon": "users",
-                "title": "Built for speed and SEO",
-                "desc": "Fast, mobile-first pages that search engines can read and rank."
-              },
-              {
-                "icon": "code",
-                "title": "Clean code you own",
-                "desc": "Tested, documented code in your own repositories."
-              }
-            ]
-          },
-          "toc": {
-            "eyebrow": "On this page",
-            "items": [
-              {
-                "id": "fsd-end-to-end",
-                "label": "Full-stack development services, end to end"
-              },
-              {
-                "id": "fsd-timeline-cost",
-                "label": "MVP development: timeline and cost"
-              },
-              {
-                "id": "fsd-hire-team",
-                "label": "Hire full-stack developers or a dedicated development team"
-              },
-              {
-                "id": "fsd-react-stack",
-                "label": "React, Next.js and Node.js development"
-              }
-            ],
-            "cardTitle": "Need a quote?",
-            "cardDesc": "Free 30-minute call, fixed quote after.",
-            "cardCtaLabel": "Book a call",
-            "cardCtaTo": "/book-consultation"
-          },
-          "longform": [
-            {
-              "id": "fsd-end-to-end",
-              "title": "Web development services, end to end",
-              "paragraphs": [
-                "One team owns the whole website: design, front end, back end, hosting setup and launch. You get one point of contact and a clear plan from the first call.",
-                "We work in weekly sprints and show you working pages every week, so you can give feedback early and avoid surprises at launch."
-              ]
-            },
-            {
-              "id": "fsd-timeline-cost",
-              "title": "How much does a custom website cost?",
-              "paragraphs": [
-                "Cost depends on the number of pages, custom features and integrations. A focused business website costs far less than a web app with logins and payments. After a free 30-minute call we send a fixed quote, so you know the price before work starts."
-              ]
-            },
-            {
-              "id": "fsd-hire-team",
-              "title": "Website or web app: which do you need?",
-              "paragraphs": [
-                "A website explains your business and brings in enquiries. A web app lets users log in and get things done, like booking, paying or managing data. Many projects start as a website and add app features later."
-              ]
-            },
-            {
-              "id": "fsd-react-stack",
-              "title": "React and Next.js development",
-              "paragraphs": [
-                "We build on React and Next.js for fast page loads, strong SEO and easy scaling. For back ends and integrations we use Node.js, Python and PostgreSQL, hosted on AWS."
-              ]
-            }
-          ],
-          "process": {
-            "kicker": "How we work",
-            "title": "A clear process, with a demo every week",
-            "ctaLabel": "Book a Free 30-Min Consultation",
-            "ctaTo": "/book-consultation",
-            "steps": [
-              {
-                "num": "01",
-                "week": "Week 1",
-                "title": "Discovery",
-                "desc": "We map goals, users, scope and risks, then send a fixed quote and delivery plan."
-              },
-              {
-                "num": "02",
-                "week": "Weeks 2–3",
-                "title": "Design",
-                "desc": "Clickable wireframes and UI you review and approve before a line of code."
-              },
-              {
-                "num": "03",
-                "week": "Weeks 4–10",
-                "title": "Build",
-                "desc": "Senior engineers ship in weekly sprints, with a live demo every Friday."
-              },
-              {
-                "num": "04",
-                "week": "Ongoing",
-                "title": "Launch & support",
-                "desc": "We launch, monitor and hand over code, docs and accounts, all yours."
-              }
-            ]
-          },
-          "techStack": {
-            "kicker": "Tech stack",
-            "title": "Built on tools that scale",
-            "items": [
-              {
-                "name": "React",
-                "logoKey": "react"
-              },
-              {
-                "name": "Next.js",
-                "logoKey": "nextjs"
-              },
-              {
-                "name": "TypeScript",
-                "logoKey": "typescript"
-              },
-              {
-                "name": "Node.js",
-                "logoKey": "nodejs"
-              },
-              {
-                "name": "Python",
-                "logoKey": "python"
-              },
-              {
-                "name": "PostgreSQL",
-                "logoKey": "postgresql"
-              },
-              {
-                "name": "AWS",
-                "logoKey": "aws"
-              },
-              {
-                "name": "Docker",
-                "logoKey": "docker"
-              }
-            ]
+            "icon": "layers",
+            "shortDescription": "Custom websites and web apps built on React and Next.js. Fast, SEO-ready and built to turn visitors into enquiries."
           },
           "caseStudy": {
-            "kicker": "Featured case study",
-            "imageSrc": "",
-            "imageAlt": "Product screenshot of a SaaS MVP built by Databiqs full-stack team",
-            "projectName": "[Project name]",
-            "meta": "SaaS MVP · Next.js + Node.js",
-            "sub": "[Industry] company, [size], named with permission, or \"name withheld under NDA\".",
             "challengeLabel": "Challenge",
             "challengeText": "[The problem the client had, in one or two sentences.]",
-            "solutionLabel": "What we built",
-            "solutionText": "[The solution, stack and timeline.]",
+            "imageAlt": "Product screenshot of a SaaS MVP built by Databiqs full-stack team",
+            "imageSrc": "",
+            "kicker": "Featured case study",
+            "linkLabel": "Read the full case study",
+            "linkTo": "/case-studies",
+            "meta": "SaaS MVP · Next.js + Node.js",
+            "projectName": "[Project name]",
             "results": [
               {
-                "value": "[Result]",
-                "label": "e.g. first paying users"
+                "label": "e.g. first paying users",
+                "value": "[Result]"
               },
               {
-                "value": "[Result]",
-                "label": "e.g. launched in [X] weeks"
+                "label": "e.g. launched in [X] weeks",
+                "value": "[Result]"
               }
             ],
-            "linkLabel": "Read the full case study",
-            "linkTo": "/case-studies"
+            "solutionLabel": "What we built",
+            "solutionText": "[The solution, stack and timeline.]",
+            "sub": "[Industry] company, [size], named with permission, or \"name withheld under NDA\"."
           },
           "engagement": {
             "kicker": "Engagement models",
-            "title": "Pick how you want to work with us",
             "noteText": "Fixed price or dedicated team, you choose",
             "tiers": [
               {
-                "icon": "file",
-                "title": "Fixed-price project",
-                "desc": "A defined scope (website, MVP or chatbot) with a fixed quote after a free 30-minute call.",
                 "bullets": [
                   "Fixed scope and timeline",
                   "Weekly demos",
                   "Pay by milestone"
                 ],
+                "desc": "A defined scope (website, MVP or chatbot) with a fixed quote after a free 30-minute call.",
                 "highlight": false,
-                "tag": ""
+                "icon": "file",
+                "tag": "",
+                "title": "Fixed-price project"
               },
               {
-                "icon": "users",
-                "title": "Dedicated development team",
-                "desc": "Senior engineers who work only on your product, billed monthly. Scale up or down as you grow.",
                 "bullets": [
                   "Full-stack, AI or design roles",
                   "Works in your tools",
                   "Monthly billing"
                 ],
+                "desc": "Senior engineers who work only on your product, billed monthly. Scale up or down as you grow.",
                 "highlight": true,
-                "tag": "Scale with us"
+                "icon": "users",
+                "tag": "Scale with us",
+                "title": "Dedicated development team"
               },
               {
-                "icon": "clock",
-                "title": "Hourly",
-                "desc": "For audits, small changes, integrations and ongoing support after launch.",
                 "bullets": [
                   "No minimum commitment",
                   "Transparent time logs",
                   "Senior engineers only"
                 ],
+                "desc": "For audits, small changes, integrations and ongoing support after launch.",
                 "highlight": false,
-                "tag": ""
+                "icon": "clock",
+                "tag": "",
+                "title": "Hourly"
               }
-            ]
+            ],
+            "title": "Pick how you want to work with us"
           },
           "faq": {
-            "kicker": "FAQ",
-            "title": "Questions, answered",
-            "lead": "Still have a question? Ask us directly on a free 30-minute call.",
             "ctaLabel": "Book a Free 30-Min Consultation",
             "ctaTo": "/book-consultation",
             "items": [
               {
-                "question": "How much does a custom website cost?",
-                "answer": "It depends on the number of pages, custom features and integrations. You get a fixed quote after a free 30-minute call, before any work starts."
+                "answer": "It depends on the number of pages, custom features and integrations. You get a fixed quote after a free 30-minute call, before any work starts.",
+                "question": "How much does a custom website cost?"
               },
               {
-                "question": "Can I hire full-stack developers or React developers monthly?",
-                "answer": "Yes. Our dedicated-team model lets you bring on full-stack, React or Node.js developers who work only on your product, billed monthly with no long-term lock-in."
+                "answer": "Yes. Our dedicated-team model lets you bring on full-stack, React or Node.js developers who work only on your product, billed monthly with no long-term lock-in.",
+                "question": "Can I hire full-stack developers or React developers monthly?"
               },
               {
-                "question": "How fast can you start?",
-                "answer": "Most engagements kick off within [1–2] weeks of the discovery call, once scope and the delivery plan are signed off."
+                "answer": "Most engagements kick off within [1–2] weeks of the discovery call, once scope and the delivery plan are signed off.",
+                "question": "How fast can you start?"
               },
               {
-                "question": "Fixed price or dedicated team: which is right for me?",
-                "answer": "Choose fixed price for a clearly scoped first version. Choose a dedicated team if your product will keep evolving after launch and you want the same engineers to stay on."
+                "answer": "Choose fixed price for a clearly scoped first version. Choose a dedicated team if your product will keep evolving after launch and you want the same engineers to stay on.",
+                "question": "Fixed price or dedicated team: which is right for me?"
               },
               {
-                "question": "Who owns the code?",
-                "answer": "You do. All code, documentation and infrastructure accounts are handed over and live in your own repositories from day one."
+                "answer": "You do. All code, documentation and infrastructure accounts are handed over and live in your own repositories from day one.",
+                "question": "Who owns the code?"
               },
               {
-                "question": "Which time zones do you work with?",
-                "answer": "We run weekly demos and daily async updates that overlap with US, UK and EU business hours, whichever suits your team."
+                "answer": "We run weekly demos and daily async updates that overlap with US, UK and EU business hours, whichever suits your team.",
+                "question": "Which time zones do you work with?"
               }
-            ]
-          },
-          "related": {
-            "kicker": "Related services",
-            "title": "Explore more ways we can help",
-            "items": [
-              {
-                "icon": "globe",
-                "title": "Web Development",
-                "desc": "Custom websites and web apps",
-                "to": "/services/web-development"
-              },
-              {
-                "icon": "chip",
-                "title": "AI Development",
-                "desc": "Chatbots, agents and automation",
-                "to": "/services/ai-automation"
-              },
-              {
-                "icon": "calendar",
-                "title": "Free consultation",
-                "desc": "30 minutes with a senior engineer",
-                "to": "/book-consultation"
-              }
-            ]
-          },
-          "blog": {
-            "kicker": "From the blog",
-            "title": "Guides and answers",
-            "allLabel": "All articles",
-            "allTo": "/blog-page",
-            "posts": [
-              {
-                "tag": "Full-stack",
-                "cover": "MVP timeline and cost",
-                "imageSrc": "/static/media/case-study-phase-prediction.bc880ea7be44a810c07b.jpg",
-                "title": "MVP development: timeline and cost",
-                "to": "/blog/mvp-development-timeline-and-cost",
-                "readTime": "9 min read",
-                "linkLabel": "Read the guide"
-              },
-              {
-                "tag": "Hiring",
-                "cover": "hiring developers",
-                "imageSrc": "/service-web.png",
-                "title": "Hire full-stack developers or an agency?",
-                "to": "/blog/hire-full-stack-developers-or-an-agency",
-                "readTime": "8 min read",
-                "linkLabel": "Read the guide"
-              },
-              {
-                "tag": "SaaS",
-                "cover": "SaaS architecture",
-                "imageSrc": "/static/media/case-study-phase-execution.c1299ff83a610029aba5.jpg",
-                "title": "SaaS architecture for your first 1,000 customers",
-                "to": "/blog/saas-architecture-for-your-first-1000-customers",
-                "readTime": "10 min read",
-                "linkLabel": "Read the guide"
-              }
-            ]
+            ],
+            "kicker": "FAQ",
+            "lead": "Still have a question? Ask us directly on a free 30-minute call.",
+            "title": "Questions, answered"
           },
           "finalCta": {
-            "kicker": "Start a project",
-            "title": "Plan your website or web app with us",
-            "lead": "Share a few details and a senior engineer will reply within 24 hours.",
             "bullets": [
               "Fixed quote after a free 30-minute call",
               "NDA on request",
@@ -6079,44 +5811,38 @@
             ],
             "form": {
               "badgeText": "Senior engineer reviews every request",
-              "title": "Get a free project estimate",
-              "sub": "Tell us a little about your project. We reply within 24 hours.",
-              "submitLabel": "Get my free estimate",
-              "privacyText": "Your details stay confidential and are never shared or sold. NDA available on request.",
               "fields": [
                 {
                   "key": "fullName",
-                  "type": "text",
                   "label": "Full name",
                   "placeholder": "Jane Smith",
-                  "required": true
+                  "required": true,
+                  "type": "text"
                 },
                 {
                   "key": "email",
-                  "type": "email",
                   "label": "Work email",
                   "placeholder": "jane@company.com",
-                  "required": true
+                  "required": true,
+                  "type": "email"
                 },
                 {
                   "key": "company",
-                  "type": "text",
                   "label": "Company name",
                   "placeholder": "Company Inc.",
-                  "required": false
+                  "required": false,
+                  "type": "text"
                 },
                 {
                   "key": "phone",
-                  "type": "tel",
                   "label": "Phone number",
                   "placeholder": "+1 555 000 0000",
-                  "required": false
+                  "required": false,
+                  "type": "tel"
                 },
                 {
                   "key": "services",
-                  "type": "select",
                   "label": "Services",
-                  "required": false,
                   "options": [
                     {
                       "label": "Full-Stack & SaaS Development",
@@ -6159,17 +5885,291 @@
                       "value": "Not sure yet"
                     },
                     {
-                      "value": "option-11",
-                      "label": "Not sure yet"
+                      "label": "Not sure yet",
+                      "value": "option-11"
                     }
-                  ]
+                  ],
+                  "required": false,
+                  "type": "select"
                 }
-              ]
+              ],
+              "privacyText": "Your details stay confidential and are never shared or sold. NDA available on request.",
+              "sub": "Tell us a little about your project. We reply within 24 hours.",
+              "submitLabel": "Get my free estimate",
+              "title": "Get a free project estimate"
+            },
+            "kicker": "Start a project",
+            "lead": "Share a few details and a senior engineer will reply within 24 hours.",
+            "title": "Plan your website or web app with us"
+          },
+          "hero": {
+            "breadcrumbCurrent": "Web Development",
+            "glance": {
+              "ctaLabel": "Get a Free Estimate",
+              "rows": [
+                {
+                  "icon": "clock",
+                  "label": "MVP timeline",
+                  "value": "[8–12] weeks"
+                },
+                {
+                  "icon": "bolt",
+                  "label": "MVPs start from",
+                  "value": "USD [X]"
+                },
+                {
+                  "icon": "users",
+                  "label": "Engagement",
+                  "value": "Fixed price · Dedicated team"
+                },
+                {
+                  "icon": "shield",
+                  "label": "Confidentiality",
+                  "value": "NDA on request"
+                }
+              ],
+              "statusLabel": "Taking new projects"
+            },
+            "kicker": "WEB DEVELOPMENT COMPANY",
+            "lead": "Fast, SEO-ready websites and web apps for startups and growing businesses. Senior developers design and build on React and Next.js, and you own 100% of the code.",
+            "primaryCtaLabel": "Book a Free 30-Min Consultation",
+            "primaryCtaTo": "/book-consultation",
+            "secondaryCtaLabel": "See case studies",
+            "secondaryCtaTo": "/case-studies",
+            "tags": [
+              "Business websites",
+              "Landing pages",
+              "Web apps",
+              "Website redesign",
+              "SEO-ready builds"
+            ],
+            "title": "Custom Website Development Services"
+          },
+          "hiddenSections": [
+            "caseStudy",
+            "blog",
+            "longform"
+          ],
+          "longform": [
+            {
+              "id": "fsd-end-to-end",
+              "paragraphs": [
+                "One team owns the whole website: design, front end, back end, hosting setup and launch. You get one point of contact and a clear plan from the first call.",
+                "We work in weekly sprints and show you working pages every week, so you can give feedback early and avoid surprises at launch."
+              ],
+              "title": "Web development services, end to end"
+            },
+            {
+              "id": "fsd-timeline-cost",
+              "paragraphs": [
+                "Cost depends on the number of pages, custom features and integrations. A focused business website costs far less than a web app with logins and payments. After a free 30-minute call we send a fixed quote, so you know the price before work starts."
+              ],
+              "title": "How much does a custom website cost?"
+            },
+            {
+              "id": "fsd-hire-team",
+              "paragraphs": [
+                "A website explains your business and brings in enquiries. A web app lets users log in and get things done, like booking, paying or managing data. Many projects start as a website and add app features later."
+              ],
+              "title": "Website or web app: which do you need?"
+            },
+            {
+              "id": "fsd-react-stack",
+              "paragraphs": [
+                "We build on React and Next.js for fast page loads, strong SEO and easy scaling. For back ends and integrations we use Node.js, Python and PostgreSQL, hosted on AWS."
+              ],
+              "title": "React and Next.js development"
             }
+          ],
+          "meta": {
+            "documentTitle": "Web Development | Databiqs"
+          },
+          "process": {
+            "ctaLabel": "Book a Free 30-Min Consultation",
+            "ctaTo": "/book-consultation",
+            "kicker": "How we work",
+            "steps": [
+              {
+                "desc": "We map goals, users, scope and risks, then send a fixed quote and delivery plan.",
+                "num": "01",
+                "title": "Discovery",
+                "week": "Week 1"
+              },
+              {
+                "desc": "Clickable wireframes and UI you review and approve before a line of code.",
+                "num": "02",
+                "title": "Design",
+                "week": "Weeks 2–3"
+              },
+              {
+                "desc": "Senior engineers ship in weekly sprints, with a live demo every Friday.",
+                "num": "03",
+                "title": "Build",
+                "week": "Weeks 4–10"
+              },
+              {
+                "desc": "We launch, monitor and hand over code, docs and accounts, all yours.",
+                "num": "04",
+                "title": "Launch & support",
+                "week": "Ongoing"
+              }
+            ],
+            "title": "A clear process, with a demo every week"
+          },
+          "related": {
+            "items": [
+              {
+                "desc": "Custom websites and web apps",
+                "icon": "globe",
+                "title": "Web Development",
+                "to": "/services/web-development"
+              },
+              {
+                "desc": "Chatbots, agents and automation",
+                "icon": "chip",
+                "title": "AI Development",
+                "to": "/services/ai-automation"
+              },
+              {
+                "desc": "30 minutes with a senior engineer",
+                "icon": "calendar",
+                "title": "Free consultation",
+                "to": "/book-consultation"
+              }
+            ],
+            "kicker": "Related services",
+            "title": "Explore more ways we can help"
+          },
+          "techStack": {
+            "items": [
+              {
+                "logoKey": "react",
+                "name": "React"
+              },
+              {
+                "logoKey": "nextjs",
+                "name": "Next.js"
+              },
+              {
+                "logoKey": "typescript",
+                "name": "TypeScript"
+              },
+              {
+                "logoKey": "nodejs",
+                "name": "Node.js"
+              },
+              {
+                "logoKey": "python",
+                "name": "Python"
+              },
+              {
+                "logoKey": "postgresql",
+                "name": "PostgreSQL"
+              },
+              {
+                "logoKey": "aws",
+                "name": "AWS"
+              },
+              {
+                "logoKey": "docker",
+                "name": "Docker"
+              }
+            ],
+            "kicker": "Tech stack",
+            "title": "Built on tools that scale"
+          },
+          "toc": {
+            "cardCtaLabel": "Book a call",
+            "cardCtaTo": "/book-consultation",
+            "cardDesc": "Free 30-minute call, fixed quote after.",
+            "cardTitle": "Need a quote?",
+            "eyebrow": "On this page",
+            "items": [
+              {
+                "id": "fsd-end-to-end",
+                "label": "Full-stack development services, end to end"
+              },
+              {
+                "id": "fsd-timeline-cost",
+                "label": "MVP development: timeline and cost"
+              },
+              {
+                "id": "fsd-hire-team",
+                "label": "Hire full-stack developers or a dedicated development team"
+              },
+              {
+                "id": "fsd-react-stack",
+                "label": "React, Next.js and Node.js development"
+              }
+            ]
+          },
+          "whatWeBuild": {
+            "cards": [
+              {
+                "desc": "Fast, mobile-first company websites that explain what you do and turn visitors into enquiries.",
+                "icon": "layers",
+                "title": "Business websites"
+              },
+              {
+                "desc": "Focused pages for ads and product launches, built to load fast and convert paid traffic.",
+                "icon": "wrench",
+                "title": "Landing pages"
+              },
+              {
+                "desc": "Customer portals, dashboards, booking systems and internal tools built on React and Node.js.",
+                "icon": "window",
+                "title": "Web applications"
+              },
+              {
+                "desc": "Move an outdated or slow site to a modern stack, with redirects planned to protect your search rankings.",
+                "icon": "plug",
+                "title": "Website redesign"
+              },
+              {
+                "desc": "Update text, pages and blog posts yourself through a simple admin panel, without calling a developer.",
+                "icon": "users",
+                "title": "CMS & easy editing"
+              },
+              {
+                "desc": "Clean code, fast load times, structured data and on-page SEO set up from day one.",
+                "icon": "cloud",
+                "title": "Speed & SEO built in"
+              }
+            ],
+            "kicker": "What we build",
+            "side": "One senior team covers design, development, SEO basics and launch, so you don't have to manage several vendors.",
+            "title": "From a fast business website to a full web app"
+          },
+          "whyDatabiqs": {
+            "cards": [
+              {
+                "desc": "Experienced engineers design and build your site from start to finish.",
+                "icon": "wrench",
+                "title": "Senior developers"
+              },
+              {
+                "desc": "UI design, front end, back end and launch, with no hand-offs.",
+                "icon": "layers",
+                "title": "Design and build in one team"
+              },
+              {
+                "desc": "Fast, mobile-first pages that search engines can read and rank.",
+                "icon": "users",
+                "title": "Built for speed and SEO"
+              },
+              {
+                "desc": "Tested, documented code in your own repositories.",
+                "icon": "code",
+                "title": "Clean code you own"
+              }
+            ],
+            "kicker": "Why Databiqs",
+            "title": "Why businesses choose Databiqs as their web development company"
           }
         },
+        "slug": "web-development",
         "styles": {},
-        "createdAt": "2026-10-10T00:31:09.790Z",
+        "title": "Custom Website Development Services",
         "updatedAt": "2026-10-10T00:44:51.843Z"
       }
     }
@@ -6978,5 +6978,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-10T00:44:53.055Z"
+  "updatedAt": "2026-10-10T00:46:14.944Z"
 }
