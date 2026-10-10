@@ -2874,7 +2874,7 @@
       "hiddenSections": [],
       "hero": {
         "titleLine1": "AI & Full-Stack",
-        "titleAccent": "Solutions",
+        "titleAccent": "Development",
         "titleLine2": "Built to Scale",
         "titleLine3": "Your Business",
         "description": "Databiqs is an AI development company and full-stack development company. We design and build AI solutions, custom websites and web apps for startups and growing businesses with fixed timelines, senior engineers and clear pricing.",
@@ -2909,7 +2909,7 @@
         "headingPrefix": "What Kind of",
         "headingAccent": "Solution",
         "headingSuffix": "Do You Need?",
-        "subheading": "Assemble your ideal team with top-tier professionals who are passionate about turning your AI vision into production reality. Whether you're seeking Machine Learning engineers, AI strategists, or enterprise system architects, we have the specialized talent to match your project's technical requirements.",
+        "subheading": "Tell us what you're building. We'll match you with the right team (AI engineers, full-stack developers or product designers) and ship it in weeks, not quarters.",
         "ctaLabel": "View Details",
         "options": [
           {
@@ -6456,5 +6456,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-10T00:24:24.783Z"
+  "updatedAt": "2026-10-10T00:24:55.066Z"
 }
