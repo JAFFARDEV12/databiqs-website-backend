@@ -3179,8 +3179,8 @@
       {
         "createdAt": "2026-10-01T16:57:19.868Z",
         "slug": "ai-consulting",
-        "title": "AI Consulting",
-        "updatedAt": "2026-10-01T16:57:19.868Z"
+        "title": "Align AI Investments With Measurable Outcomes",
+        "updatedAt": "2026-10-10T00:55:48.834Z"
       },
       {
         "createdAt": "2026-10-10T00:31:09.790Z",
@@ -4181,153 +4181,392 @@
         "updatedAt": "2026-10-10T00:54:54.137Z"
       },
       "ai-consulting": {
-        "createdAt": "2026-10-01T16:57:19.868Z",
+        "slug": "ai-consulting",
+        "title": "Align AI Investments With Measurable Outcomes",
         "data": {
-          "blog": {
-            "allLabel": "All articles",
-            "allTo": "/blog-page",
-            "kicker": "From the blog",
-            "posts": [
-              {
-                "cover": "AI readiness",
-                "imageSrc": "/hero-graphic.png",
-                "linkLabel": "Read the guide",
-                "readTime": "9 min read",
-                "tag": "Strategy",
-                "title": "How to run an AI readiness assessment",
-                "to": "/blog/how-to-run-an-ai-readiness-assessment"
-              },
-              {
-                "cover": "prioritization",
-                "imageSrc": "/uploads/fe06f726959d469391a46c2c6f56921c-analytics_dashboard.png",
-                "linkLabel": "Read the guide",
-                "readTime": "8 min read",
-                "tag": "ROI",
-                "title": "Prioritizing AI use cases by ROI",
-                "to": "/blog/prioritizing-ai-use-cases-by-roi"
-              },
-              {
-                "cover": "AI policy",
-                "imageSrc": "/uploads/2a7c51a6d0774bacb603c6eca4fb3fc6-abstract_ai.png",
-                "linkLabel": "Read the guide",
-                "readTime": "8 min read",
-                "tag": "Governance",
-                "title": "AI governance basics for growing teams",
-                "to": "/blog/ai-governance-basics-for-growing-teams"
-              }
-            ],
-            "title": "Guides and answers"
+          "meta": {
+            "documentTitle": "AI Consulting Services | Databiqs"
           },
+          "hiddenSections": [],
           "cardPreview": {
+            "icon": "compass",
+            "shortDescription": "Comprehensive roadmaps for AI adoption. We assess readiness, identify high-impact use cases, and architect scalable solutions.",
             "features": [
               "Roadmap Planning",
               "ROI Analysis",
               "Implementation Support"
-            ],
-            "icon": "compass",
-            "shortDescription": "Comprehensive roadmaps for AI adoption. We assess readiness, identify high-impact use cases, and architect scalable solutions."
+            ]
           },
-          "caseStudy": {
-            "challengeLabel": "Challenge",
-            "challengeText": "Leadership wanted to invest in AI but had dozens of ideas, no clear priorities and no view of whether their data was ready.",
-            "imageAlt": "AI Readiness & Roadmap assessment report summary",
-            "imageSrc": "/uploads/91d96e313f4a4f31a48838765ba26411-5-ai-consulting-readiness-report.png",
-            "kicker": "Featured case study",
-            "linkLabel": "Read the full case study",
-            "linkTo": "/case-studies",
-            "meta": "AI Consulting · Assessment + Roadmap",
-            "projectName": "AI Readiness & Roadmap",
-            "results": [
+          "hero": {
+            "kicker": "Strategic AI Advisory",
+            "breadcrumbCurrent": "AI Consulting",
+            "title": "Align AI Investments With Measurable Outcomes",
+            "lead": "Comprehensive roadmaps for AI adoption. We assess readiness, identify high-impact use cases, and architect scalable solutions — connecting technical feasibility, organizational readiness and ROI into a practical transformation roadmap.",
+            "primaryCtaLabel": "Book a Free 30-Min Consultation",
+            "primaryCtaTo": "/book-consultation",
+            "secondaryCtaLabel": "See case studies",
+            "secondaryCtaTo": "/case-studies",
+            "tags": [
+              "Roadmap Planning",
+              "ROI Analysis",
+              "Implementation Support",
+              "Readiness Assessment",
+              "Governance"
+            ],
+            "glance": {
+              "statusLabel": "Taking new engagements",
+              "rows": [
+                {
+                  "icon": "clock",
+                  "label": "Roadmap timeline",
+                  "value": "[2–4] weeks"
+                },
+                {
+                  "icon": "users",
+                  "label": "Engagement",
+                  "value": "Fixed scope · Advisory retainer"
+                },
+                {
+                  "icon": "shield",
+                  "label": "Confidentiality",
+                  "value": "NDA on request"
+                }
+              ],
+              "ctaLabel": "Get a Free Estimate"
+            }
+          },
+          "whatWeBuild": {
+            "kicker": "What we deliver",
+            "title": "A practical roadmap, not a slide deck",
+            "side": "One team connects technical feasibility, readiness and ROI into a plan you can execute.",
+            "cards": [
               {
-                "label": "use cases assessed and scored",
-                "value": "14"
+                "icon": "compass",
+                "title": "Roadmap planning",
+                "desc": "A phased plan with clear milestones and ownership."
               },
               {
-                "label": "payback on the first priority project",
-                "value": "4-month"
+                "icon": "target",
+                "title": "ROI analysis",
+                "desc": "Prioritize use cases by impact, complexity and time-to-value."
+              },
+              {
+                "icon": "wrench",
+                "title": "Implementation support",
+                "desc": "Hands-on help turning the roadmap into shipped systems."
+              },
+              {
+                "icon": "search",
+                "title": "Readiness assessment",
+                "desc": "An honest look at your data, tooling, teams and governance."
+              },
+              {
+                "icon": "shieldCheck",
+                "title": "Governance & policy",
+                "desc": "Guardrails that de-risk AI initiatives as they scale."
+              },
+              {
+                "icon": "lightbulb",
+                "title": "Executive workshops",
+                "desc": "Align leadership and stakeholders on priorities and constraints."
+              }
+            ]
+          },
+          "whyDatabiqs": {
+            "kicker": "Why Databiqs",
+            "title": "Why leadership teams choose Databiqs for AI strategy",
+            "cards": [
+              {
+                "icon": "compass",
+                "title": "Practical, not theoretical",
+                "desc": "Every recommendation is grounded in what we can actually build."
+              },
+              {
+                "icon": "layers",
+                "title": "Strategy and delivery, one team",
+                "desc": "The team that advises you can also build it — no hand-off risk."
+              },
+              {
+                "icon": "users",
+                "title": "Built for your organization",
+                "desc": "Roadmaps shaped by your data, teams and constraints, not generic playbooks."
+              },
+              {
+                "icon": "shieldCheck",
+                "title": "De-risked by design",
+                "desc": "Architecture, policy and operating-model clarity before you invest."
+              }
+            ]
+          },
+          "toc": {
+            "eyebrow": "On this page",
+            "items": [
+              {
+                "id": "con-end-to-end",
+                "label": "AI consulting services, end to end"
+              },
+              {
+                "id": "con-timeline-cost",
+                "label": "AI roadmap: timeline and cost"
+              },
+              {
+                "id": "con-engagement-model",
+                "label": "Fixed-scope roadmap or an ongoing advisory retainer"
+              },
+              {
+                "id": "con-readiness",
+                "label": "Readiness assessment: data, tooling, teams, governance"
               }
             ],
+            "cardTitle": "Need a quote?",
+            "cardDesc": "Free 30-minute call, fixed quote after.",
+            "cardCtaLabel": "Book a call",
+            "cardCtaTo": "/book-consultation"
+          },
+          "longform": [
+            {
+              "id": "con-end-to-end",
+              "title": "AI consulting services, end to end",
+              "paragraphs": [
+                "We help leadership teams prioritize where AI creates the most value, then connect that priority list to a phased delivery plan with clear milestones and governance.",
+                "Because the same team can also build what we recommend, the roadmap stays grounded in what is technically and organizationally realistic — not a wishlist."
+              ]
+            },
+            {
+              "id": "con-timeline-cost",
+              "title": "AI roadmap: timeline and cost",
+              "paragraphs": [
+                "A focused readiness assessment and roadmap typically takes 2–4 weeks, with cost depending on the number of stakeholders and use cases evaluated."
+              ]
+            },
+            {
+              "id": "con-engagement-model",
+              "title": "Fixed-scope roadmap or an ongoing advisory retainer",
+              "paragraphs": [
+                "A fixed-scope engagement suits a one-time strategic review. An advisory retainer suits organizations that want continued guidance as they execute and new opportunities emerge."
+              ]
+            },
+            {
+              "id": "con-readiness",
+              "title": "Readiness assessment: data, tooling, teams, governance",
+              "paragraphs": [
+                "We assess data quality and availability, existing tooling, team capability and governance maturity — the four things that most often determine whether an AI initiative actually ships."
+              ]
+            }
+          ],
+          "process": {
+            "kicker": "How we work",
+            "title": "A clear process, with milestones you can see",
+            "ctaLabel": "Book a Free 30-Min Consultation",
+            "ctaTo": "/book-consultation",
+            "steps": [
+              {
+                "num": "01",
+                "week": "Week 1",
+                "title": "Executive workshops",
+                "desc": "Define priorities, constraints and success metrics with stakeholders."
+              },
+              {
+                "num": "02",
+                "week": "Weeks 2–3",
+                "title": "Readiness assessment",
+                "desc": "Evaluate data, tooling, teams and governance maturity."
+              },
+              {
+                "num": "03",
+                "week": "Week 4",
+                "title": "Roadmap delivery",
+                "desc": "A phased implementation plan with milestones and ownership."
+              },
+              {
+                "num": "04",
+                "week": "Ongoing",
+                "title": "Implementation support",
+                "desc": "Hands-on help turning the roadmap into shipped systems."
+              }
+            ]
+          },
+          "techStack": {
+            "kicker": "Tooling we assess and recommend on",
+            "title": "Technology-agnostic, outcome-driven",
+            "items": [
+              {
+                "name": "Python",
+                "logoKey": "python"
+              },
+              {
+                "name": "AWS",
+                "logoKey": "aws"
+              },
+              {
+                "name": "Docker",
+                "logoKey": "docker"
+              }
+            ]
+          },
+          "caseStudy": {
+            "kicker": "Featured case study",
+            "imageSrc": "/uploads/91d96e313f4a4f31a48838765ba26411-5-ai-consulting-readiness-report.png",
+            "imageAlt": "AI Readiness & Roadmap assessment report summary",
+            "projectName": "AI Readiness & Roadmap",
+            "meta": "AI Consulting · Assessment + Roadmap",
+            "sub": "Mid-size manufacturer, 500 employees, name withheld under NDA.",
+            "challengeLabel": "Challenge",
+            "challengeText": "Leadership wanted to invest in AI but had dozens of ideas, no clear priorities and no view of whether their data was ready.",
             "solutionLabel": "What we delivered",
             "solutionText": "A 6-week assessment covering data, infrastructure, skills and governance, a prioritized list of use cases scored on impact vs effort, and a 12-month roadmap with ROI estimates for each.",
-            "sub": "Mid-size manufacturer, 500 employees, name withheld under NDA."
+            "results": [
+              {
+                "value": "14",
+                "label": "use cases assessed and scored"
+              },
+              {
+                "value": "4-month",
+                "label": "payback on the first priority project"
+              }
+            ],
+            "linkLabel": "Read the full case study",
+            "linkTo": "/case-studies"
           },
           "engagement": {
             "kicker": "Engagement models",
+            "title": "Pick how you want to work with us",
             "noteText": "Fixed price or dedicated team, you choose",
             "tiers": [
               {
+                "icon": "file",
+                "title": "Fixed-scope roadmap",
+                "desc": "A one-time readiness assessment and roadmap with a fixed quote.",
                 "bullets": [
                   "Fixed scope and timeline",
                   "Executive workshops included",
                   "Pay by milestone"
                 ],
-                "desc": "A one-time readiness assessment and roadmap with a fixed quote.",
                 "highlight": false,
-                "icon": "file",
-                "tag": "",
-                "title": "Fixed-scope roadmap"
+                "tag": ""
               },
               {
+                "icon": "users",
+                "title": "Advisory retainer",
+                "desc": "Ongoing strategic guidance as you execute the roadmap, billed monthly.",
                 "bullets": [
                   "Continued prioritization",
                   "Works with your leadership team",
                   "Monthly billing"
                 ],
-                "desc": "Ongoing strategic guidance as you execute the roadmap, billed monthly.",
                 "highlight": true,
-                "icon": "users",
-                "tag": "Scale with us",
-                "title": "Advisory retainer"
+                "tag": "Scale with us"
               },
               {
+                "icon": "clock",
+                "title": "Hourly",
+                "desc": "For one-off workshops, reviews and second opinions.",
                 "bullets": [
                   "No minimum commitment",
                   "Transparent time logs",
                   "Senior advisors only"
                 ],
-                "desc": "For one-off workshops, reviews and second opinions.",
                 "highlight": false,
-                "icon": "clock",
-                "tag": "",
-                "title": "Hourly"
+                "tag": ""
               }
-            ],
-            "title": "Pick how you want to work with us"
+            ]
           },
           "faq": {
+            "kicker": "FAQ",
+            "title": "Questions, answered",
+            "lead": "Still have a question? Ask us directly on a free 30-minute call.",
             "ctaLabel": "Book a Free 30-Min Consultation",
             "ctaTo": "/book-consultation",
             "items": [
               {
-                "answer": "Cost depends on the scope of the assessment and number of stakeholders involved, there's no one-size price. You get a fixed quote after a free call, once we've scoped exactly what you need.",
-                "question": "How much does an AI roadmap cost?"
+                "question": "How much does an AI roadmap cost?",
+                "answer": "Cost depends on the scope of the assessment and number of stakeholders involved, there's no one-size price. You get a fixed quote after a free call, once we've scoped exactly what you need."
               },
               {
-                "answer": "Yes — the same team can implement the roadmap, or support your internal team through implementation.",
-                "question": "Can you also build what you recommend?"
+                "question": "Can you also build what you recommend?",
+                "answer": "Yes — the same team can implement the roadmap, or support your internal team through implementation."
               },
               {
-                "answer": "Most engagements kick off within [1–2] weeks of the discovery call, once scope and stakeholders are confirmed.",
-                "question": "How fast can you start?"
+                "question": "How fast can you start?",
+                "answer": "Most engagements kick off within [1–2] weeks of the discovery call, once scope and stakeholders are confirmed."
               },
               {
-                "answer": "Choose a fixed-scope roadmap for a one-time strategic review. Choose a retainer if you want continued guidance through execution.",
-                "question": "Fixed scope or retainer — which is right for me?"
+                "question": "Fixed scope or retainer — which is right for me?",
+                "answer": "Choose a fixed-scope roadmap for a one-time strategic review. Choose a retainer if you want continued guidance through execution."
               },
               {
-                "answer": "Yes — our recommendations are technology-agnostic and work with the tools and vendors you already use where it makes sense.",
-                "question": "Do you work with our existing tools and vendors?"
+                "question": "Do you work with our existing tools and vendors?",
+                "answer": "Yes — our recommendations are technology-agnostic and work with the tools and vendors you already use where it makes sense."
               },
               {
-                "answer": "You do. All deliverables, documentation and findings are handed over and are yours to keep and act on.",
-                "question": "Who owns the roadmap and findings?"
+                "question": "Who owns the roadmap and findings?",
+                "answer": "You do. All deliverables, documentation and findings are handed over and are yours to keep and act on."
               }
-            ],
-            "kicker": "FAQ",
-            "lead": "Still have a question? Ask us directly on a free 30-minute call.",
-            "title": "Questions, answered"
+            ]
+          },
+          "related": {
+            "kicker": "Related services",
+            "title": "Explore more ways we can help",
+            "items": [
+              {
+                "icon": "chip",
+                "title": "Machine Learning",
+                "desc": "Predictive models trained on your data",
+                "to": "/services/machine-learning"
+              },
+              {
+                "icon": "workflow",
+                "title": "AI Automation",
+                "desc": "Workflow orchestration and process automation",
+                "to": "/services/ai-automation"
+              },
+              {
+                "icon": "calendar",
+                "title": "Free consultation",
+                "desc": "30 minutes with a senior engineer",
+                "to": "/book-consultation"
+              }
+            ]
+          },
+          "blog": {
+            "kicker": "From the blog",
+            "title": "Guides and answers",
+            "allLabel": "All articles",
+            "allTo": "/blog-page",
+            "posts": [
+              {
+                "tag": "Strategy",
+                "cover": "AI readiness",
+                "imageSrc": "/hero-graphic.png",
+                "title": "How to run an AI readiness assessment",
+                "to": "/blog/how-to-run-an-ai-readiness-assessment",
+                "readTime": "9 min read",
+                "linkLabel": "Read the guide"
+              },
+              {
+                "tag": "ROI",
+                "cover": "prioritization",
+                "imageSrc": "/uploads/fe06f726959d469391a46c2c6f56921c-analytics_dashboard.png",
+                "title": "Prioritizing AI use cases by ROI",
+                "to": "/blog/prioritizing-ai-use-cases-by-roi",
+                "readTime": "8 min read",
+                "linkLabel": "Read the guide"
+              },
+              {
+                "tag": "Governance",
+                "cover": "AI policy",
+                "imageSrc": "/uploads/2a7c51a6d0774bacb603c6eca4fb3fc6-abstract_ai.png",
+                "title": "AI governance basics for growing teams",
+                "to": "/blog/ai-governance-basics-for-growing-teams",
+                "readTime": "8 min read",
+                "linkLabel": "Read the guide"
+              }
+            ]
           },
           "finalCta": {
+            "kicker": "Start a project",
+            "title": "Plan your AI roadmap with us",
+            "lead": "Share a few details and a senior advisor will reply within 24 hours.",
             "bullets": [
               "Fixed quote after a free 30-minute call",
               "NDA on request",
@@ -4335,38 +4574,44 @@
             ],
             "form": {
               "badgeText": "Senior advisor reviews every request",
+              "title": "Get a free roadmap estimate",
+              "sub": "Tell us a little about your goals. We reply within 24 hours.",
+              "submitLabel": "Get my free estimate",
+              "privacyText": "Your details stay confidential and are never shared or sold. NDA available on request.",
               "fields": [
                 {
                   "key": "fullName",
+                  "type": "text",
                   "label": "Full name",
                   "placeholder": "Jane Smith",
-                  "required": true,
-                  "type": "text"
+                  "required": true
                 },
                 {
                   "key": "email",
+                  "type": "email",
                   "label": "Work email",
                   "placeholder": "jane@company.com",
-                  "required": true,
-                  "type": "email"
+                  "required": true
                 },
                 {
                   "key": "company",
+                  "type": "text",
                   "label": "Company name",
                   "placeholder": "Company Inc.",
-                  "required": false,
-                  "type": "text"
+                  "required": false
                 },
                 {
                   "key": "phone",
+                  "type": "tel",
                   "label": "Phone number",
                   "placeholder": "+1 555 000 0000",
-                  "required": false,
-                  "type": "tel"
+                  "required": false
                 },
                 {
                   "key": "services",
+                  "type": "select",
                   "label": "Services",
+                  "required": false,
                   "options": [
                     {
                       "label": "Full-Stack & SaaS Development",
@@ -4405,260 +4650,19 @@
                       "value": "UI/UX Designing"
                     },
                     {
-                      "label": "Not sure yet",
+                      "label": "Web Development",
                       "value": "Not sure yet"
+                    },
+                    {
+                      "value": "option-11",
+                      "label": "Not sure yet"
                     }
-                  ],
-                  "required": false,
-                  "type": "select"
+                  ]
                 }
-              ],
-              "privacyText": "Your details stay confidential and are never shared or sold. NDA available on request.",
-              "sub": "Tell us a little about your goals. We reply within 24 hours.",
-              "submitLabel": "Get my free estimate",
-              "title": "Get a free roadmap estimate"
-            },
-            "kicker": "Start a project",
-            "lead": "Share a few details and a senior advisor will reply within 24 hours.",
-            "title": "Plan your AI roadmap with us"
-          },
-          "hero": {
-            "breadcrumbCurrent": "AI Consulting",
-            "glance": {
-              "ctaLabel": "Get a Free Estimate",
-              "rows": [
-                {
-                  "icon": "clock",
-                  "label": "Roadmap timeline",
-                  "value": "[2–4] weeks"
-                },
-                {
-                  "icon": "users",
-                  "label": "Engagement",
-                  "value": "Fixed scope · Advisory retainer"
-                },
-                {
-                  "icon": "shield",
-                  "label": "Confidentiality",
-                  "value": "NDA on request"
-                }
-              ],
-              "statusLabel": "Taking new engagements"
-            },
-            "kicker": "Strategic AI Advisory",
-            "lead": "Comprehensive roadmaps for AI adoption. We assess readiness, identify high-impact use cases, and architect scalable solutions — connecting technical feasibility, organizational readiness and ROI into a practical transformation roadmap.",
-            "primaryCtaLabel": "Book a Free 30-Min Consultation",
-            "primaryCtaTo": "/book-consultation",
-            "secondaryCtaLabel": "See case studies",
-            "secondaryCtaTo": "/case-studies",
-            "tags": [
-              "Roadmap Planning",
-              "ROI Analysis",
-              "Implementation Support",
-              "Readiness Assessment",
-              "Governance"
-            ],
-            "title": "Align AI Investments With Measurable Outcomes"
-          },
-          "hiddenSections": [],
-          "longform": [
-            {
-              "id": "con-end-to-end",
-              "paragraphs": [
-                "We help leadership teams prioritize where AI creates the most value, then connect that priority list to a phased delivery plan with clear milestones and governance.",
-                "Because the same team can also build what we recommend, the roadmap stays grounded in what is technically and organizationally realistic — not a wishlist."
-              ],
-              "title": "AI consulting services, end to end"
-            },
-            {
-              "id": "con-timeline-cost",
-              "paragraphs": [
-                "A focused readiness assessment and roadmap typically takes 2–4 weeks, with cost depending on the number of stakeholders and use cases evaluated."
-              ],
-              "title": "AI roadmap: timeline and cost"
-            },
-            {
-              "id": "con-engagement-model",
-              "paragraphs": [
-                "A fixed-scope engagement suits a one-time strategic review. An advisory retainer suits organizations that want continued guidance as they execute and new opportunities emerge."
-              ],
-              "title": "Fixed-scope roadmap or an ongoing advisory retainer"
-            },
-            {
-              "id": "con-readiness",
-              "paragraphs": [
-                "We assess data quality and availability, existing tooling, team capability and governance maturity — the four things that most often determine whether an AI initiative actually ships."
-              ],
-              "title": "Readiness assessment: data, tooling, teams, governance"
+              ]
             }
-          ],
-          "meta": {
-            "documentTitle": "AI Consulting Services | Databiqs"
-          },
-          "process": {
-            "ctaLabel": "Book a Free 30-Min Consultation",
-            "ctaTo": "/book-consultation",
-            "kicker": "How we work",
-            "steps": [
-              {
-                "desc": "Define priorities, constraints and success metrics with stakeholders.",
-                "num": "01",
-                "title": "Executive workshops",
-                "week": "Week 1"
-              },
-              {
-                "desc": "Evaluate data, tooling, teams and governance maturity.",
-                "num": "02",
-                "title": "Readiness assessment",
-                "week": "Weeks 2–3"
-              },
-              {
-                "desc": "A phased implementation plan with milestones and ownership.",
-                "num": "03",
-                "title": "Roadmap delivery",
-                "week": "Week 4"
-              },
-              {
-                "desc": "Hands-on help turning the roadmap into shipped systems.",
-                "num": "04",
-                "title": "Implementation support",
-                "week": "Ongoing"
-              }
-            ],
-            "title": "A clear process, with milestones you can see"
-          },
-          "related": {
-            "items": [
-              {
-                "desc": "Predictive models trained on your data",
-                "icon": "chip",
-                "title": "Machine Learning",
-                "to": "/services/machine-learning"
-              },
-              {
-                "desc": "Workflow orchestration and process automation",
-                "icon": "workflow",
-                "title": "AI Automation",
-                "to": "/services/ai-automation"
-              },
-              {
-                "desc": "30 minutes with a senior engineer",
-                "icon": "calendar",
-                "title": "Free consultation",
-                "to": "/book-consultation"
-              }
-            ],
-            "kicker": "Related services",
-            "title": "Explore more ways we can help"
-          },
-          "techStack": {
-            "items": [
-              {
-                "logoKey": "python",
-                "name": "Python"
-              },
-              {
-                "logoKey": "aws",
-                "name": "AWS"
-              },
-              {
-                "logoKey": "docker",
-                "name": "Docker"
-              }
-            ],
-            "kicker": "Tooling we assess and recommend on",
-            "title": "Technology-agnostic, outcome-driven"
-          },
-          "toc": {
-            "cardCtaLabel": "Book a call",
-            "cardCtaTo": "/book-consultation",
-            "cardDesc": "Free 30-minute call, fixed quote after.",
-            "cardTitle": "Need a quote?",
-            "eyebrow": "On this page",
-            "items": [
-              {
-                "id": "con-end-to-end",
-                "label": "AI consulting services, end to end"
-              },
-              {
-                "id": "con-timeline-cost",
-                "label": "AI roadmap: timeline and cost"
-              },
-              {
-                "id": "con-engagement-model",
-                "label": "Fixed-scope roadmap or an ongoing advisory retainer"
-              },
-              {
-                "id": "con-readiness",
-                "label": "Readiness assessment: data, tooling, teams, governance"
-              }
-            ]
-          },
-          "whatWeBuild": {
-            "cards": [
-              {
-                "desc": "A phased plan with clear milestones and ownership.",
-                "icon": "compass",
-                "title": "Roadmap planning"
-              },
-              {
-                "desc": "Prioritize use cases by impact, complexity and time-to-value.",
-                "icon": "target",
-                "title": "ROI analysis"
-              },
-              {
-                "desc": "Hands-on help turning the roadmap into shipped systems.",
-                "icon": "wrench",
-                "title": "Implementation support"
-              },
-              {
-                "desc": "An honest look at your data, tooling, teams and governance.",
-                "icon": "search",
-                "title": "Readiness assessment"
-              },
-              {
-                "desc": "Guardrails that de-risk AI initiatives as they scale.",
-                "icon": "shieldCheck",
-                "title": "Governance & policy"
-              },
-              {
-                "desc": "Align leadership and stakeholders on priorities and constraints.",
-                "icon": "lightbulb",
-                "title": "Executive workshops"
-              }
-            ],
-            "kicker": "What we deliver",
-            "side": "One team connects technical feasibility, readiness and ROI into a plan you can execute.",
-            "title": "A practical roadmap, not a slide deck"
-          },
-          "whyDatabiqs": {
-            "cards": [
-              {
-                "desc": "Every recommendation is grounded in what we can actually build.",
-                "icon": "compass",
-                "title": "Practical, not theoretical"
-              },
-              {
-                "desc": "The team that advises you can also build it — no hand-off risk.",
-                "icon": "layers",
-                "title": "Strategy and delivery, one team"
-              },
-              {
-                "desc": "Roadmaps shaped by your data, teams and constraints, not generic playbooks.",
-                "icon": "users",
-                "title": "Built for your organization"
-              },
-              {
-                "desc": "Architecture, policy and operating-model clarity before you invest.",
-                "icon": "shieldCheck",
-                "title": "De-risked by design"
-              }
-            ],
-            "kicker": "Why Databiqs",
-            "title": "Why leadership teams choose Databiqs for AI strategy"
           }
         },
-        "slug": "ai-consulting",
         "styles": {
           "card.ai-consulting.icon": {
             "desktop": {
@@ -4667,8 +4671,8 @@
             "mobile": {}
           }
         },
-        "title": "AI Consulting",
-        "updatedAt": "2026-10-01T16:57:19.868Z"
+        "createdAt": "2026-10-01T16:57:19.868Z",
+        "updatedAt": "2026-10-10T00:55:48.834Z"
       },
       "full-stack-development": {
         "createdAt": "2026-09-28T22:37:28.675Z",
@@ -5190,396 +5194,153 @@
         "updatedAt": "2026-10-10T00:54:24.798Z"
       },
       "machine-learning": {
-        "slug": "machine-learning",
-        "title": "Turn Business Data Into Proactive Decisions",
+        "createdAt": "2026-10-01T16:57:19.868Z",
         "data": {
-          "meta": {
-            "documentTitle": "Machine Learning Services | Databiqs"
+          "blog": {
+            "allLabel": "All articles",
+            "allTo": "/blog-page",
+            "kicker": "From the blog",
+            "posts": [
+              {
+                "cover": "model accuracy",
+                "imageSrc": "/uploads/fe06f726959d469391a46c2c6f56921c-analytics_dashboard.png",
+                "linkLabel": "Read the guide",
+                "readTime": "8 min read",
+                "tag": "ML",
+                "title": "How much data do you really need for ML?",
+                "to": "/blog/how-much-data-do-you-really-need-for-ml"
+              },
+              {
+                "cover": "drift monitoring",
+                "imageSrc": "/uploads/20ec7ea018b64b9eae01ceaecd6ce3d2-case-study-phase-execution.jpg",
+                "linkLabel": "Read the guide",
+                "readTime": "8 min read",
+                "tag": "MLOps",
+                "title": "Model drift: what it is and how to catch it",
+                "to": "/blog/model-drift-what-it-is-and-how-to-catch-it"
+              },
+              {
+                "cover": "explainability",
+                "imageSrc": "/uploads/2a7c51a6d0774bacb603c6eca4fb3fc6-abstract_ai.png",
+                "linkLabel": "Read the guide",
+                "readTime": "7 min read",
+                "tag": "AI",
+                "title": "Why model explainability matters for adoption",
+                "to": "/blog/why-model-explainability-matters-for-adoption"
+              }
+            ],
+            "title": "Guides and answers"
           },
-          "hiddenSections": [],
           "cardPreview": {
-            "icon": "brain",
-            "shortDescription": "Predictive models and deep learning algorithms trained on your proprietary data to uncover hidden insights and forecast trends.",
             "features": [
               "Predictive Analytics",
               "Pattern Recognition",
               "Real Insights"
-            ]
-          },
-          "hero": {
-            "kicker": "Predictive Intelligence",
-            "breadcrumbCurrent": "Machine Learning",
-            "title": "Turn Business Data Into Proactive Decisions",
-            "lead": "We build production-grade machine learning solutions that transform historical and real-time data into action — predictive models and deep learning trained on your proprietary data, designed for accuracy, interpretability and business adoption from day one.",
-            "primaryCtaLabel": "Book a Free 30-Min Consultation",
-            "primaryCtaTo": "/book-consultation",
-            "secondaryCtaLabel": "See case studies",
-            "secondaryCtaTo": "/case-studies",
-            "tags": [
-              "Predictive Analytics",
-              "Pattern Recognition",
-              "Real-time Insights",
-              "Model Explainability",
-              "Drift Monitoring"
             ],
-            "glance": {
-              "statusLabel": "Taking new projects",
-              "rows": [
-                {
-                  "icon": "clock",
-                  "label": "First model timeline",
-                  "value": "[6–12] weeks"
-                },
-                {
-                  "icon": "users",
-                  "label": "Engagement",
-                  "value": "Fixed price · Dedicated team"
-                },
-                {
-                  "icon": "shield",
-                  "label": "Confidentiality",
-                  "value": "NDA on request"
-                }
-              ],
-              "ctaLabel": "Get a Free Estimate"
-            }
-          },
-          "whatWeBuild": {
-            "kicker": "What we build",
-            "title": "From raw data to production ML you can trust",
-            "side": "One team covers data readiness, model development, deployment and monitoring.",
-            "cards": [
-              {
-                "icon": "target",
-                "title": "Predictive analytics",
-                "desc": "Forecast demand, churn and risk with context-aware models."
-              },
-              {
-                "icon": "search",
-                "title": "Pattern recognition",
-                "desc": "Discover hidden patterns in your data that unlock new efficiency."
-              },
-              {
-                "icon": "bolt",
-                "title": "Real-time scoring",
-                "desc": "Deploy low-latency ML pipelines for in-the-moment decisions."
-              },
-              {
-                "icon": "shieldCheck",
-                "title": "Bias checks & explainability",
-                "desc": "Models your stakeholders can audit, trust and adopt."
-              },
-              {
-                "icon": "refresh",
-                "title": "Drift monitoring & retraining",
-                "desc": "Keep model accuracy high as real-world data shifts."
-              },
-              {
-                "icon": "cloud",
-                "title": "Production deployment",
-                "desc": "Scalable inference on AWS with CI/CD and observability."
-              }
-            ]
-          },
-          "whyDatabiqs": {
-            "kicker": "Why Databiqs",
-            "title": "Why teams choose Databiqs for machine learning",
-            "cards": [
-              {
-                "icon": "brain",
-                "title": "Accuracy and interpretability",
-                "desc": "Models stakeholders understand well enough to actually use."
-              },
-              {
-                "icon": "layers",
-                "title": "One team, full stack",
-                "desc": "Data engineering, modeling and deployment — no hand-offs."
-              },
-              {
-                "icon": "users",
-                "title": "Scales with you",
-                "desc": "Start with one model, grow to a dedicated ML team."
-              },
-              {
-                "icon": "code",
-                "title": "Clean, owned code",
-                "desc": "Tested, documented pipelines you keep in your own infrastructure."
-              }
-            ]
-          },
-          "toc": {
-            "eyebrow": "On this page",
-            "items": [
-              {
-                "id": "ml-end-to-end",
-                "label": "Machine learning services, end to end"
-              },
-              {
-                "id": "ml-timeline-cost",
-                "label": "First model: timeline and cost"
-              },
-              {
-                "id": "ml-hire-team",
-                "label": "Fixed-price model or a dedicated ML team"
-              },
-              {
-                "id": "ml-data-readiness",
-                "label": "Data readiness and feature strategy"
-              }
-            ],
-            "cardTitle": "Need a quote?",
-            "cardDesc": "Free 30-minute call, fixed quote after.",
-            "cardCtaLabel": "Book a call",
-            "cardCtaTo": "/book-consultation"
-          },
-          "longform": [
-            {
-              "id": "ml-end-to-end",
-              "title": "Machine learning services, end to end",
-              "paragraphs": [
-                "One team owns the whole pipeline: data readiness, feature engineering, model development, validation and production deployment — fewer hand-offs, faster iteration.",
-                "We work in weekly sprints and review model performance with you every week, using real evaluation metrics, not just demo accuracy."
-              ]
-            },
-            {
-              "id": "ml-timeline-cost",
-              "title": "First model: timeline and cost",
-              "paragraphs": [
-                "A focused first model — a forecast, a classifier, a recommender — typically takes 6–12 weeks, with cost depending on data readiness and the complexity of the problem."
-              ]
-            },
-            {
-              "id": "ml-hire-team",
-              "title": "Fixed-price model or a dedicated ML team",
-              "paragraphs": [
-                "A fixed-price engagement suits one clearly scoped model. A dedicated ML team suits products where models keep evolving — new features, new data sources, continuous retraining."
-              ]
-            },
-            {
-              "id": "ml-data-readiness",
-              "title": "Data readiness and feature strategy",
-              "paragraphs": [
-                "Most ML projects succeed or fail on data readiness. We start with a data audit and a feature strategy tied to the business KPI you actually care about, before any model is trained."
-              ]
-            }
-          ],
-          "process": {
-            "kicker": "How we work",
-            "title": "A clear process, with a demo every week",
-            "ctaLabel": "Book a Free 30-Min Consultation",
-            "ctaTo": "/book-consultation",
-            "steps": [
-              {
-                "num": "01",
-                "week": "Week 1",
-                "title": "Data readiness audit",
-                "desc": "Assess data quality and define a feature strategy aligned to KPIs."
-              },
-              {
-                "num": "02",
-                "week": "Weeks 2–4",
-                "title": "Model development",
-                "desc": "Build and validate models with bias checks and explainability tooling."
-              },
-              {
-                "num": "03",
-                "week": "Weeks 5–8",
-                "title": "Deployment",
-                "desc": "Production deployment with a live demo and review every Friday."
-              },
-              {
-                "num": "04",
-                "week": "Ongoing",
-                "title": "Monitor & retrain",
-                "desc": "Drift monitoring and retraining routines to keep accuracy high."
-              }
-            ]
-          },
-          "techStack": {
-            "kicker": "Tech stack",
-            "title": "Built on tools that scale",
-            "items": [
-              {
-                "name": "Python",
-                "logoKey": "python"
-              },
-              {
-                "name": "PostgreSQL",
-                "logoKey": "postgresql"
-              },
-              {
-                "name": "AWS",
-                "logoKey": "aws"
-              },
-              {
-                "name": "Docker",
-                "logoKey": "docker"
-              }
-            ]
+            "icon": "brain",
+            "shortDescription": "Predictive models and deep learning algorithms trained on your proprietary data to uncover hidden insights and forecast trends."
           },
           "caseStudy": {
-            "kicker": "Featured case study",
-            "imageSrc": "/uploads/9fdd364aa3684119a62f488a735f0548-4-machine-learning-forecastiq.png",
-            "imageAlt": "ForecastIQ dashboard showing demand forecasts and reorder recommendations",
-            "projectName": "ForecastIQ",
-            "meta": "Machine Learning · Demand Forecasting",
-            "sub": "Regional grocery chain, 30 stores, name withheld under NDA.",
             "challengeLabel": "Challenge",
             "challengeText": "Stores were ordering by gut feel, causing frequent stock-outs on popular items and waste on slow movers.",
-            "solutionLabel": "What we built",
-            "solutionText": "A demand forecasting model trained on 3 years of the client's own sales, promotion and weather data, with a dashboard that recommends reorder quantities per SKU. Built in Python, retrained weekly.",
+            "imageAlt": "ForecastIQ dashboard showing demand forecasts and reorder recommendations",
+            "imageSrc": "/uploads/9fdd364aa3684119a62f488a735f0548-4-machine-learning-forecastiq.png",
+            "kicker": "Featured case study",
+            "linkLabel": "Read the full case study",
+            "linkTo": "/case-studies",
+            "meta": "Machine Learning · Demand Forecasting",
+            "projectName": "ForecastIQ",
             "results": [
               {
-                "value": "94%",
-                "label": "forecast accuracy on held-out data"
+                "label": "forecast accuracy on held-out data",
+                "value": "94%"
               },
               {
-                "value": "22%",
-                "label": "less waste from overstocked items"
+                "label": "less waste from overstocked items",
+                "value": "22%"
               }
             ],
-            "linkLabel": "Read the full case study",
-            "linkTo": "/case-studies"
+            "solutionLabel": "What we built",
+            "solutionText": "A demand forecasting model trained on 3 years of the client's own sales, promotion and weather data, with a dashboard that recommends reorder quantities per SKU. Built in Python, retrained weekly.",
+            "sub": "Regional grocery chain, 30 stores, name withheld under NDA."
           },
           "engagement": {
             "kicker": "Engagement models",
-            "title": "Pick how you want to work with us",
             "noteText": "Fixed price or dedicated team, you choose",
             "tiers": [
               {
-                "icon": "file",
-                "title": "Fixed-price project",
-                "desc": "One clearly scoped model with a fixed quote after a free call.",
                 "bullets": [
                   "Fixed scope and timeline",
                   "Weekly demos",
                   "Pay by milestone"
                 ],
+                "desc": "One clearly scoped model with a fixed quote after a free call.",
                 "highlight": false,
-                "tag": ""
+                "icon": "file",
+                "tag": "",
+                "title": "Fixed-price project"
               },
               {
-                "icon": "users",
-                "title": "Dedicated ML team",
-                "desc": "Senior data scientists and engineers who keep evolving your models, billed monthly.",
                 "bullets": [
                   "New features and data sources",
                   "Works in your tools",
                   "Monthly billing"
                 ],
+                "desc": "Senior data scientists and engineers who keep evolving your models, billed monthly.",
                 "highlight": true,
-                "tag": "Scale with us"
+                "icon": "users",
+                "tag": "Scale with us",
+                "title": "Dedicated ML team"
               },
               {
-                "icon": "clock",
-                "title": "Hourly",
-                "desc": "For audits, retraining and ongoing support after deployment.",
                 "bullets": [
                   "No minimum commitment",
                   "Transparent time logs",
                   "Senior engineers only"
                 ],
+                "desc": "For audits, retraining and ongoing support after deployment.",
                 "highlight": false,
-                "tag": ""
+                "icon": "clock",
+                "tag": "",
+                "title": "Hourly"
               }
-            ]
+            ],
+            "title": "Pick how you want to work with us"
           },
           "faq": {
-            "kicker": "FAQ",
-            "title": "Questions, answered",
-            "lead": "Still have a question? Ask us directly on a free 30-minute call.",
             "ctaLabel": "Book a Free 30-Min Consultation",
             "ctaTo": "/book-consultation",
             "items": [
               {
-                "question": "How much does a machine learning model cost?",
-                "answer": "Cost depends on data readiness and the complexity of the problem, there's no one-size price. You get a fixed quote after a free call, once we've scoped exactly what you need."
+                "answer": "Cost depends on data readiness and the complexity of the problem, there's no one-size price. You get a fixed quote after a free call, once we've scoped exactly what you need.",
+                "question": "How much does a machine learning model cost?"
               },
               {
-                "question": "Do you need our data to be perfectly clean first?",
-                "answer": "No — we start with a data readiness audit and work with what you have, flagging gaps that matter versus ones that can wait."
+                "answer": "No — we start with a data readiness audit and work with what you have, flagging gaps that matter versus ones that can wait.",
+                "question": "Do you need our data to be perfectly clean first?"
               },
               {
-                "question": "How do you make sure the model is trustworthy?",
-                "answer": "Validation, bias checks and explainability tooling are part of every build, so stakeholders can see why the model made a given prediction."
+                "answer": "Validation, bias checks and explainability tooling are part of every build, so stakeholders can see why the model made a given prediction.",
+                "question": "How do you make sure the model is trustworthy?"
               },
               {
-                "question": "Fixed price or dedicated team — which is right for me?",
-                "answer": "Choose fixed price for one clearly scoped model. Choose a dedicated team if models and data sources will keep evolving."
+                "answer": "Choose fixed price for one clearly scoped model. Choose a dedicated team if models and data sources will keep evolving.",
+                "question": "Fixed price or dedicated team — which is right for me?"
               },
               {
-                "question": "Who owns the models and pipelines?",
-                "answer": "You do. All code, trained artifacts and documentation are handed over and live in your own infrastructure."
+                "answer": "You do. All code, trained artifacts and documentation are handed over and live in your own infrastructure.",
+                "question": "Who owns the models and pipelines?"
               },
               {
-                "question": "How do you prevent model performance from degrading over time?",
-                "answer": "Drift monitoring tracks real-world performance after launch, with retraining routines to keep accuracy high."
+                "answer": "Drift monitoring tracks real-world performance after launch, with retraining routines to keep accuracy high.",
+                "question": "How do you prevent model performance from degrading over time?"
               }
-            ]
-          },
-          "related": {
-            "kicker": "Related services",
-            "title": "Explore more ways we can help",
-            "items": [
-              {
-                "icon": "workflow",
-                "title": "AI Automation",
-                "desc": "Workflow orchestration and process automation",
-                "to": "/services/ai-automation"
-              },
-              {
-                "icon": "lightbulb",
-                "title": "AI Consulting",
-                "desc": "Roadmaps and ROI-driven AI adoption",
-                "to": "/services/ai-consulting"
-              },
-              {
-                "icon": "calendar",
-                "title": "Free consultation",
-                "desc": "30 minutes with a senior engineer",
-                "to": "/book-consultation"
-              }
-            ]
-          },
-          "blog": {
-            "kicker": "From the blog",
-            "title": "Guides and answers",
-            "allLabel": "All articles",
-            "allTo": "/blog-page",
-            "posts": [
-              {
-                "tag": "ML",
-                "cover": "model accuracy",
-                "imageSrc": "/uploads/fe06f726959d469391a46c2c6f56921c-analytics_dashboard.png",
-                "title": "How much data do you really need for ML?",
-                "to": "/blog/how-much-data-do-you-really-need-for-ml",
-                "readTime": "8 min read",
-                "linkLabel": "Read the guide"
-              },
-              {
-                "tag": "MLOps",
-                "cover": "drift monitoring",
-                "imageSrc": "/uploads/20ec7ea018b64b9eae01ceaecd6ce3d2-case-study-phase-execution.jpg",
-                "title": "Model drift: what it is and how to catch it",
-                "to": "/blog/model-drift-what-it-is-and-how-to-catch-it",
-                "readTime": "8 min read",
-                "linkLabel": "Read the guide"
-              },
-              {
-                "tag": "AI",
-                "cover": "explainability",
-                "imageSrc": "/uploads/2a7c51a6d0774bacb603c6eca4fb3fc6-abstract_ai.png",
-                "title": "Why model explainability matters for adoption",
-                "to": "/blog/why-model-explainability-matters-for-adoption",
-                "readTime": "7 min read",
-                "linkLabel": "Read the guide"
-              }
-            ]
+            ],
+            "kicker": "FAQ",
+            "lead": "Still have a question? Ask us directly on a free 30-minute call.",
+            "title": "Questions, answered"
           },
           "finalCta": {
-            "kicker": "Start a project",
-            "title": "Plan your first ML model with us",
-            "lead": "Share a few details and a senior engineer will reply within 24 hours.",
             "bullets": [
               "Fixed quote after a free 30-minute call",
               "NDA on request",
@@ -5587,44 +5348,38 @@
             ],
             "form": {
               "badgeText": "Senior engineer reviews every request",
-              "title": "Get a free project estimate",
-              "sub": "Tell us a little about your project. We reply within 24 hours.",
-              "submitLabel": "Get my free estimate",
-              "privacyText": "Your details stay confidential and are never shared or sold. NDA available on request.",
               "fields": [
                 {
                   "key": "fullName",
-                  "type": "text",
                   "label": "Full name",
                   "placeholder": "Jane Smith",
-                  "required": true
+                  "required": true,
+                  "type": "text"
                 },
                 {
                   "key": "email",
-                  "type": "email",
                   "label": "Work email",
                   "placeholder": "jane@company.com",
-                  "required": true
+                  "required": true,
+                  "type": "email"
                 },
                 {
                   "key": "company",
-                  "type": "text",
                   "label": "Company name",
                   "placeholder": "Company Inc.",
-                  "required": false
+                  "required": false,
+                  "type": "text"
                 },
                 {
                   "key": "phone",
-                  "type": "tel",
                   "label": "Phone number",
                   "placeholder": "+1 555 000 0000",
-                  "required": false
+                  "required": false,
+                  "type": "tel"
                 },
                 {
                   "key": "services",
-                  "type": "select",
                   "label": "Services",
-                  "required": false,
                   "options": [
                     {
                       "label": "Full-Stack & SaaS Development",
@@ -5667,17 +5422,266 @@
                       "value": "Not sure yet"
                     },
                     {
-                      "value": "option-11",
-                      "label": "Not sure yet"
+                      "label": "Not sure yet",
+                      "value": "option-11"
                     }
-                  ]
+                  ],
+                  "required": false,
+                  "type": "select"
                 }
-              ]
+              ],
+              "privacyText": "Your details stay confidential and are never shared or sold. NDA available on request.",
+              "sub": "Tell us a little about your project. We reply within 24 hours.",
+              "submitLabel": "Get my free estimate",
+              "title": "Get a free project estimate"
+            },
+            "kicker": "Start a project",
+            "lead": "Share a few details and a senior engineer will reply within 24 hours.",
+            "title": "Plan your first ML model with us"
+          },
+          "hero": {
+            "breadcrumbCurrent": "Machine Learning",
+            "glance": {
+              "ctaLabel": "Get a Free Estimate",
+              "rows": [
+                {
+                  "icon": "clock",
+                  "label": "First model timeline",
+                  "value": "[6–12] weeks"
+                },
+                {
+                  "icon": "users",
+                  "label": "Engagement",
+                  "value": "Fixed price · Dedicated team"
+                },
+                {
+                  "icon": "shield",
+                  "label": "Confidentiality",
+                  "value": "NDA on request"
+                }
+              ],
+              "statusLabel": "Taking new projects"
+            },
+            "kicker": "Predictive Intelligence",
+            "lead": "We build production-grade machine learning solutions that transform historical and real-time data into action — predictive models and deep learning trained on your proprietary data, designed for accuracy, interpretability and business adoption from day one.",
+            "primaryCtaLabel": "Book a Free 30-Min Consultation",
+            "primaryCtaTo": "/book-consultation",
+            "secondaryCtaLabel": "See case studies",
+            "secondaryCtaTo": "/case-studies",
+            "tags": [
+              "Predictive Analytics",
+              "Pattern Recognition",
+              "Real-time Insights",
+              "Model Explainability",
+              "Drift Monitoring"
+            ],
+            "title": "Turn Business Data Into Proactive Decisions"
+          },
+          "hiddenSections": [],
+          "longform": [
+            {
+              "id": "ml-end-to-end",
+              "paragraphs": [
+                "One team owns the whole pipeline: data readiness, feature engineering, model development, validation and production deployment — fewer hand-offs, faster iteration.",
+                "We work in weekly sprints and review model performance with you every week, using real evaluation metrics, not just demo accuracy."
+              ],
+              "title": "Machine learning services, end to end"
+            },
+            {
+              "id": "ml-timeline-cost",
+              "paragraphs": [
+                "A focused first model — a forecast, a classifier, a recommender — typically takes 6–12 weeks, with cost depending on data readiness and the complexity of the problem."
+              ],
+              "title": "First model: timeline and cost"
+            },
+            {
+              "id": "ml-hire-team",
+              "paragraphs": [
+                "A fixed-price engagement suits one clearly scoped model. A dedicated ML team suits products where models keep evolving — new features, new data sources, continuous retraining."
+              ],
+              "title": "Fixed-price model or a dedicated ML team"
+            },
+            {
+              "id": "ml-data-readiness",
+              "paragraphs": [
+                "Most ML projects succeed or fail on data readiness. We start with a data audit and a feature strategy tied to the business KPI you actually care about, before any model is trained."
+              ],
+              "title": "Data readiness and feature strategy"
             }
+          ],
+          "meta": {
+            "documentTitle": "Machine Learning Services | Databiqs"
+          },
+          "process": {
+            "ctaLabel": "Book a Free 30-Min Consultation",
+            "ctaTo": "/book-consultation",
+            "kicker": "How we work",
+            "steps": [
+              {
+                "desc": "Assess data quality and define a feature strategy aligned to KPIs.",
+                "num": "01",
+                "title": "Data readiness audit",
+                "week": "Week 1"
+              },
+              {
+                "desc": "Build and validate models with bias checks and explainability tooling.",
+                "num": "02",
+                "title": "Model development",
+                "week": "Weeks 2–4"
+              },
+              {
+                "desc": "Production deployment with a live demo and review every Friday.",
+                "num": "03",
+                "title": "Deployment",
+                "week": "Weeks 5–8"
+              },
+              {
+                "desc": "Drift monitoring and retraining routines to keep accuracy high.",
+                "num": "04",
+                "title": "Monitor & retrain",
+                "week": "Ongoing"
+              }
+            ],
+            "title": "A clear process, with a demo every week"
+          },
+          "related": {
+            "items": [
+              {
+                "desc": "Workflow orchestration and process automation",
+                "icon": "workflow",
+                "title": "AI Automation",
+                "to": "/services/ai-automation"
+              },
+              {
+                "desc": "Roadmaps and ROI-driven AI adoption",
+                "icon": "lightbulb",
+                "title": "AI Consulting",
+                "to": "/services/ai-consulting"
+              },
+              {
+                "desc": "30 minutes with a senior engineer",
+                "icon": "calendar",
+                "title": "Free consultation",
+                "to": "/book-consultation"
+              }
+            ],
+            "kicker": "Related services",
+            "title": "Explore more ways we can help"
+          },
+          "techStack": {
+            "items": [
+              {
+                "logoKey": "python",
+                "name": "Python"
+              },
+              {
+                "logoKey": "postgresql",
+                "name": "PostgreSQL"
+              },
+              {
+                "logoKey": "aws",
+                "name": "AWS"
+              },
+              {
+                "logoKey": "docker",
+                "name": "Docker"
+              }
+            ],
+            "kicker": "Tech stack",
+            "title": "Built on tools that scale"
+          },
+          "toc": {
+            "cardCtaLabel": "Book a call",
+            "cardCtaTo": "/book-consultation",
+            "cardDesc": "Free 30-minute call, fixed quote after.",
+            "cardTitle": "Need a quote?",
+            "eyebrow": "On this page",
+            "items": [
+              {
+                "id": "ml-end-to-end",
+                "label": "Machine learning services, end to end"
+              },
+              {
+                "id": "ml-timeline-cost",
+                "label": "First model: timeline and cost"
+              },
+              {
+                "id": "ml-hire-team",
+                "label": "Fixed-price model or a dedicated ML team"
+              },
+              {
+                "id": "ml-data-readiness",
+                "label": "Data readiness and feature strategy"
+              }
+            ]
+          },
+          "whatWeBuild": {
+            "cards": [
+              {
+                "desc": "Forecast demand, churn and risk with context-aware models.",
+                "icon": "target",
+                "title": "Predictive analytics"
+              },
+              {
+                "desc": "Discover hidden patterns in your data that unlock new efficiency.",
+                "icon": "search",
+                "title": "Pattern recognition"
+              },
+              {
+                "desc": "Deploy low-latency ML pipelines for in-the-moment decisions.",
+                "icon": "bolt",
+                "title": "Real-time scoring"
+              },
+              {
+                "desc": "Models your stakeholders can audit, trust and adopt.",
+                "icon": "shieldCheck",
+                "title": "Bias checks & explainability"
+              },
+              {
+                "desc": "Keep model accuracy high as real-world data shifts.",
+                "icon": "refresh",
+                "title": "Drift monitoring & retraining"
+              },
+              {
+                "desc": "Scalable inference on AWS with CI/CD and observability.",
+                "icon": "cloud",
+                "title": "Production deployment"
+              }
+            ],
+            "kicker": "What we build",
+            "side": "One team covers data readiness, model development, deployment and monitoring.",
+            "title": "From raw data to production ML you can trust"
+          },
+          "whyDatabiqs": {
+            "cards": [
+              {
+                "desc": "Models stakeholders understand well enough to actually use.",
+                "icon": "brain",
+                "title": "Accuracy and interpretability"
+              },
+              {
+                "desc": "Data engineering, modeling and deployment — no hand-offs.",
+                "icon": "layers",
+                "title": "One team, full stack"
+              },
+              {
+                "desc": "Start with one model, grow to a dedicated ML team.",
+                "icon": "users",
+                "title": "Scales with you"
+              },
+              {
+                "desc": "Tested, documented pipelines you keep in your own infrastructure.",
+                "icon": "code",
+                "title": "Clean, owned code"
+              }
+            ],
+            "kicker": "Why Databiqs",
+            "title": "Why teams choose Databiqs for machine learning"
           }
         },
+        "slug": "machine-learning",
         "styles": {},
-        "createdAt": "2026-10-01T16:57:19.868Z",
+        "title": "Turn Business Data Into Proactive Decisions",
         "updatedAt": "2026-10-10T00:55:36.687Z"
       },
       "web-development": {
@@ -7002,5 +7006,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-10T00:55:38.240Z"
+  "updatedAt": "2026-10-10T00:55:49.851Z"
 }
