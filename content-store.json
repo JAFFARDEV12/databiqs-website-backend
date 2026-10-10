@@ -3167,8 +3167,8 @@
       {
         "createdAt": "2026-10-01T16:57:19.868Z",
         "slug": "ai-automation",
-        "title": "AI Automation",
-        "updatedAt": "2026-10-01T16:57:19.868Z"
+        "title": "Automate Complex Operations With Precision",
+        "updatedAt": "2026-10-10T00:55:24.656Z"
       },
       {
         "createdAt": "2026-10-01T16:57:19.868Z",
@@ -3191,251 +3191,40 @@
     ],
     "pages": {
       "ai-automation": {
-        "createdAt": "2026-10-01T16:57:19.868Z",
+        "slug": "ai-automation",
+        "title": "Automate Complex Operations With Precision",
         "data": {
-          "blog": {
-            "allLabel": "All articles",
-            "allTo": "/blog-page",
-            "kicker": "From the blog",
-            "posts": [
-              {
-                "cover": "process automation ROI",
-                "imageSrc": "/uploads/456f3e6bf6634e3f98e2c601790d0501-automation_workflow.png",
-                "linkLabel": "Read the guide",
-                "readTime": "8 min read",
-                "tag": "Automation",
-                "title": "How to prioritize workflows for automation",
-                "to": "/blog/how-to-prioritize-workflows-for-automation"
-              },
-              {
-                "cover": "IDP basics",
-                "imageSrc": "/service-crm.png",
-                "linkLabel": "Read the guide",
-                "readTime": "9 min read",
-                "tag": "Operations",
-                "title": "Intelligent document processing, explained",
-                "to": "/blog/intelligent-document-processing-explained"
-              },
-              {
-                "cover": "human in the loop",
-                "imageSrc": "/uploads/1053e3eeaec54e93ad389e6b973ef2f0-case-study-phase-prediction.jpg",
-                "linkLabel": "Read the guide",
-                "readTime": "7 min read",
-                "tag": "AI",
-                "title": "Why human-in-the-loop still matters",
-                "to": "/blog/why-human-in-the-loop-still-matters"
-              }
-            ],
-            "title": "Guides and answers"
+          "meta": {
+            "documentTitle": "AI Automation Services | Databiqs"
           },
+          "hiddenSections": [],
           "cardPreview": {
+            "icon": "workflow",
+            "shortDescription": "End-to-end intelligent process automation. Streamline operations, reduce manual errors, and accelerate throughput.",
             "features": [
               "Workflow Orchestration",
               "Data Extraction (IDP)",
               "System Integrations"
-            ],
-            "icon": "workflow",
-            "shortDescription": "End-to-end intelligent process automation. Streamline operations, reduce manual errors, and accelerate throughput."
-          },
-          "caseStudy": {
-            "challengeLabel": "Challenge",
-            "challengeText": "The accounts team typed hundreds of supplier invoices into the ERP by hand each week, which was slow and led to errors found only at month-end.",
-            "imageAlt": "DocFlow dashboard showing automated invoice processing",
-            "imageSrc": "/uploads/7fcf19da46b74bcfb47bf7c603ddecf2-3-ai-automation-docflow.png",
-            "kicker": "Featured case study",
-            "linkLabel": "Read the full case study",
-            "linkTo": "/case-studies",
-            "meta": "AI Automation · Document AI + ERP Integration",
-            "projectName": "DocFlow",
-            "results": [
-              {
-                "label": "processing time per invoice",
-                "value": "12 min → 40 sec"
-              },
-              {
-                "label": "of manual data entry saved every month",
-                "value": "160 hrs"
-              }
-            ],
-            "solutionLabel": "What we built",
-            "solutionText": "An intelligent document processing pipeline that reads invoices from email, extracts and validates fields against purchase orders, and posts them to the ERP. Staff only review low-confidence fields. Delivered in 8 weeks.",
-            "sub": "Logistics company, 200+ employees, name withheld under NDA."
-          },
-          "engagement": {
-            "kicker": "Engagement models",
-            "noteText": "Fixed price or dedicated team, you choose",
-            "tiers": [
-              {
-                "bullets": [
-                  "Fixed scope and timeline",
-                  "Weekly demos",
-                  "Pay by milestone"
-                ],
-                "desc": "One defined workflow automated end to end, with a fixed quote after a free call.",
-                "highlight": false,
-                "icon": "file",
-                "tag": "",
-                "title": "Fixed-price project"
-              },
-              {
-                "bullets": [
-                  "New workflows added over time",
-                  "Works in your tools",
-                  "Monthly billing"
-                ],
-                "desc": "Senior engineers who keep automating processes across departments, billed monthly.",
-                "highlight": true,
-                "icon": "users",
-                "tag": "Scale with us",
-                "title": "Dedicated automation team"
-              },
-              {
-                "bullets": [
-                  "No minimum commitment",
-                  "Transparent time logs",
-                  "Senior engineers only"
-                ],
-                "desc": "For audits, tuning and ongoing support after rollout.",
-                "highlight": false,
-                "icon": "clock",
-                "tag": "",
-                "title": "Hourly"
-              }
-            ],
-            "title": "Pick how you want to work with us"
-          },
-          "faq": {
-            "ctaLabel": "Book a Free 30-Min Consultation",
-            "ctaTo": "/book-consultation",
-            "items": [
-              {
-                "answer": "Cost depends on the number of systems involved and how much data extraction is needed, there's no one-size price. You get a fixed quote after a free call, once we've scoped exactly what you need.",
-                "question": "How much does AI automation cost?"
-              },
-              {
-                "answer": "Document processing, approvals, data entry between systems, reporting and most repetitive multi-step operational workflows.",
-                "question": "What kinds of workflows can you automate?"
-              },
-              {
-                "answer": "Human-in-the-loop checkpoints review high-stakes or low-confidence cases, with monitoring and alerting to catch drift early.",
-                "question": "How do you keep quality high as volume scales?"
-              },
-              {
-                "answer": "Choose fixed price for one clearly scoped workflow. Choose a dedicated team if you plan to automate multiple processes over time.",
-                "question": "Fixed price or dedicated team — which is right for me?"
-              },
-              {
-                "answer": "You do. All code, infrastructure and documentation are handed over and live in your own environment.",
-                "question": "Who owns the automation pipelines?"
-              },
-              {
-                "answer": "Most engagements kick off within [1–2] weeks of the discovery call, once scope is signed off.",
-                "question": "How fast can you start?"
-              }
-            ],
-            "kicker": "FAQ",
-            "lead": "Still have a question? Ask us directly on a free 30-minute call.",
-            "title": "Questions, answered"
-          },
-          "finalCta": {
-            "bullets": [
-              "Fixed quote after a free 30-minute call",
-              "NDA on request",
-              "You own 100% of the code"
-            ],
-            "form": {
-              "badgeText": "Senior engineer reviews every request",
-              "fields": [
-                {
-                  "key": "fullName",
-                  "label": "Full name",
-                  "placeholder": "Jane Smith",
-                  "required": true,
-                  "type": "text"
-                },
-                {
-                  "key": "email",
-                  "label": "Work email",
-                  "placeholder": "jane@company.com",
-                  "required": true,
-                  "type": "email"
-                },
-                {
-                  "key": "company",
-                  "label": "Company name",
-                  "placeholder": "Company Inc.",
-                  "required": false,
-                  "type": "text"
-                },
-                {
-                  "key": "phone",
-                  "label": "Phone number",
-                  "placeholder": "+1 555 000 0000",
-                  "required": false,
-                  "type": "tel"
-                },
-                {
-                  "key": "services",
-                  "label": "Services",
-                  "options": [
-                    {
-                      "label": "Full-Stack & SaaS Development",
-                      "value": "Full-Stack & SaaS Development"
-                    },
-                    {
-                      "label": "AI Chatbots",
-                      "value": "AI Chatbots"
-                    },
-                    {
-                      "label": "AI Automation",
-                      "value": "AI Automation"
-                    },
-                    {
-                      "label": "Machine Learning",
-                      "value": "Machine Learning"
-                    },
-                    {
-                      "label": "AI Consulting",
-                      "value": "AI Consulting"
-                    },
-                    {
-                      "label": "Mobile App Development",
-                      "value": "Mobile App Development"
-                    },
-                    {
-                      "label": "Digital Marketing",
-                      "value": "Digital Marketing"
-                    },
-                    {
-                      "label": "Graphic Designing",
-                      "value": "Graphic Designing"
-                    },
-                    {
-                      "label": "UI/UX Designing",
-                      "value": "UI/UX Designing"
-                    },
-                    {
-                      "label": "Not sure yet",
-                      "value": "Not sure yet"
-                    }
-                  ],
-                  "required": false,
-                  "type": "select"
-                }
-              ],
-              "privacyText": "Your details stay confidential and are never shared or sold. NDA available on request.",
-              "sub": "Tell us a little about your project. We reply within 24 hours.",
-              "submitLabel": "Get my free estimate",
-              "title": "Get a free project estimate"
-            },
-            "kicker": "Start a project",
-            "lead": "Share a few details and a senior engineer will reply within 24 hours.",
-            "title": "Plan your automation rollout with us"
+            ]
           },
           "hero": {
+            "kicker": "Automation Excellence",
             "breadcrumbCurrent": "AI Automation",
+            "title": "Automate Complex Operations With Precision",
+            "lead": "End-to-end intelligent process automation. We identify high-impact bottlenecks, design resilient automation pipelines, and deploy systems that streamline operations and scale without compromising quality.",
+            "primaryCtaLabel": "Book a Free 30-Min Consultation",
+            "primaryCtaTo": "/book-consultation",
+            "secondaryCtaLabel": "See case studies",
+            "secondaryCtaTo": "/case-studies",
+            "tags": [
+              "Workflow Orchestration",
+              "Data Extraction (IDP)",
+              "System Integrations",
+              "Human-in-the-loop QA",
+              "Monitoring & Alerting"
+            ],
             "glance": {
-              "ctaLabel": "Get a Free Estimate",
+              "statusLabel": "Taking new projects",
               "rows": [
                 {
                   "icon": "clock",
@@ -3453,145 +3242,73 @@
                   "value": "NDA on request"
                 }
               ],
-              "statusLabel": "Taking new projects"
-            },
-            "kicker": "Automation Excellence",
-            "lead": "End-to-end intelligent process automation. We identify high-impact bottlenecks, design resilient automation pipelines, and deploy systems that streamline operations and scale without compromising quality.",
-            "primaryCtaLabel": "Book a Free 30-Min Consultation",
-            "primaryCtaTo": "/book-consultation",
-            "secondaryCtaLabel": "See case studies",
-            "secondaryCtaTo": "/case-studies",
-            "tags": [
-              "Workflow Orchestration",
-              "Data Extraction (IDP)",
-              "System Integrations",
-              "Human-in-the-loop QA",
-              "Monitoring & Alerting"
-            ],
-            "title": "Automate Complex Operations With Precision"
-          },
-          "hiddenSections": [],
-          "longform": [
-            {
-              "id": "auto-end-to-end",
-              "paragraphs": [
-                "We start with an operational discovery to find the workflows costing you the most manual effort, then design automation pipelines with human-in-the-loop checkpoints so quality never drops as volume grows.",
-                "We work in weekly sprints and demo working automation every week, so you can validate behavior on real cases before it touches production volume."
-              ],
-              "title": "AI automation services, end to end"
-            },
-            {
-              "id": "auto-timeline-cost",
-              "paragraphs": [
-                "A focused first workflow typically rolls out in 6–10 weeks, with cost depending on the number of systems it touches and how much data extraction is involved."
-              ],
-              "title": "Automation rollout: timeline and cost"
-            },
-            {
-              "id": "auto-hire-team",
-              "paragraphs": [
-                "A fixed-price engagement suits one clearly scoped workflow. A dedicated automation team suits organizations automating multiple processes across departments over time."
-              ],
-              "title": "Fixed-price project or a dedicated automation team"
-            },
-            {
-              "id": "auto-integrations",
-              "paragraphs": [
-                "Automation is only useful if it talks to the systems you already run on. We integrate with ERPs, CRMs, helpdesks and internal tools via API, so automated steps update the same records your team already trusts."
-              ],
-              "title": "Integrating with your ERP, CRM and internal tools"
+              "ctaLabel": "Get a Free Estimate"
             }
-          ],
-          "meta": {
-            "documentTitle": "AI Automation Services | Databiqs"
           },
-          "process": {
-            "ctaLabel": "Book a Free 30-Min Consultation",
-            "ctaTo": "/book-consultation",
-            "kicker": "How we work",
-            "steps": [
+          "whatWeBuild": {
+            "kicker": "What we build",
+            "title": "From manual workflows to resilient automation pipelines",
+            "side": "One team covers process discovery, orchestration, integrations and monitoring.",
+            "cards": [
               {
-                "desc": "Identify automation-ready workflows and constraints.",
-                "num": "01",
-                "title": "Operational discovery",
-                "week": "Week 1"
+                "icon": "workflow",
+                "title": "Workflow orchestration",
+                "desc": "Rule + AI powered pipelines that coordinate multi-step business processes."
               },
               {
-                "desc": "Workflow engineering with human-in-the-loop checkpoints you approve.",
-                "num": "02",
-                "title": "Pipeline design",
-                "week": "Weeks 2–3"
+                "icon": "file",
+                "title": "Data extraction (IDP)",
+                "desc": "Pull structured data from documents, emails and forms automatically."
               },
               {
-                "desc": "Senior engineers ship in weekly sprints, with a live demo every Friday.",
-                "num": "03",
-                "title": "Build & integrate",
-                "week": "Weeks 4–8"
+                "icon": "plug",
+                "title": "System integrations",
+                "desc": "Connect ERPs, CRMs and internal tools into one automated flow."
               },
               {
-                "desc": "Monitoring, alerting and iterative tuning for long-term performance.",
-                "num": "04",
-                "title": "Monitor & tune",
-                "week": "Ongoing"
+                "icon": "shieldCheck",
+                "title": "Human-in-the-loop checkpoints",
+                "desc": "Quality gates where a person reviews before high-stakes actions."
+              },
+              {
+                "icon": "search",
+                "title": "Monitoring & alerting",
+                "desc": "Catch failures and drift before they become operational incidents."
+              },
+              {
+                "icon": "cloud",
+                "title": "Cloud-native deployment",
+                "desc": "Scalable infrastructure on AWS with CI/CD and observability."
               }
-            ],
-            "title": "A clear process, with a demo every week"
+            ]
           },
-          "related": {
-            "items": [
+          "whyDatabiqs": {
+            "kicker": "Why Databiqs",
+            "title": "Why operations teams choose Databiqs for automation",
+            "cards": [
               {
-                "desc": "Conversational AI for support and sales",
-                "icon": "message",
-                "title": "AI Chatbots",
-                "to": "/services/ai-chatbots"
+                "icon": "bolt",
+                "title": "Built for throughput",
+                "desc": "Automation designed around your actual bottlenecks, not generic templates."
               },
               {
-                "desc": "Predictive models trained on your data",
-                "icon": "chip",
-                "title": "Machine Learning",
-                "to": "/services/machine-learning"
+                "icon": "layers",
+                "title": "One team, full stack",
+                "desc": "Process discovery, engineering and monitoring — no hand-offs."
               },
               {
-                "desc": "30 minutes with a senior engineer",
-                "icon": "calendar",
-                "title": "Free consultation",
-                "to": "/book-consultation"
+                "icon": "users",
+                "title": "Scales with you",
+                "desc": "Start with one workflow, expand to a dedicated automation team."
+              },
+              {
+                "icon": "code",
+                "title": "Clean, owned code",
+                "desc": "Tested, documented pipelines you keep in your own infrastructure."
               }
-            ],
-            "kicker": "Related services",
-            "title": "Explore more ways we can help"
-          },
-          "techStack": {
-            "items": [
-              {
-                "logoKey": "python",
-                "name": "Python"
-              },
-              {
-                "logoKey": "nodejs",
-                "name": "Node.js"
-              },
-              {
-                "logoKey": "postgresql",
-                "name": "PostgreSQL"
-              },
-              {
-                "logoKey": "aws",
-                "name": "AWS"
-              },
-              {
-                "logoKey": "docker",
-                "name": "Docker"
-              }
-            ],
-            "kicker": "Tech stack",
-            "title": "Built on tools that scale"
+            ]
           },
           "toc": {
-            "cardCtaLabel": "Book a call",
-            "cardCtaTo": "/book-consultation",
-            "cardDesc": "Free 30-minute call, fixed quote after.",
-            "cardTitle": "Need a quote?",
             "eyebrow": "On this page",
             "items": [
               {
@@ -3610,214 +3327,6 @@
                 "id": "auto-integrations",
                 "label": "Integrating with your ERP, CRM and internal tools"
               }
-            ]
-          },
-          "whatWeBuild": {
-            "cards": [
-              {
-                "desc": "Rule + AI powered pipelines that coordinate multi-step business processes.",
-                "icon": "workflow",
-                "title": "Workflow orchestration"
-              },
-              {
-                "desc": "Pull structured data from documents, emails and forms automatically.",
-                "icon": "file",
-                "title": "Data extraction (IDP)"
-              },
-              {
-                "desc": "Connect ERPs, CRMs and internal tools into one automated flow.",
-                "icon": "plug",
-                "title": "System integrations"
-              },
-              {
-                "desc": "Quality gates where a person reviews before high-stakes actions.",
-                "icon": "shieldCheck",
-                "title": "Human-in-the-loop checkpoints"
-              },
-              {
-                "desc": "Catch failures and drift before they become operational incidents.",
-                "icon": "search",
-                "title": "Monitoring & alerting"
-              },
-              {
-                "desc": "Scalable infrastructure on AWS with CI/CD and observability.",
-                "icon": "cloud",
-                "title": "Cloud-native deployment"
-              }
-            ],
-            "kicker": "What we build",
-            "side": "One team covers process discovery, orchestration, integrations and monitoring.",
-            "title": "From manual workflows to resilient automation pipelines"
-          },
-          "whyDatabiqs": {
-            "cards": [
-              {
-                "desc": "Automation designed around your actual bottlenecks, not generic templates.",
-                "icon": "bolt",
-                "title": "Built for throughput"
-              },
-              {
-                "desc": "Process discovery, engineering and monitoring — no hand-offs.",
-                "icon": "layers",
-                "title": "One team, full stack"
-              },
-              {
-                "desc": "Start with one workflow, expand to a dedicated automation team.",
-                "icon": "users",
-                "title": "Scales with you"
-              },
-              {
-                "desc": "Tested, documented pipelines you keep in your own infrastructure.",
-                "icon": "code",
-                "title": "Clean, owned code"
-              }
-            ],
-            "kicker": "Why Databiqs",
-            "title": "Why operations teams choose Databiqs for automation"
-          }
-        },
-        "slug": "ai-automation",
-        "styles": {},
-        "title": "AI Automation",
-        "updatedAt": "2026-10-01T16:57:19.868Z"
-      },
-      "ai-chatbots": {
-        "slug": "ai-chatbots",
-        "title": "AI Chatbots That Convert And Retain",
-        "data": {
-          "meta": {
-            "documentTitle": "AI Chatbot Development Services | Databiqs"
-          },
-          "hiddenSections": [],
-          "cardPreview": {
-            "icon": "bot",
-            "shortDescription": "Build custom conversational AI chatbots that understand context, resolve complex customer queries, provide 24/7 support, and integrate with your CRM and business systems.",
-            "features": [
-              "Conversational AI",
-              "Customer Support Automation",
-              "CRM Integration"
-            ]
-          },
-          "hero": {
-            "kicker": "Conversational AI",
-            "breadcrumbCurrent": "AI Chatbots",
-            "title": "AI Chatbots That Convert And Retain",
-            "lead": "We design AI chatbot systems that feel human, resolve complex customer queries, provide 24/7 support, and integrate directly with your CRM and business systems — tailored to your brand voice and outcomes.",
-            "primaryCtaLabel": "Book a Free 30-Min Consultation",
-            "primaryCtaTo": "/book-consultation",
-            "secondaryCtaLabel": "See case studies",
-            "secondaryCtaTo": "/case-studies",
-            "tags": [
-              "Conversational AI",
-              "Customer Support Automation",
-              "CRM Integration",
-              "Lead Qualification",
-              "24/7 Coverage"
-            ],
-            "glance": {
-              "statusLabel": "Taking new projects",
-              "rows": [
-                {
-                  "icon": "clock",
-                  "label": "Launch timeline",
-                  "value": "[4–8] weeks"
-                },
-                {
-                  "icon": "users",
-                  "label": "Engagement",
-                  "value": "Fixed price · Dedicated team"
-                },
-                {
-                  "icon": "shield",
-                  "label": "Confidentiality",
-                  "value": "NDA on request"
-                }
-              ],
-              "ctaLabel": "Get a Free Estimate"
-            }
-          },
-          "whatWeBuild": {
-            "kicker": "What we build",
-            "title": "Conversations that resolve, qualify and convert",
-            "side": "One team covers conversation design, model training, integrations and analytics.",
-            "cards": [
-              {
-                "icon": "message",
-                "title": "Conversational AI",
-                "desc": "Chatbots that understand context and intent, not just keywords."
-              },
-              {
-                "icon": "bot",
-                "title": "Customer support automation",
-                "desc": "Resolve repetitive queries instantly while escalating complex ones to humans."
-              },
-              {
-                "icon": "plug",
-                "title": "CRM & helpdesk integration",
-                "desc": "Connect to Salesforce, HubSpot, Zendesk and your internal tools."
-              },
-              {
-                "icon": "target",
-                "title": "Lead qualification",
-                "desc": "Intent-driven flows that qualify and route leads to sales in real time."
-              },
-              {
-                "icon": "shieldCheck",
-                "title": "Guardrails & safety",
-                "desc": "Scoped responses, escalation paths and human-in-the-loop review."
-              },
-              {
-                "icon": "chip",
-                "title": "Multi-channel deployment",
-                "desc": "Web, WhatsApp, Slack and mobile, from a single conversation engine."
-              }
-            ]
-          },
-          "whyDatabiqs": {
-            "kicker": "Why Databiqs",
-            "title": "Why teams choose Databiqs for AI chatbots",
-            "cards": [
-              {
-                "icon": "brain",
-                "title": "Context-aware by design",
-                "desc": "Chatbots that remember the conversation, not just the last message."
-              },
-              {
-                "icon": "layers",
-                "title": "One team, full stack",
-                "desc": "Conversation design, model training and integrations — no hand-offs."
-              },
-              {
-                "icon": "users",
-                "title": "Scales with you",
-                "desc": "Start fixed-price, move to a dedicated team as usage grows."
-              },
-              {
-                "icon": "code",
-                "title": "Clean, owned code",
-                "desc": "Tested, documented integrations you keep in your own repositories."
-              }
-            ]
-          },
-          "toc": {
-            "eyebrow": "On this page",
-            "items": [
-              {
-                "id": "chat-end-to-end",
-                "label": "AI chatbot development, end to end"
-              },
-              {
-                "id": "chat-timeline-cost",
-                "label": "Chatbot launch: timeline and cost"
-              },
-              {
-                "id": "chat-hire-team",
-                "label": "Fixed-price build or a dedicated AI team"
-              },
-              {
-                "id": "chat-integrations",
-                "label": "CRM, helpdesk and channel integrations"
-              }
             ],
             "cardTitle": "Need a quote?",
             "cardDesc": "Free 30-minute call, fixed quote after.",
@@ -3826,32 +3335,32 @@
           },
           "longform": [
             {
-              "id": "chat-end-to-end",
-              "title": "AI chatbot development, end to end",
+              "id": "auto-end-to-end",
+              "title": "AI automation services, end to end",
               "paragraphs": [
-                "We design the conversation first — intents, edge cases and escalation paths — then train and integrate the model around that design, so the chatbot behaves predictably in production, not just in a demo.",
-                "Every chatbot ships with analytics on intent coverage and resolution rate, so you can see exactly where it helps and where it still needs a human."
+                "We start with an operational discovery to find the workflows costing you the most manual effort, then design automation pipelines with human-in-the-loop checkpoints so quality never drops as volume grows.",
+                "We work in weekly sprints and demo working automation every week, so you can validate behavior on real cases before it touches production volume."
               ]
             },
             {
-              "id": "chat-timeline-cost",
-              "title": "Chatbot launch: timeline and cost",
+              "id": "auto-timeline-cost",
+              "title": "Automation rollout: timeline and cost",
               "paragraphs": [
-                "A focused support or lead-qualification chatbot typically launches in 4–8 weeks, with cost depending on the number of intents, integrations and languages required."
+                "A focused first workflow typically rolls out in 6–10 weeks, with cost depending on the number of systems it touches and how much data extraction is involved."
               ]
             },
             {
-              "id": "chat-hire-team",
-              "title": "Fixed-price build or a dedicated AI team",
+              "id": "auto-hire-team",
+              "title": "Fixed-price project or a dedicated automation team",
               "paragraphs": [
-                "A fixed-price engagement suits a clearly scoped first chatbot. A dedicated team suits products where conversational AI keeps expanding — new intents, new channels, new integrations — month after month."
+                "A fixed-price engagement suits one clearly scoped workflow. A dedicated automation team suits organizations automating multiple processes across departments over time."
               ]
             },
             {
-              "id": "chat-integrations",
-              "title": "CRM, helpdesk and channel integrations",
+              "id": "auto-integrations",
+              "title": "Integrating with your ERP, CRM and internal tools",
               "paragraphs": [
-                "We connect chatbots to the systems your team already uses — CRM, helpdesk, booking and billing — so conversations turn into logged, actionable records instead of a separate silo."
+                "Automation is only useful if it talks to the systems you already run on. We integrate with ERPs, CRMs, helpdesks and internal tools via API, so automated steps update the same records your team already trusts."
               ]
             }
           ],
@@ -3864,26 +3373,26 @@
               {
                 "num": "01",
                 "week": "Week 1",
-                "title": "Discovery",
-                "desc": "Map intents, customer journeys and systems to integrate with."
+                "title": "Operational discovery",
+                "desc": "Identify automation-ready workflows and constraints."
               },
               {
                 "num": "02",
                 "week": "Weeks 2–3",
-                "title": "Conversation design",
-                "desc": "Flows, guardrails and escalation paths you review before training."
+                "title": "Pipeline design",
+                "desc": "Workflow engineering with human-in-the-loop checkpoints you approve."
               },
               {
                 "num": "03",
-                "week": "Weeks 4–6",
-                "title": "Build & train",
-                "desc": "Model training and integrations, with a live demo every Friday."
+                "week": "Weeks 4–8",
+                "title": "Build & integrate",
+                "desc": "Senior engineers ship in weekly sprints, with a live demo every Friday."
               },
               {
                 "num": "04",
                 "week": "Ongoing",
-                "title": "Launch & tune",
-                "desc": "Launch, monitor intent coverage and keep improving resolution rate."
+                "title": "Monitor & tune",
+                "desc": "Monitoring, alerting and iterative tuning for long-term performance."
               }
             ]
           },
@@ -3915,23 +3424,23 @@
           },
           "caseStudy": {
             "kicker": "Featured case study",
-            "imageSrc": "/uploads/461c4476d3244b8293a9624897fa2cec-2-ai-chatbots-aria.png",
-            "imageAlt": "Aria Support Assistant chatbot answering an order-status question",
-            "projectName": "Aria Support Assistant",
-            "meta": "AI Chatbot · LLM + CRM Integration",
-            "sub": "Online fashion retailer, 40-person team, name withheld under NDA.",
+            "imageSrc": "/uploads/7fcf19da46b74bcfb47bf7c603ddecf2-3-ai-automation-docflow.png",
+            "imageAlt": "DocFlow dashboard showing automated invoice processing",
+            "projectName": "DocFlow",
+            "meta": "AI Automation · Document AI + ERP Integration",
+            "sub": "Logistics company, 200+ employees, name withheld under NDA.",
             "challengeLabel": "Challenge",
-            "challengeText": "A small support team couldn't keep up with order-status and returns questions, so customers waited hours for replies, especially at night and on weekends.",
+            "challengeText": "The accounts team typed hundreds of supplier invoices into the ERP by hand each week, which was slow and led to errors found only at month-end.",
             "solutionLabel": "What we built",
-            "solutionText": "A customer-support chatbot connected to the CRM and order system, so it answers with each customer's real order, tracking and address data, and hands complex cases to a human agent. Launched in 6 weeks.",
+            "solutionText": "An intelligent document processing pipeline that reads invoices from email, extracts and validates fields against purchase orders, and posts them to the ERP. Staff only review low-confidence fields. Delivered in 8 weeks.",
             "results": [
               {
-                "value": "68%",
-                "label": "chats resolved without an agent"
+                "value": "12 min → 40 sec",
+                "label": "processing time per invoice"
               },
               {
-                "value": "24/7",
-                "label": "support coverage, replies in under 10 seconds"
+                "value": "160 hrs",
+                "label": "of manual data entry saved every month"
               }
             ],
             "linkLabel": "Read the full case study",
@@ -3945,7 +3454,7 @@
               {
                 "icon": "file",
                 "title": "Fixed-price project",
-                "desc": "A defined chatbot scope with a fixed quote after a free 30-minute call.",
+                "desc": "One defined workflow automated end to end, with a fixed quote after a free call.",
                 "bullets": [
                   "Fixed scope and timeline",
                   "Weekly demos",
@@ -3956,10 +3465,10 @@
               },
               {
                 "icon": "users",
-                "title": "Dedicated AI team",
-                "desc": "Senior engineers who keep expanding your conversational AI, billed monthly.",
+                "title": "Dedicated automation team",
+                "desc": "Senior engineers who keep automating processes across departments, billed monthly.",
                 "bullets": [
-                  "New intents and channels",
+                  "New workflows added over time",
                   "Works in your tools",
                   "Monthly billing"
                 ],
@@ -3969,7 +3478,7 @@
               {
                 "icon": "clock",
                 "title": "Hourly",
-                "desc": "For audits, tuning and ongoing support after launch.",
+                "desc": "For audits, tuning and ongoing support after rollout.",
                 "bullets": [
                   "No minimum commitment",
                   "Transparent time logs",
@@ -3988,28 +3497,28 @@
             "ctaTo": "/book-consultation",
             "items": [
               {
-                "question": "How much does an AI chatbot cost?",
-                "answer": "Cost depends on the number of intents, integrations and channels involved, there's no one-size price. You get a fixed quote after a free 30-minute call, once we've scoped exactly what you need."
+                "question": "How much does AI automation cost?",
+                "answer": "Cost depends on the number of systems involved and how much data extraction is needed, there's no one-size price. You get a fixed quote after a free call, once we've scoped exactly what you need."
               },
               {
-                "question": "Will it integrate with our CRM or helpdesk?",
-                "answer": "Yes — we regularly integrate with Salesforce, HubSpot, Zendesk and most CRMs and helpdesks with an API."
+                "question": "What kinds of workflows can you automate?",
+                "answer": "Document processing, approvals, data entry between systems, reporting and most repetitive multi-step operational workflows."
               },
               {
-                "question": "How fast can you start?",
-                "answer": "Most engagements kick off within [1–2] weeks of the discovery call, once intents and scope are signed off."
+                "question": "How do you keep quality high as volume scales?",
+                "answer": "Human-in-the-loop checkpoints review high-stakes or low-confidence cases, with monitoring and alerting to catch drift early."
               },
               {
                 "question": "Fixed price or dedicated team — which is right for me?",
-                "answer": "Choose fixed price for a clearly scoped first chatbot. Choose a dedicated team if your conversational AI will keep growing after launch."
+                "answer": "Choose fixed price for one clearly scoped workflow. Choose a dedicated team if you plan to automate multiple processes over time."
               },
               {
-                "question": "Who owns the code and the trained flows?",
-                "answer": "You do. All code, conversation flows and documentation are handed over and live in your own repositories."
+                "question": "Who owns the automation pipelines?",
+                "answer": "You do. All code, infrastructure and documentation are handed over and live in your own environment."
               },
               {
-                "question": "Can it support multiple languages?",
-                "answer": "Yes — multi-language support is scoped during discovery and reflected in the timeline and quote."
+                "question": "How fast can you start?",
+                "answer": "Most engagements kick off within [1–2] weeks of the discovery call, once scope is signed off."
               }
             ]
           },
@@ -4018,10 +3527,10 @@
             "title": "Explore more ways we can help",
             "items": [
               {
-                "icon": "workflow",
-                "title": "AI Automation",
-                "desc": "Workflow orchestration and process automation",
-                "to": "/services/ai-automation"
+                "icon": "message",
+                "title": "AI Chatbots",
+                "desc": "Conversational AI for support and sales",
+                "to": "/services/ai-chatbots"
               },
               {
                 "icon": "chip",
@@ -4044,37 +3553,37 @@
             "allTo": "/blog-page",
             "posts": [
               {
-                "tag": "Chatbots",
-                "cover": "Chatbot ROI",
-                "imageSrc": "/uploads/5bf804715a86461cbdea214b8f663e44-chatbot_dashboard.png",
-                "title": "How to measure chatbot ROI",
-                "to": "/blog/how-to-measure-chatbot-roi",
+                "tag": "Automation",
+                "cover": "process automation ROI",
+                "imageSrc": "/uploads/456f3e6bf6634e3f98e2c601790d0501-automation_workflow.png",
+                "title": "How to prioritize workflows for automation",
+                "to": "/blog/how-to-prioritize-workflows-for-automation",
                 "readTime": "8 min read",
                 "linkLabel": "Read the guide"
               },
               {
-                "tag": "CX",
-                "cover": "support automation",
-                "imageSrc": "/service-chat.png",
-                "title": "When to automate customer support",
-                "to": "/blog/when-to-automate-customer-support",
-                "readTime": "7 min read",
+                "tag": "Operations",
+                "cover": "IDP basics",
+                "imageSrc": "/service-crm.png",
+                "title": "Intelligent document processing, explained",
+                "to": "/blog/intelligent-document-processing-explained",
+                "readTime": "9 min read",
                 "linkLabel": "Read the guide"
               },
               {
                 "tag": "AI",
-                "cover": "conversation design",
-                "imageSrc": "/uploads/2a7c51a6d0774bacb603c6eca4fb3fc6-abstract_ai.png",
-                "title": "Conversation design basics for AI chatbots",
-                "to": "/blog/conversation-design-basics-for-ai-chatbots",
-                "readTime": "8 min read",
+                "cover": "human in the loop",
+                "imageSrc": "/uploads/1053e3eeaec54e93ad389e6b973ef2f0-case-study-phase-prediction.jpg",
+                "title": "Why human-in-the-loop still matters",
+                "to": "/blog/why-human-in-the-loop-still-matters",
+                "readTime": "7 min read",
                 "linkLabel": "Read the guide"
               }
             ]
           },
           "finalCta": {
             "kicker": "Start a project",
-            "title": "Plan your AI chatbot with us",
+            "title": "Plan your automation rollout with us",
             "lead": "Share a few details and a senior engineer will reply within 24 hours.",
             "bullets": [
               "Fixed quote after a free 30-minute call",
@@ -4174,6 +3683,501 @@
         },
         "styles": {},
         "createdAt": "2026-10-01T16:57:19.868Z",
+        "updatedAt": "2026-10-10T00:55:24.656Z"
+      },
+      "ai-chatbots": {
+        "createdAt": "2026-10-01T16:57:19.868Z",
+        "data": {
+          "blog": {
+            "allLabel": "All articles",
+            "allTo": "/blog-page",
+            "kicker": "From the blog",
+            "posts": [
+              {
+                "cover": "Chatbot ROI",
+                "imageSrc": "/uploads/5bf804715a86461cbdea214b8f663e44-chatbot_dashboard.png",
+                "linkLabel": "Read the guide",
+                "readTime": "8 min read",
+                "tag": "Chatbots",
+                "title": "How to measure chatbot ROI",
+                "to": "/blog/how-to-measure-chatbot-roi"
+              },
+              {
+                "cover": "support automation",
+                "imageSrc": "/service-chat.png",
+                "linkLabel": "Read the guide",
+                "readTime": "7 min read",
+                "tag": "CX",
+                "title": "When to automate customer support",
+                "to": "/blog/when-to-automate-customer-support"
+              },
+              {
+                "cover": "conversation design",
+                "imageSrc": "/uploads/2a7c51a6d0774bacb603c6eca4fb3fc6-abstract_ai.png",
+                "linkLabel": "Read the guide",
+                "readTime": "8 min read",
+                "tag": "AI",
+                "title": "Conversation design basics for AI chatbots",
+                "to": "/blog/conversation-design-basics-for-ai-chatbots"
+              }
+            ],
+            "title": "Guides and answers"
+          },
+          "cardPreview": {
+            "features": [
+              "Conversational AI",
+              "Customer Support Automation",
+              "CRM Integration"
+            ],
+            "icon": "bot",
+            "shortDescription": "Build custom conversational AI chatbots that understand context, resolve complex customer queries, provide 24/7 support, and integrate with your CRM and business systems."
+          },
+          "caseStudy": {
+            "challengeLabel": "Challenge",
+            "challengeText": "A small support team couldn't keep up with order-status and returns questions, so customers waited hours for replies, especially at night and on weekends.",
+            "imageAlt": "Aria Support Assistant chatbot answering an order-status question",
+            "imageSrc": "/uploads/461c4476d3244b8293a9624897fa2cec-2-ai-chatbots-aria.png",
+            "kicker": "Featured case study",
+            "linkLabel": "Read the full case study",
+            "linkTo": "/case-studies",
+            "meta": "AI Chatbot · LLM + CRM Integration",
+            "projectName": "Aria Support Assistant",
+            "results": [
+              {
+                "label": "chats resolved without an agent",
+                "value": "68%"
+              },
+              {
+                "label": "support coverage, replies in under 10 seconds",
+                "value": "24/7"
+              }
+            ],
+            "solutionLabel": "What we built",
+            "solutionText": "A customer-support chatbot connected to the CRM and order system, so it answers with each customer's real order, tracking and address data, and hands complex cases to a human agent. Launched in 6 weeks.",
+            "sub": "Online fashion retailer, 40-person team, name withheld under NDA."
+          },
+          "engagement": {
+            "kicker": "Engagement models",
+            "noteText": "Fixed price or dedicated team, you choose",
+            "tiers": [
+              {
+                "bullets": [
+                  "Fixed scope and timeline",
+                  "Weekly demos",
+                  "Pay by milestone"
+                ],
+                "desc": "A defined chatbot scope with a fixed quote after a free 30-minute call.",
+                "highlight": false,
+                "icon": "file",
+                "tag": "",
+                "title": "Fixed-price project"
+              },
+              {
+                "bullets": [
+                  "New intents and channels",
+                  "Works in your tools",
+                  "Monthly billing"
+                ],
+                "desc": "Senior engineers who keep expanding your conversational AI, billed monthly.",
+                "highlight": true,
+                "icon": "users",
+                "tag": "Scale with us",
+                "title": "Dedicated AI team"
+              },
+              {
+                "bullets": [
+                  "No minimum commitment",
+                  "Transparent time logs",
+                  "Senior engineers only"
+                ],
+                "desc": "For audits, tuning and ongoing support after launch.",
+                "highlight": false,
+                "icon": "clock",
+                "tag": "",
+                "title": "Hourly"
+              }
+            ],
+            "title": "Pick how you want to work with us"
+          },
+          "faq": {
+            "ctaLabel": "Book a Free 30-Min Consultation",
+            "ctaTo": "/book-consultation",
+            "items": [
+              {
+                "answer": "Cost depends on the number of intents, integrations and channels involved, there's no one-size price. You get a fixed quote after a free 30-minute call, once we've scoped exactly what you need.",
+                "question": "How much does an AI chatbot cost?"
+              },
+              {
+                "answer": "Yes — we regularly integrate with Salesforce, HubSpot, Zendesk and most CRMs and helpdesks with an API.",
+                "question": "Will it integrate with our CRM or helpdesk?"
+              },
+              {
+                "answer": "Most engagements kick off within [1–2] weeks of the discovery call, once intents and scope are signed off.",
+                "question": "How fast can you start?"
+              },
+              {
+                "answer": "Choose fixed price for a clearly scoped first chatbot. Choose a dedicated team if your conversational AI will keep growing after launch.",
+                "question": "Fixed price or dedicated team — which is right for me?"
+              },
+              {
+                "answer": "You do. All code, conversation flows and documentation are handed over and live in your own repositories.",
+                "question": "Who owns the code and the trained flows?"
+              },
+              {
+                "answer": "Yes — multi-language support is scoped during discovery and reflected in the timeline and quote.",
+                "question": "Can it support multiple languages?"
+              }
+            ],
+            "kicker": "FAQ",
+            "lead": "Still have a question? Ask us directly on a free 30-minute call.",
+            "title": "Questions, answered"
+          },
+          "finalCta": {
+            "bullets": [
+              "Fixed quote after a free 30-minute call",
+              "NDA on request",
+              "You own 100% of the code"
+            ],
+            "form": {
+              "badgeText": "Senior engineer reviews every request",
+              "fields": [
+                {
+                  "key": "fullName",
+                  "label": "Full name",
+                  "placeholder": "Jane Smith",
+                  "required": true,
+                  "type": "text"
+                },
+                {
+                  "key": "email",
+                  "label": "Work email",
+                  "placeholder": "jane@company.com",
+                  "required": true,
+                  "type": "email"
+                },
+                {
+                  "key": "company",
+                  "label": "Company name",
+                  "placeholder": "Company Inc.",
+                  "required": false,
+                  "type": "text"
+                },
+                {
+                  "key": "phone",
+                  "label": "Phone number",
+                  "placeholder": "+1 555 000 0000",
+                  "required": false,
+                  "type": "tel"
+                },
+                {
+                  "key": "services",
+                  "label": "Services",
+                  "options": [
+                    {
+                      "label": "Full-Stack & SaaS Development",
+                      "value": "Full-Stack & SaaS Development"
+                    },
+                    {
+                      "label": "AI Chatbots",
+                      "value": "AI Chatbots"
+                    },
+                    {
+                      "label": "AI Automation",
+                      "value": "AI Automation"
+                    },
+                    {
+                      "label": "Machine Learning",
+                      "value": "Machine Learning"
+                    },
+                    {
+                      "label": "AI Consulting",
+                      "value": "AI Consulting"
+                    },
+                    {
+                      "label": "Mobile App Development",
+                      "value": "Mobile App Development"
+                    },
+                    {
+                      "label": "Digital Marketing",
+                      "value": "Digital Marketing"
+                    },
+                    {
+                      "label": "Graphic Designing",
+                      "value": "Graphic Designing"
+                    },
+                    {
+                      "label": "UI/UX Designing",
+                      "value": "UI/UX Designing"
+                    },
+                    {
+                      "label": "Web Development",
+                      "value": "Not sure yet"
+                    },
+                    {
+                      "label": "Not sure yet",
+                      "value": "option-11"
+                    }
+                  ],
+                  "required": false,
+                  "type": "select"
+                }
+              ],
+              "privacyText": "Your details stay confidential and are never shared or sold. NDA available on request.",
+              "sub": "Tell us a little about your project. We reply within 24 hours.",
+              "submitLabel": "Get my free estimate",
+              "title": "Get a free project estimate"
+            },
+            "kicker": "Start a project",
+            "lead": "Share a few details and a senior engineer will reply within 24 hours.",
+            "title": "Plan your AI chatbot with us"
+          },
+          "hero": {
+            "breadcrumbCurrent": "AI Chatbots",
+            "glance": {
+              "ctaLabel": "Get a Free Estimate",
+              "rows": [
+                {
+                  "icon": "clock",
+                  "label": "Launch timeline",
+                  "value": "[4–8] weeks"
+                },
+                {
+                  "icon": "users",
+                  "label": "Engagement",
+                  "value": "Fixed price · Dedicated team"
+                },
+                {
+                  "icon": "shield",
+                  "label": "Confidentiality",
+                  "value": "NDA on request"
+                }
+              ],
+              "statusLabel": "Taking new projects"
+            },
+            "kicker": "Conversational AI",
+            "lead": "We design AI chatbot systems that feel human, resolve complex customer queries, provide 24/7 support, and integrate directly with your CRM and business systems — tailored to your brand voice and outcomes.",
+            "primaryCtaLabel": "Book a Free 30-Min Consultation",
+            "primaryCtaTo": "/book-consultation",
+            "secondaryCtaLabel": "See case studies",
+            "secondaryCtaTo": "/case-studies",
+            "tags": [
+              "Conversational AI",
+              "Customer Support Automation",
+              "CRM Integration",
+              "Lead Qualification",
+              "24/7 Coverage"
+            ],
+            "title": "AI Chatbots That Convert And Retain"
+          },
+          "hiddenSections": [],
+          "longform": [
+            {
+              "id": "chat-end-to-end",
+              "paragraphs": [
+                "We design the conversation first — intents, edge cases and escalation paths — then train and integrate the model around that design, so the chatbot behaves predictably in production, not just in a demo.",
+                "Every chatbot ships with analytics on intent coverage and resolution rate, so you can see exactly where it helps and where it still needs a human."
+              ],
+              "title": "AI chatbot development, end to end"
+            },
+            {
+              "id": "chat-timeline-cost",
+              "paragraphs": [
+                "A focused support or lead-qualification chatbot typically launches in 4–8 weeks, with cost depending on the number of intents, integrations and languages required."
+              ],
+              "title": "Chatbot launch: timeline and cost"
+            },
+            {
+              "id": "chat-hire-team",
+              "paragraphs": [
+                "A fixed-price engagement suits a clearly scoped first chatbot. A dedicated team suits products where conversational AI keeps expanding — new intents, new channels, new integrations — month after month."
+              ],
+              "title": "Fixed-price build or a dedicated AI team"
+            },
+            {
+              "id": "chat-integrations",
+              "paragraphs": [
+                "We connect chatbots to the systems your team already uses — CRM, helpdesk, booking and billing — so conversations turn into logged, actionable records instead of a separate silo."
+              ],
+              "title": "CRM, helpdesk and channel integrations"
+            }
+          ],
+          "meta": {
+            "documentTitle": "AI Chatbot Development Services | Databiqs"
+          },
+          "process": {
+            "ctaLabel": "Book a Free 30-Min Consultation",
+            "ctaTo": "/book-consultation",
+            "kicker": "How we work",
+            "steps": [
+              {
+                "desc": "Map intents, customer journeys and systems to integrate with.",
+                "num": "01",
+                "title": "Discovery",
+                "week": "Week 1"
+              },
+              {
+                "desc": "Flows, guardrails and escalation paths you review before training.",
+                "num": "02",
+                "title": "Conversation design",
+                "week": "Weeks 2–3"
+              },
+              {
+                "desc": "Model training and integrations, with a live demo every Friday.",
+                "num": "03",
+                "title": "Build & train",
+                "week": "Weeks 4–6"
+              },
+              {
+                "desc": "Launch, monitor intent coverage and keep improving resolution rate.",
+                "num": "04",
+                "title": "Launch & tune",
+                "week": "Ongoing"
+              }
+            ],
+            "title": "A clear process, with a demo every week"
+          },
+          "related": {
+            "items": [
+              {
+                "desc": "Workflow orchestration and process automation",
+                "icon": "workflow",
+                "title": "AI Automation",
+                "to": "/services/ai-automation"
+              },
+              {
+                "desc": "Predictive models trained on your data",
+                "icon": "chip",
+                "title": "Machine Learning",
+                "to": "/services/machine-learning"
+              },
+              {
+                "desc": "30 minutes with a senior engineer",
+                "icon": "calendar",
+                "title": "Free consultation",
+                "to": "/book-consultation"
+              }
+            ],
+            "kicker": "Related services",
+            "title": "Explore more ways we can help"
+          },
+          "techStack": {
+            "items": [
+              {
+                "logoKey": "python",
+                "name": "Python"
+              },
+              {
+                "logoKey": "nodejs",
+                "name": "Node.js"
+              },
+              {
+                "logoKey": "postgresql",
+                "name": "PostgreSQL"
+              },
+              {
+                "logoKey": "aws",
+                "name": "AWS"
+              },
+              {
+                "logoKey": "docker",
+                "name": "Docker"
+              }
+            ],
+            "kicker": "Tech stack",
+            "title": "Built on tools that scale"
+          },
+          "toc": {
+            "cardCtaLabel": "Book a call",
+            "cardCtaTo": "/book-consultation",
+            "cardDesc": "Free 30-minute call, fixed quote after.",
+            "cardTitle": "Need a quote?",
+            "eyebrow": "On this page",
+            "items": [
+              {
+                "id": "chat-end-to-end",
+                "label": "AI chatbot development, end to end"
+              },
+              {
+                "id": "chat-timeline-cost",
+                "label": "Chatbot launch: timeline and cost"
+              },
+              {
+                "id": "chat-hire-team",
+                "label": "Fixed-price build or a dedicated AI team"
+              },
+              {
+                "id": "chat-integrations",
+                "label": "CRM, helpdesk and channel integrations"
+              }
+            ]
+          },
+          "whatWeBuild": {
+            "cards": [
+              {
+                "desc": "Chatbots that understand context and intent, not just keywords.",
+                "icon": "message",
+                "title": "Conversational AI"
+              },
+              {
+                "desc": "Resolve repetitive queries instantly while escalating complex ones to humans.",
+                "icon": "bot",
+                "title": "Customer support automation"
+              },
+              {
+                "desc": "Connect to Salesforce, HubSpot, Zendesk and your internal tools.",
+                "icon": "plug",
+                "title": "CRM & helpdesk integration"
+              },
+              {
+                "desc": "Intent-driven flows that qualify and route leads to sales in real time.",
+                "icon": "target",
+                "title": "Lead qualification"
+              },
+              {
+                "desc": "Scoped responses, escalation paths and human-in-the-loop review.",
+                "icon": "shieldCheck",
+                "title": "Guardrails & safety"
+              },
+              {
+                "desc": "Web, WhatsApp, Slack and mobile, from a single conversation engine.",
+                "icon": "chip",
+                "title": "Multi-channel deployment"
+              }
+            ],
+            "kicker": "What we build",
+            "side": "One team covers conversation design, model training, integrations and analytics.",
+            "title": "Conversations that resolve, qualify and convert"
+          },
+          "whyDatabiqs": {
+            "cards": [
+              {
+                "desc": "Chatbots that remember the conversation, not just the last message.",
+                "icon": "brain",
+                "title": "Context-aware by design"
+              },
+              {
+                "desc": "Conversation design, model training and integrations — no hand-offs.",
+                "icon": "layers",
+                "title": "One team, full stack"
+              },
+              {
+                "desc": "Start fixed-price, move to a dedicated team as usage grows.",
+                "icon": "users",
+                "title": "Scales with you"
+              },
+              {
+                "desc": "Tested, documented integrations you keep in your own repositories.",
+                "icon": "code",
+                "title": "Clean, owned code"
+              }
+            ],
+            "kicker": "Why Databiqs",
+            "title": "Why teams choose Databiqs for AI chatbots"
+          }
+        },
+        "slug": "ai-chatbots",
+        "styles": {},
+        "title": "AI Chatbots That Convert And Retain",
         "updatedAt": "2026-10-10T00:54:54.137Z"
       },
       "ai-consulting": {
@@ -6994,5 +6998,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-10T00:54:56.235Z"
+  "updatedAt": "2026-10-10T00:55:26.050Z"
 }
