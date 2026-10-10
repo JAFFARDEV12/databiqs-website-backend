@@ -3178,7 +3178,7 @@
         "createdAt": "2026-10-10T00:31:09.790Z",
         "slug": "web-development",
         "title": "Custom Website Development Services",
-        "updatedAt": "2026-10-10T00:41:58.095Z"
+        "updatedAt": "2026-10-10T00:43:44.786Z"
       }
     ],
     "pages": {
@@ -5665,7 +5665,8 @@
           },
           "hiddenSections": [
             "caseStudy",
-            "blog"
+            "blog",
+            "longform"
           ],
           "cardPreview": {
             "icon": "layers",
@@ -6165,7 +6166,7 @@
         },
         "styles": {},
         "createdAt": "2026-10-10T00:31:09.790Z",
-        "updatedAt": "2026-10-10T00:41:58.095Z"
+        "updatedAt": "2026-10-10T00:43:44.786Z"
       }
     }
   },
@@ -6973,5 +6974,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-10T00:41:59.245Z"
+  "updatedAt": "2026-10-10T00:43:45.954Z"
 }
