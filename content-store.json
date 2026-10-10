@@ -3178,7 +3178,7 @@
         "createdAt": "2026-10-10T00:31:09.790Z",
         "slug": "web-development",
         "title": "Custom Website Development Services",
-        "updatedAt": "2026-10-10T00:39:45.516Z"
+        "updatedAt": "2026-10-10T00:41:58.095Z"
       }
     ],
     "pages": {
@@ -5758,22 +5758,22 @@
           },
           "whyDatabiqs": {
             "kicker": "Why Databiqs",
-            "title": "Why startups choose Databiqs as their MVP development company",
+            "title": "Why businesses choose Databiqs as their web development company",
             "cards": [
               {
                 "icon": "wrench",
-                "title": "Launch in weeks",
-                "desc": "A focused first version in front of real users, fast."
+                "title": "Senior developers",
+                "desc": "Experienced engineers design and build your site from start to finish."
               },
               {
                 "icon": "layers",
-                "title": "One full-stack team",
-                "desc": "Design, front end, back end and cloud, no hand-offs."
+                "title": "Design and build in one team",
+                "desc": "UI design, front end, back end and launch, with no hand-offs."
               },
               {
                 "icon": "users",
-                "title": "Scale the team",
-                "desc": "Move from fixed price to a dedicated team when you're ready."
+                "title": "Built for speed and SEO",
+                "desc": "Fast, mobile-first pages that search engines can read and rank."
               },
               {
                 "icon": "code",
@@ -5810,31 +5810,31 @@
           "longform": [
             {
               "id": "fsd-end-to-end",
-              "title": "Full-stack development services, end to end",
+              "title": "Web development services, end to end",
               "paragraphs": [
-                "One team owns the whole product: database, APIs, front end, cloud and testing. That means fewer hand-offs, faster decisions and one point of contact for you.",
-                "We work in weekly sprints and show you working software every week, so you can change direction early instead of after launch."
+                "One team owns the whole website: design, front end, back end, hosting setup and launch. You get one point of contact and a clear plan from the first call.",
+                "We work in weekly sprints and show you working pages every week, so you can give feedback early and avoid surprises at launch."
               ]
             },
             {
               "id": "fsd-timeline-cost",
-              "title": "MVP development: timeline and cost",
+              "title": "How much does a custom website cost?",
               "paragraphs": [
-                "An MVP should be small, not throwaway. We cut scope to the features that prove your idea, but build them on an architecture that can take more users and features later. Most MVPs take [8–12] weeks and cost USD [X]–[Y]."
+                "Cost depends on the number of pages, custom features and integrations. A focused business website costs far less than a web app with logins and payments. After a free 30-minute call we send a fixed quote, so you know the price before work starts."
               ]
             },
             {
               "id": "fsd-hire-team",
-              "title": "Hire full-stack developers or a dedicated development team",
+              "title": "Website or web app: which do you need?",
               "paragraphs": [
-                "A fixed-price project suits a clear first version. A dedicated development team suits SaaS products that keep evolving. You hire full-stack developers, React developers or Node.js developers who stay with you month after month."
+                "A website explains your business and brings in enquiries. A web app lets users log in and get things done, like booking, paying or managing data. Many projects start as a website and add app features later."
               ]
             },
             {
               "id": "fsd-react-stack",
-              "title": "React, Next.js and Node.js development",
+              "title": "React and Next.js development",
               "paragraphs": [
-                "As a React development company and Next.js development agency, we build fast, accessible interfaces. On the back end we use Node.js and Python with PostgreSQL, deployed on AWS with CI/CD, backups and monitoring."
+                "We build on React and Next.js for fast page loads, strong SEO and easy scaling. For back ends and integrations we use Node.js, Python and PostgreSQL, hosted on AWS."
               ]
             }
           ],
@@ -5983,8 +5983,8 @@
             "ctaTo": "/book-consultation",
             "items": [
               {
-                "question": "How much does MVP development cost?",
-                "answer": "Most MVPs we build cost between USD [X] and USD [Y], depending on features, integrations and platforms. You get a fixed quote after a free 30-minute call."
+                "question": "How much does a custom website cost?",
+                "answer": "It depends on the number of pages, custom features and integrations. You get a fixed quote after a free 30-minute call, before any work starts."
               },
               {
                 "question": "Can I hire full-stack developers or React developers monthly?",
@@ -6069,7 +6069,7 @@
           },
           "finalCta": {
             "kicker": "Start a project",
-            "title": "Plan your MVP or SaaS product with us",
+            "title": "Plan your website or web app with us",
             "lead": "Share a few details and a senior engineer will reply within 24 hours.",
             "bullets": [
               "Fixed quote after a free 30-minute call",
@@ -6165,7 +6165,7 @@
         },
         "styles": {},
         "createdAt": "2026-10-10T00:31:09.790Z",
-        "updatedAt": "2026-10-10T00:39:45.516Z"
+        "updatedAt": "2026-10-10T00:41:58.095Z"
       }
     }
   },
@@ -6973,5 +6973,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-10T00:39:46.660Z"
+  "updatedAt": "2026-10-10T00:41:59.245Z"
 }
