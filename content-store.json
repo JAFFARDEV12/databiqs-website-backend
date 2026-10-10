@@ -2736,22 +2736,22 @@
   },
   "caseStudiesPage": {
     "data": {
-      "ctaBanner": {
-        "ctaLabel": "Book a Consultation",
-        "ctaTo": "/book-consultation",
-        "subtitle": "Schedule a free 30-minute strategy call with one of our senior architects.",
-        "title": "See how this works for your business"
-      },
-      "hero": {
-        "description": "From predictive operations to customer-facing AI, we ship systems that hold up in production - measurable latency, clear ROI, and teams that actually adopt them.",
-        "headlineAccent": "real businesses test",
-        "headlinePrefix": "Real results for"
-      },
       "hiddenSections": [],
+      "hero": {
+        "headlinePrefix": "Real results for",
+        "headlineAccent": "real businessesreal businesses test",
+        "description": "From predictive operations to customer-facing AI, we ship systems that hold up in production - measurable latency, clear ROI, and teams that actually adopt them."
+      },
       "proof": {
-        "description": "Explore how teams across industries use Databiqs to turn complex data and workflows into reliable, human-centered AI outcomes.",
+        "headlinePrefix": "Proof in the",
         "headlineAccent": "numbers",
-        "headlinePrefix": "Proof in the"
+        "description": "Explore how teams across industries use Databiqs to turn complex data and workflows into reliable, human-centered AI outcomes."
+      },
+      "ctaBanner": {
+        "title": "See how this works for your business",
+        "subtitle": "Schedule a free 30-minute strategy call with one of our senior architects.",
+        "ctaLabel": "Book a Consultation",
+        "ctaTo": "/book-consultation"
       }
     },
     "styles": {},
