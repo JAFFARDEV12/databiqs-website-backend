@@ -6714,8 +6714,8 @@
         "lede": "Custom AI solutions, websites and full-stack web apps that automate workflows, win customers and scale with your business. From strategy to launch, Databiqs delivers AI chatbots, automation, machine learning, custom websites and SaaS products."
       },
       "pipeline": {
-        "eyebrow": "END-TO-END AI DEVELOPMENT PROCESS",
-        "titleLine": "From AI Strategy to",
+        "eyebrow": "END-TO-END DEVELOPMENT PROCESS",
+        "titleLine": "From Strategy to",
         "titleAccent": "Production-Ready Solutions",
         "steps": [
           {
@@ -6738,7 +6738,7 @@
       },
       "coreCapabilities": {
         "title": "CORE CAPABILITIES",
-        "subtitle": "Specialized intelligence modules engineered for enterprise scale and precision. Each solution is tailored to your unique business needs."
+        "subtitle": "AI, web and full-stack services built for production. Each solution is tailored to your business needs."
       }
     },
     "styles": {},
@@ -6986,5 +6986,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-10T00:51:17.560Z"
+  "updatedAt": "2026-10-10T00:51:35.242Z"
 }
