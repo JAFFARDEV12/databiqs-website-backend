@@ -6872,7 +6872,7 @@
       "hero": {
         "pill": "Contact us",
         "title": "Let's start a conversation",
-        "lead": "Whether you are exploring AI automation, custom software, or a strategic partnership, tell us what you need - we read every message and respond as soon as we can.",
+        "lead": "Whether you need an AI solution, a new website or a full-stack web app, tell us what you're building. We read every message and reply within 24 hours.",
         "metaPrefix": "Prefer the consultation flow?",
         "metaLinkLabel": "Book a consultation",
         "metaLinkTo": "/book-consultation"
@@ -6883,7 +6883,7 @@
             "key": "name",
             "label": "Your name",
             "placeholder": "Jane Doe",
-            "required": false,
+            "required": true,
             "type": "text"
           },
           {
@@ -6913,24 +6913,32 @@
             "label": "Which service are you interested in?",
             "options": [
               {
-                "label": "AI Chatbots",
+                "label": "Web Development",
                 "value": "AI Chatbots"
               },
               {
-                "label": "AI Workflow Automation",
+                "label": "Full-Stack & SaaS Development",
                 "value": "AI Workflow Automation"
               },
               {
-                "label": "Machine Learning",
+                "label": "AI Chatbots",
                 "value": "Machine Learning"
               },
               {
-                "label": "AI Consulting",
+                "label": "AI Workflow Automation",
                 "value": "AI Consulting"
               },
               {
-                "label": "Other",
+                "label": "Machine Learning",
                 "value": "Other"
+              },
+              {
+                "value": "option-6",
+                "label": "AI Consulting"
+              },
+              {
+                "value": "option-7",
+                "label": "Other"
               }
             ],
             "required": false,
@@ -6976,7 +6984,7 @@
       }
     },
     "styles": {},
-    "updatedAt": "2026-10-01T18:55:26.727Z"
+    "updatedAt": "2026-10-10T00:50:12.518Z"
   },
   "updatedAt": "2026-10-10T00:46:19.855Z"
 }
