@@ -3060,7 +3060,7 @@
         ],
         "rightHeadingLine1": "We Don't Just Build Technology",
         "rightHeadingLine2": "We Engineer Business Outcomes",
-        "rightDescription": "Every Engagement Starts With Understanding Your Desired Outcome, Then Reverse-Engineers The Technology To Match. We Stay Until Results Are Proven.",
+        "rightDescription": "Every engagement starts with your desired outcome, then we reverse-engineer the technology to match. We stay until the results are proven.",
         "differentiators": [
           "Architecture-First Thinking - No Shortcuts",
           "Production-Grade AI, Not Demoware",
@@ -3072,7 +3072,7 @@
       "howDatabiqs": {
         "headingPrefix": "How",
         "headingAccent": "Databiqs",
-        "headingSuffix": "can help?",
+        "headingSuffix": "helps",
         "description": "We move AI out of the lab and into production. Our strategic approach ensures that complex technological systems are architected for scale, deeply integrated into your workflows, and designed to deliver measurable business impact.",
         "cards": [
           {
@@ -6456,5 +6456,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-10T00:27:06.052Z"
+  "updatedAt": "2026-10-10T00:27:17.042Z"
 }
